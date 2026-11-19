@@ -1,0 +1,388 @@
+# VF — chaînes d'interface (2e police : menus des objets/pellicules, fiches, album, boutiques,
+# duels, saisie du nom). Lu par tools/interface.py, PAS par les dialogues.
+# « @BLOC » puis UNE ligne par chaîne, dans l'ordre (liste japonaise : tools/interface.py --out).
+# « _ » = case vide. Une option commence là où le japonais a « _ » puis du texte : le curseur
+# s'affiche dans ce « _ » -> garder le « _ » et le début de l'option à la même position.
+# Ligne plus courte que le japonais = complétée par des cases vides. Plus longue = bloc relogé.
+# {F8} = flèche de l'onglet actif, {7B} = ／, ¥ = yen.
+# Glossaire : アイテム = Sac (onglet) / Objets, フィルム = Film(s), だいじ(なもの) = Clés,
+# みる = Vue / Voir, つかう = Util / Jouer (duel), すてる = Jeter, ほぞん = Garde,
+# いれかえ = Place(r), ぞくせい = Élément, ようりょく = Yôryoku, れいりょく = Esprit, はやさ = Vitesse,
+# ようかいかんど = Flair, さつえいのうりょく = Technique, しょじきん / おかね = Argent.
+
+# --- menu Sac / Film / Clés ---
+@0F5E6
+{F8}Sac___Film__Clés
+Argent__¥
+@0F609
+{F8}Sac___Film__Clés
+_Vue_Util_Jeter
+@0F630
+_Sac___Film_{F8}Clés
+Argent__¥
+@0F653
+_Sac___Film_{F8}Clés
+_Vue
+@0F670
+Jeter ?___Oui_Non
+@100F6
+_Sac__{F8}Film__Clés
+_________________
+Argent__¥
+@1012F
+_Vue__Garde_Album_
+_Jeter
+@1015C
+_Vue__Place_Album_
+_Jeter
+@10189
+_Vue__Album
+_Jeter
+@101B6
+_Album
+_________________
+
+# --- fiche d'un yôkai (valeurs en colonne 7-8 : libellés courts) ---
+@101F0
+_Sac__{F8}Film__Clés
+Nom
+Élém.
+Niv.
+Film___Album
+Yôryo.
+Esprit
+Vitesse
+Placer ?__Oui_Non
+@10260
+__________________
+Jeter ?___Oui_Non
+@3FA6B
+Nom
+Élém.
+Niv.
+Film___Album
+Yôryo.
+Esprit
+Vitesse
+Placer ?__Oui_Non
+
+# --- fiche du joueur ---
+@10751
+Niv.
+Expérience
+Esprit______{7B}
+Flair_______{7B}
+Technique___{7B}
+Argent
+
+# --- saisie du nom (la grille est dans lang.py) ---
+@10FD4
+Nom
+Région
+@11114
+Hokkaidô_Tôhoku
+Kantô____Hokuriku
+Chûbu____Kinki
+Chûgoku__Shikoku
+Kyûshû
+@11165
+Valider_Oui_Non
+
+# --- album ---
+@1170F
+Nom
+Élément
+Niveau
+Région
+Lieu
+Heure
+Yôryoku
+Esprit
+Vitesse
+
+# --- boutiques, billets ---
+@11E39
+Objets
+Argent__¥
+@11E50
+Acheter?_Oui_Non
+@11E65
+Sac plein !
+@11E76
+Pas assez d'argent
+@11E85
+Boîte pleine !
+@1226E
+Vendre ?_Oui_Non_
+@12840
+Films
+Argent__¥
+@12D6B
+Tarifs
+Argent__¥
+@12D85
+Partir ?_Oui_Non_
+@12D9B
+Pas assez d'argent
+
+# --- duels photo ---
+@14953
+_Sac
+@1495D
+_Sac
+_Vue_Util
+@14FB7
+Quelle classe ?
+Niveau 2__¥1000
+Niveau 4__¥2000
+Niveau 6__¥4000
+Niveau 8__¥8000
+Niveau 10_¥10000
+Niveau 12_¥20000
+Illimité__¥50000
+Argent__¥
+@15066
+Jouer ?___Oui_Non
+@1507C
+Trop peu de photos
+@1547C
+Quelle classe ?
+Niveau 2
+Niveau 4
+Niveau 6
+Niveau 8
+Niveau 10
+Niveau 12
+Illimité_
+@154F7
+Patientez…
+@15507
+Jouer ?___Oui_Non
+@1551D
+Trop peu de photos
+@1552C
+Rival : trop peu
+@1553F
+Aucun n'a assez
+@15CEA
+Quel yôkai ?
+@15CFF
+Voir
+Jouer
+@15D0E
+C'est bon ?
+Oui
+Non
+____________
+_____________
+_____________
+_____________
+_____________
+_____________
+_____________
+_____________
+_____________
+
+# --- menus en cadre (police des dialogues ; « _ » = espace ; lettres différentes <= 16) ---
+# menu B : さつえい / アイテム / アルバム / しらべる
+@MENU D99E
+Photo
+Sac
+Album
+Voir
+# しらべる -> じぶん / まわり
+@MENU DA9E
+Moi
+Ici
+# boutique : かう / うる / やめる
+@MENU DB66
+Achat
+Vente
+Fin
+@MENU DC32
+Vente
+Fin
+# auberge : とまる / きろく / やめる (きろく = sauvegarde = « noter », comme Mizuki)
+@MENU DCF6
+Nuit
+Noter
+Fin
+# auberge : りょうきんは [prix] です / よろしいですか？ / はい / いいえ (21 tuiles max)
+@MENU DDC8
+Prix :
+_¥
+D'accord ?
+Oui
+Non
+@MENU DFBA
+Noter la partie ?
+Oui
+Non
+# のる / やめる
+@MENU E12E
+Aller
+Fin
+# する / やめる
+@MENU E1F2
+Faire
+Fin
+# やすむ / きろく / やめる
+@MENU E2B6
+Repos
+Noter
+Fin
+# duels : もどる / アイテム / やめる (10 lettres au total)
+@MENU 141AB
+Ret.
+Sac
+Fin
+
+# --- chaînes brutes ---
+# ありません (aucun objet / aucun yôkai), 2 copies
+@RAW 0F42C
+Rien
+@RAW 0F472
+Rien
+# état d'une pellicule : あき (vide) / さつえいずみ (déjà prise) / みしよう (neuve)
+@RAW 10471
+Vide
+@RAW 10474
+Prise
+@RAW 1047B
+Neuve
+
+# --- duels photo : messages (police d'interface, colonne 2, 17 car./ligne, 3 lignes) ---
+# {F6} = yôkai, {F8} = joueur, {F4}/{F5} = objet, {FC} = nombre, {FD} = somme, « ~ » = ligne vide.
+# Commandes : こうげき Attaque, ぼうぎょ Défense, ようりょく Yôryoku, いれかえ Changer (comme les dialogues).
+# Copie A (contre l'ordinateur)
+@RAW 374B4
+Le premier qui
+abat 2 photos
+adverses gagne.
+@RAW 374CE
+Photo abattue :
+plus d'attaque,
+mais Changer ok.
+@RAW 374F8
+Bonne chance !
+@RAW 37547
+_Attaque__Défense
+~
+_Yôryoku__Changer
+@RAW 37566
+{F6}
+change de place.
+@RAW 37573
+{F6}
+se défend.
+@RAW 3757F
+{F6}
+attaque !
+@RAW 37588
+{F6}
+subit {FC} dégâts
+@RAW 37597
+{F6}
+rate son coup !
+@RAW 375A8
+{F6}
+est abattu !
+@RAW 375B0
+{F6}
+attaque yôryoku !
+@RAW 375BE
+Terminé !
+@RAW 375C6
+{F8}
+gagne le duel !
+@RAW 375D2
+{F8}
+perd le duel...
+@RAW 375E2
+Prime :
+¥_{FD} gagnés !
+@RAW 375F2
+{F8} obtient
+{F5} !
+@RAW 375FD
+{F8} obtient
+{F4} !
+@RAW 37608
+{F8} note un
+yôkai rare dans
+son album !
+# Copie B (duel par câble)
+@RAW 3E725
+Le premier qui
+abat 2 photos
+adverses gagne.
+@RAW 3E73F
+Photo abattue :
+plus d'attaque,
+mais Changer ok.
+@RAW 3E769
+Bonne chance !
+@RAW 3E7B8
+_Attaque__Défense
+~
+_Yôryoku__Changer
+@RAW 3E7D7
+{F6}
+change de place.
+@RAW 3E7E4
+{F6}
+se défend.
+@RAW 3E7F0
+{F6}
+attaque !
+@RAW 3E7F9
+{F6}
+subit {FC} dégâts
+@RAW 3E808
+{F6}
+rate son coup !
+@RAW 3E819
+{F6}
+est abattu !
+@RAW 3E821
+{F6}
+attaque yôryoku !
+@RAW 3E82F
+Terminé !
+@RAW 3E837
+{F8}
+gagne le duel !
+@RAW 3E843
+{F8}
+perd le duel...
+@RAW 3E863
+{F8} obtient
+{F5} !
+@RAW 3E86E
+{F8} obtient
+{F4} !
+@RAW 3E879
+{F8} note un
+yôkai rare dans
+son album !
+@RAW 3E893
+{F6}
+photo obtenue !
+_Garde_Fin
+@RAW 3E8AD
+{F6}
+photo obtenue !
+_Place_Fin
+@RAW 3E8C7
+Continuer ?
+_Oui_Non
+@RAW 3E8D8
+Continuer ?
+_Oui_Non
+Patientez…
+@RAW 3E8F5
+{F6}
+photo prise par
+l'adversaire !
+@RAW 3E904
+Patientez…

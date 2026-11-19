@@ -1,7 +1,8 @@
 # Mizuki Shigeru no Youkai Shashinkan — traduction française
 
 **Le Studio Photo des Yôkai de Shigeru Mizuki** (Neo Geo Pocket Color, SNK, 1999), entièrement
-en français : dialogues, menus, objets, les 120 fiches de yôkai, écran titre et police latine redessinés.
+en français : dialogues, menus, fenêtres (objets, fiches, album, boutiques, duels photo, saisie du
+nom), les 120 fiches de yôkai, écran titre, et les deux polices du jeu redessinées en latin.
 
 <p align="center">
   <img src="screenshots/titre.png" alt="Écran titre en français" width="320">
@@ -17,7 +18,7 @@ en français : dialogues, menus, objets, les 120 fiches de yôkai, écran titre 
 
 ## 1.1 Ce qu'il vous faut
 
-Le patch : `patch/Mizuki_Shigeru_no_Youkai_Shashinkan_FR_v1.0.ips`.
+Le patch : `patch/Mizuki_Shigeru_no_Youkai_Shashinkan_FR_v1.1.ips`.
 
 **Votre propre** copie de la cartouche japonaise, non modifiée et sans en-tête. Aucune ROM n'est
 fournie ici. Vérifiez-la :
@@ -51,7 +52,7 @@ Mizuki Shigeru no Youkai Shashinkan (Japan).ips
 ```
 
 Remarques :
-- **NgpCraft Emulator** : vérifié avec ce patch (la ROM obtenue en mémoire a le CRC32 `3E9C4177`).
+- **NgpCraft Emulator** : vérifié avec ce patch (la ROM obtenue en mémoire a le CRC32 `B7CFADEF`).
   Un message confirme le patch au lancement. La ROM patchée étant en lecture seule, la sauvegarde
   va dans un fichier `.flash` à côté du jeu. Si le jeu est dans un `.zip`, le patch se pose à côté
   du `.zip` et porte le nom de la ROM qu'il contient.
@@ -71,7 +72,7 @@ fabriquez une fois pour toutes une ROM patchée :
 - ou avec l'outil fourni (Python 3) :
 
   ```
-  python tools/ips.py apply "Mizuki Shigeru no Youkai Shashinkan (Japan).ngc" patch/Mizuki_Shigeru_no_Youkai_Shashinkan_FR_v1.0.ips Mizuki_FR.ngc
+  python tools/ips.py apply "Mizuki Shigeru no Youkai Shashinkan (Japan).ngc" patch/Mizuki_Shigeru_no_Youkai_Shashinkan_FR_v1.1.ips Mizuki_FR.ngc
   ```
 
 La ROM obtenue doit avoir ces empreintes :
@@ -79,22 +80,27 @@ La ROM obtenue doit avoir ces empreintes :
 | | ROM française obtenue |
 |---|---|
 | Taille | 2 097 152 octets (inchangée) |
-| CRC32 | `3E9C4177` |
-| SHA-1 | `ea2d96e368be4ff25d9e370bb671816fcf146a7e` |
+| CRC32 | `B7CFADEF` |
+| SHA-1 | `cd4bb9ed427405c55ccdcb05d5146349c314d624` |
 
 Elle fonctionne sur émulateur comme sur console.
 
-## 1.4 Points pas encore contrôlés à l'écran (v1.0)
+## 1.4 Points pas encore contrôlés à l'écran (v1.1)
 
-Tout le texte est traduit et la ROM a été vérifiée automatiquement. Ces écrans n'ont toutefois
-pas pu être regardés en jeu ; un retour est bienvenu s'ils débordent :
-- l'**album** et la séance photo (noms de yôkai jusqu'à 15 caractères, fiches à 17 par ligne) ;
-- le **distributeur de billets** (noms de destination jusqu'à 11 caractères) ;
-- le **menu des objets** (« Talisman Flamme », 15 caractères) ;
-- les **menus Oui/Non** (longueurs gardées identiques au japonais) ;
-- le nom du joueur, dont la source n'a pas été étudiée.
+Tout le texte est traduit et la ROM a été vérifiée automatiquement. Ont été regardés en jeu :
+l'intro, l'écran titre, la **saisie du nom** et de la région, le menu B (Photo / Sac / Album / Voir)
+et la fenêtre des objets. Ces écrans n'ont pas pu être atteints ; un retour est bienvenu
+s'ils débordent :
+- l'**album**, les **fiches** de yôkai et du joueur, la séance photo ;
+- les **duels photo** (messages, commandes, classes) ;
+- les **boutiques**, l'**auberge** et le **distributeur de billets** ;
+- le menu des objets avec des objets dedans (« Talisman Flamme », 15 caractères).
 
 La mention de copyright de l'écran titre (une image) est restée en japonais.
+
+**Nouveau en v1.1** : la saisie du nom (grille latine, minuscules / majuscules), les régions,
+et toutes les fenêtres d'interface (objets, pellicules, fiches, album, boutiques, auberge, duels)
+traduites ; « É » ajouté ; « û » redessiné (il se lisait « Q »).
 
 ## 1.5 Mentions
 
@@ -134,14 +140,19 @@ pointers, font, title logo) and refuse to build while a rule is broken.
    - `MENU`: the 4 title-menu entries (limited widths: 32, 40, 32 and 48 pixels; the tool tells
      you if a word does not fit);
    - `EXTRA_GLYPHS`: letters missing from the font (ñ, ü, ß, ã…), drawn as 5×8 bitmaps;
-   - `DESTINATIONS`: city names shown by the ticket machine.
-3. **Build a reference script** (Japanese + French under each block) from *your own* ROM:
+   - `DESTINATIONS`: city names shown by the ticket machine;
+   - `NAME_GRID` / `NAME_BUTTONS`: the letters offered on the name-entry screen (2 pages of
+     6×15) and the label of the page-switch button;
+   - `REGION_TABLE` / `PLACE_TABLE`: region and place names (8 characters max).
+3. **Build reference scripts** (Japanese + French under each block) from *your own* ROM:
    ```
-   python tools/extract.py --rom GAME.ngc --out script_ja_fr.txt --ref fr
+   python tools/extract.py   --rom GAME.ngc --out script_ja_fr.txt    --ref fr
+   python tools/interface.py --rom GAME.ngc --out interface_ja_fr.txt --ref fr
    ```
    The Japanese script is not distributed (it is the game's text): everyone extracts it from
    their own cartridge.
 4. **Translate** the `.txt` files in `lang/<code>/`, replacing the French lines. See the rules below.
+   `interface.txt` holds the window texts (menus, sheets, shops, duels) and has its own rules (2.4).
 5. **Regenerate** the automatic files:
    ```
    python tools/tarifs.py   --rom GAME.ngc --lang <code>
@@ -180,8 +191,8 @@ Tu es tenace !{FF}
 - **Cursor menus** (`menus.txt`): spaces mark the cursor slots. Keep the lengths **exactly**.
 - Digits `0-9` are available; `{79}` = ¥, `{7D}`/`{7E}` = A/B buttons.
 - Characters available out of the box:
-  `a-z A-Z é è ê ë à â ù û î ï ô ç œ Ç ' : ; … ( ) , . « » - ? !`.
-  No accented capitals except Ç: add what you need through `EXTRA_GLYPHS`.
+  `a-z A-Z é è ê ë à â ù û î ï ô ç œ Ç É ' : ; … ( ) , . « » - ? !`.
+  No other accented capitals: add what you need through `EXTRA_GLYPHS` (they go in both fonts).
 
 `build.py` checks everything (structure identical to the Japanese, widths, characters, chained
 messages) and lists **all** errors at once.
@@ -191,7 +202,26 @@ that character. Villagers' rumours are **hints** (place, time of day, terrain): 
 The French glossary is at the top of the text files and in `FORMAT.md`; the speaker names and
 the comments in the French files explain the context of each scene.
 
-## 2.4 Credits and legal
+## 2.4 Interface file rules (`interface.txt`)
+
+Window texts are drawn at **fixed positions**, so the rules differ from dialogues
+(`interface_ja_fr.txt` above gives, for each line, its column, row and length):
+
+- `@XXXXX` blocks (item/film menus, sheets, album, shops, duels): **one line per string**, in order.
+  `_` = empty cell. A menu option starts where the Japanese has `_` followed by text: the cursor
+  is drawn in that `_`, so keep the `_` and the start of the option **at the same position**.
+  Shorter lines are padded; longer ones are allowed (the block is moved elsewhere) as long as they
+  stay on screen. `{F8}` = active-tab arrow, `{7B}` = ／, `¥` = yen.
+- `@MENU XXXX` (framed menus using the dialogue font): one line per word; the extractor gives the
+  room available for each. Each **different** letter uses a tile: 16 per menu at most
+  (21 for `@MENU DDC8`, 10 letters in total for `@MENU 141AB`).
+- `@RAW XXXXX` (short strings and photo-duel messages): one line per screen line, `~` = empty line;
+  in duels 17 characters and 3 lines max, `{F6}` = yôkai, `{F8}` = player, `{F4}`/`{F5}` = item,
+  `{FC}` = number, `{FD}` = amount.
+
+`build.py` checks positions, widths, letter counts and lists all errors at once.
+
+## 2.5 Credits and legal
 - French translation, Latin font, logo and tools: **Tixul**, released under the **MIT License**
   (see `LICENSE`): you may reuse, modify and redistribute them, keeping the copyright notice.
 - *Mizuki Shigeru no Youkai Shashinkan* © 1999 SNK / Mizuki Productions. This fan project is not

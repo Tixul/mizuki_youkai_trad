@@ -14,6 +14,7 @@ import argparse
 import os
 import struct
 import sys
+sys.dont_write_bytecode = True   # pas de __pycache__ (chemin complet du PC)
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)

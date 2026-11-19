@@ -7,6 +7,7 @@ Le patch ne contient QUE les octets modifiés (aucune plage d'octets d'origine n
 les zones identiques ne sont jamais fusionnées dans un enregistrement).
 """
 import sys
+sys.dont_write_bytecode = True   # pas de __pycache__ (chemin complet du PC)
 
 MAX = 0xFFFF
 

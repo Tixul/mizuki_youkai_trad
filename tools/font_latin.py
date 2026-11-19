@@ -8,7 +8,7 @@ lignes 2-6. Accents : lignes 0-1. Jambages (g j p q y ç) : ligne 7.
 
 CODES : on réutilise les cases des kana (le texte traduit n'en a plus besoin).
   0x00-0x19 a-z | 0x1A-0x26 accents | 0x27-0x2C ponctuation | 0x40-0x59 A-Z
-  0x5A Ç | 0x37 , | 0x38 . | 0x3A espace | 0x3B « | 0x3C » | 0x3F - | 0x77 ? | 0x78 !
+  0x5A Ç | 0x2D É | 0x37 , | 0x38 . | 0x3A espace | 0x3B « | 0x3C » | 0x3F - | 0x77 ? | 0x78 !
   0xA0-0xA9 chiffres : on GARDE ceux du jeu.
 """
 
@@ -49,6 +49,7 @@ g('X', '#...#', '#...#', '.#.#.', '..#..', '.#.#.', '#...#', '#...#')
 g('Y', '#...#', '#...#', '.#.#.', '..#..', '..#..', '..#..', '..#..')
 g('Z', '#####', '....#', '...#.', '..#..', '.#...', '#....', '#####')
 g('Ç', '.###.', '#...#', '#....', '#....', '#....', '#...#', '.###.', '..#..')
+g('É', '...#.', '#####', '#....', '####.', '#....', '#....', '#####')
 
 # --- bas de casse (x = lignes 2-6) ---
 X = '.....'
@@ -93,7 +94,8 @@ G['ë'] = accent('e', X, '.#.#.')
 G['à'] = accent('a', '.#...', '..#..')
 G['â'] = accent('a', '..#..', '.#.#.')
 G['ù'] = accent('u', '.#...', '..#..')
-G['û'] = accent('u', '..#..', '.#.#.')
+# û : corps du u raccourci d'une ligne, sinon l'accent touche les branches et ça se lit « Q ».
+G['û'] = ['..#..', '.#.#.', '.....', '#...#', '#...#', '#..##', '.##.#', '.....']
 G['ô'] = accent('o', '..#..', '.#.#.')
 _i = ['.....', '.....', '.##..', '..#..', '..#..', '..#..', '.###.', '.....']
 G['î'] = ['..#..', '.#.#.'] + _i[2:]
@@ -127,7 +129,7 @@ for i, c in enumerate("':;…()"):
     CODE[c] = 0x27 + i
 for i, c in enumerate('ABCDEFGHIJKLMNOPQRSTUVWXYZ'):
     CODE[c] = 0x40 + i
-CODE.update({'Ç': 0x5A, ',': 0x37, '.': 0x38, ' ': 0x3A, '«': 0x3B, '»': 0x3C,
+CODE.update({'Ç': 0x5A, 'É': 0x2D, ',': 0x37, '.': 0x38, ' ': 0x3A, '«': 0x3B, '»': 0x3C,
              '-': 0x3F, '?': 0x77, '!': 0x78})
 DIGITS = {str(i): 0xA0 + i for i in range(10)}   # glyphes d'origine conservés
 assert len(set(CODE.values())) == len(CODE)

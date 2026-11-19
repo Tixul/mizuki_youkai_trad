@@ -18,10 +18,13 @@ import struct
 import sys
 import zlib
 
+sys.dont_write_bytecode = True   # pas de __pycache__ : il contiendrait le chemin complet du PC
+
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 import font_latin as font    # noqa: E402
 import gfx_title             # noqa: E402
+import interface             # noqa: E402
 import ips                   # noqa: E402
 
 ROOT = os.path.dirname(HERE)
@@ -55,7 +58,9 @@ def load_lang(code):
 
 
 def lang_files(d):
-    return sorted(glob.glob(os.path.join(d, '*.txt')))
+    """Fichiers de dialogues (interface.txt = chaînes d'interface, lu par interface.py)."""
+    return sorted(p for p in glob.glob(os.path.join(d, '*.txt'))
+                  if os.path.basename(p) != 'interface.txt')
 
 
 def pointer_tables(rom):
@@ -255,6 +260,9 @@ def main():
     gfx_title.apply_eyes(rom)
     nu, nb, np_, where, encoded = apply_text(rom, lang_files(d))
     verify(rom, encoded, where)
+    ui_in, ui_moved, ui_bytes = interface.apply(rom, lang, d, ERRORS)
+    if ERRORS:
+        raise SystemExit('\n'.join(ERRORS) + f'\n{len(ERRORS)} erreur(s)')
 
     out = a.out or os.path.join(ROOT, 'out', a.lang + '.ngc')
     os.makedirs(os.path.dirname(os.path.abspath(out)), exist_ok=True)
@@ -262,6 +270,7 @@ def main():
     open(out + '.tmp', 'wb').write(rom)
     os.replace(out + '.tmp', out)
     print(f'logo : {ntiles}+{nfresh} tuiles | texte : {nu} messages, {nb} octets, {np_} pointeurs')
+    print(f'interface : {ui_in} blocs sur place, {ui_moved} relogés, {ui_bytes} octets en 0x{interface.UI_FREE:X}')
     print('ROM :', out, '| CRC32 %08X' % zlib.crc32(rom), '| SHA-1', hashlib.sha1(rom).hexdigest())
     if a.ips:
         p = os.path.splitext(out)[0] + '.ips'
