@@ -79,7 +79,7 @@ Tout ce qui n'est pas dans la boîte de dialogue. Le texte est hors de la zone `
   `(d % 40) // 2`. `F1` = case vide ; le curseur s'affiche dans la case vide **avant** une option.
   42 blocs, référencés par `lda reg,(adr)` (`F2 lo mi hi 3x`) ou par un pointeur 32 bits ;
   un bloc trop long est relogé en `0x1F8000` et ses références réécrites.
-- **Saisie du nom** : cases sélectionnables `0x10F17` (page 1) / `0x10F75` (page 2), 90 codes
+- **Saisie du nom** : cases sélectionnables `0x10F16` (page 1) / `0x10F75` (page 2), 90 codes
   (6×15) + 5 boutons ; affichage `0x10FE6` / `0x1107D`. Nom en RAM `0x5C97` (6 octets, complété
   par `9A`), affiché tel quel dans les dialogues (`{F2}`). Case vide = `9A`.
 - **Tables à largeur fixe**, passées de 6 à 8 caractères et relogées : régions `0x1118D` (11) et

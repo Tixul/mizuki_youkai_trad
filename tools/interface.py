@@ -40,7 +40,7 @@ BLOCKS = [0x0F5E6, 0x0F609, 0x0F630, 0x0F653, 0x0F670, 0x100F6, 0x1012F, 0x1015C
           0x1552C, 0x1553F, 0x15CEA, 0x15CFF, 0x15D0E, 0x3FA6B]
 
 # Saisie du nom : codes des cases (90 = 6 lignes x 15) + 5 boutons, une table par page.
-GRID_SEL = (0x10F17, 0x10F75)
+GRID_SEL = (0x10F16, 0x10F75)
 GRID_SHOW = (0x10FE6, 0x1107D)      # mêmes cases, affichées (6 lignes « 5 _ 5 _ 5 »)
 GRID_EMPTY = 0x9A                   # case vide (le jeu remplit aussi le nom avec 0x9A)
 TOGGLE_TILES = ((0xE7, 0xE8), (0xFB, 0xFC))   # bouton « changer de page » de chaque page

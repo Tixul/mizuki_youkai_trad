@@ -18,7 +18,7 @@ nom), les 120 fiches de yôkai, écran titre, et les deux polices du jeu redessi
 
 ## 1.1 Ce qu'il vous faut
 
-Le patch : `patch/Mizuki_Shigeru_no_Youkai_Shashinkan_FR_v1.1.ips`.
+Le patch : `patch/Mizuki_Shigeru_no_Youkai_Shashinkan_FR_v1.2.ips`.
 
 **Votre propre** copie de la cartouche japonaise, non modifiée et sans en-tête. Aucune ROM n'est
 fournie ici. Vérifiez-la :
@@ -52,7 +52,7 @@ Mizuki Shigeru no Youkai Shashinkan (Japan).ips
 ```
 
 Remarques :
-- **NgpCraft Emulator** : vérifié avec ce patch (la ROM obtenue en mémoire a le CRC32 `B7CFADEF`).
+- **NgpCraft Emulator** : vérifié avec ce patch (la ROM obtenue en mémoire a le CRC32 `DEF3FCEE`).
   Un message confirme le patch au lancement. La ROM patchée étant en lecture seule, la sauvegarde
   va dans un fichier `.flash` à côté du jeu. Si le jeu est dans un `.zip`, le patch se pose à côté
   du `.zip` et porte le nom de la ROM qu'il contient.
@@ -72,7 +72,7 @@ fabriquez une fois pour toutes une ROM patchée :
 - ou avec l'outil fourni (Python 3) :
 
   ```
-  python tools/ips.py apply "Mizuki Shigeru no Youkai Shashinkan (Japan).ngc" patch/Mizuki_Shigeru_no_Youkai_Shashinkan_FR_v1.1.ips Mizuki_FR.ngc
+  python tools/ips.py apply "Mizuki Shigeru no Youkai Shashinkan (Japan).ngc" patch/Mizuki_Shigeru_no_Youkai_Shashinkan_FR_v1.2.ips Mizuki_FR.ngc
   ```
 
 La ROM obtenue doit avoir ces empreintes :
@@ -80,12 +80,12 @@ La ROM obtenue doit avoir ces empreintes :
 | | ROM française obtenue |
 |---|---|
 | Taille | 2 097 152 octets (inchangée) |
-| CRC32 | `B7CFADEF` |
-| SHA-1 | `cd4bb9ed427405c55ccdcb05d5146349c314d624` |
+| CRC32 | `DEF3FCEE` |
+| SHA-1 | `7c34d3f11457e7075065fd062464bc94bef1e597` |
 
 Elle fonctionne sur émulateur comme sur console.
 
-## 1.4 Points pas encore contrôlés à l'écran (v1.1)
+## 1.4 Points pas encore contrôlés à l'écran (v1.2)
 
 Tout le texte est traduit et la ROM a été vérifiée automatiquement. Ont été regardés en jeu :
 l'intro, l'écran titre, la **saisie du nom** et de la région, le menu B (Photo / Sac / Album / Voir)
@@ -97,6 +97,9 @@ s'ils débordent :
 - le menu des objets avec des objets dedans (« Talisman Flamme », 15 caractères).
 
 La mention de copyright de l'écran titre (une image) est restée en japonais.
+
+**Nouveau en v1.2** : saisie du nom corrigée (sur la page des minuscules, la lettre écrite
+était celle d'à côté : « t » donnait « s »).
 
 **Nouveau en v1.1** : la saisie du nom (grille latine, minuscules / majuscules), les régions,
 et toutes les fenêtres d'interface (objets, pellicules, fiches, album, boutiques, auberge, duels)
