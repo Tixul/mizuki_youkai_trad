@@ -1,0 +1,259 @@
+# VF — 0x2A80C-0x2AFFF : « ici, c'est X » (Shikoku/Kyûshû), moines, et 2e VERSION du prologue
+# (celle du jeu ; la 1re, 0x30xxx, est la démo du titre). Répliques identiques = MÊME VF que
+# debut/histoire. Ajouts : l'argent dans le coffret, Etsuko au fond. そうじょう = Abbé.
+@2A80C
+Homme
+Ici, Kôchi !{FF}
+@2A81C
+Homme
+Ici, Matsuyama !{FF}
+@2A82D
+Homme
+Ici, Moji. Par le
+tunnel de Kanmon,
+c'est Honshû.{FF}
+@2A850
+Homme
+Ici, Oita !{FF}
+@2A861
+Homme
+Le mont Aso !{FF}
+@2A872
+Homme
+Ici, Nagasaki !{FF}
+@2A883
+Homme
+Ici, Miyazaki !{FF}
+@2A894
+Homme
+Ici, Kagoshima !{FF}
+@2A8A5
+Homme
+Naha, bienvenue !{FF}
+@2A8B4
+Moine
+Je ne flâne pas :
+c'est ma pause.{FD}
+Tenir la barrière
+est dur, on se
+relaie.{FD}
+Je regrette de
+ne pouvoir aider.{FF}
+@2A911
+Moine
+Ici, le mont
+Chichibu, dojo du
+temple des yôkai.{FD}
+Le Kôya ? Bateau
+de Kôchi vers
+Kushimoto, à pied{FF}
+@2A95A
+Homme
+Naha, bienvenue !{FF}
+@2A969
+Moine
+Merci de nous
+aider, vraiment.{FD}
+Commençons.{FD}
+Namu namu namu
+namu namu namu
+namu namu namu…{FD}
+Namu, namu-uu…{FD}
+Namuuuuuuu…{FF}
+@2A9BF
+Mizuki
+Encore vous ?{FD}
+Revenez cent
+fois, je ne
+prends personne.{FD}
+Laissez tomber
+et rentrez.{FF}
+@2A9FA
+
+Maître, pitié !{FC}
+Mizuki
+Quel entêtement !
+Rentrez.{FF}
+@2AA23
+
+C'est mon rêve,
+je vous en prie !{FC}
+Mizuki
+Hmmm…
+Bon, d'accord.
+Attendez un peu.{FF}
+@2AA60
+Mizuki
+Quand on fait ce
+métier longtemps…{FD}
+on croise parfois
+des zigotos…{FD}
+Alors Mizuki leur
+donne ceci.{FF}
+@2AAB2
+Voici l'«Ungai»,
+un appareil qui
+voit les yôkai.{FD}
+Mais il faut un
+énorme pouvoir
+spirituel, hein.{FD}
+Chez les gens
+normaux, il dort,
+pas de déclic.{FD}
+Prenez donc des
+yôkai en photo.{FD}
+S'il réagit, je
+penserai à vous.{FD}
+Sinon…
+laissez tomber.{FD}
+Ah, au fait : il
+est juste prêté !{FD}
+Signez-moi donc
+ce bon de prêt.{FF}
+@2ABA9
+Mizuki
+Bon, {F2}.
+Il y a 4 poses.{FD}
+Une fois prises,
+revenez me voir.{FD}
+Allez, courage.
+Oui, oui, filez !{FF}
+@2ABEB
+Ce vieil appareil
+voit les yôkai ?{FD}
+Et s'il m'avait
+filé une épave
+pour me virer ?{FD}
+Perplexe, je
+quitte sa maison.{FD}
+Dehors,
+le soir tombait.{FF}
+@2AC5F
+{F2}
+Quelle énergie !
+Qu'arrive-t-il ?{FF}
+@2AC82
+Mizuki
+Hmmm…
+Ça, c'est grave !{FF}
+@2AC9A
+{F2}
+Un problème ?{FF}
+Mizuki
+Une vieille jarre
+de ma collection{FD}
+cachait un yôkai
+d'une puissance
+folle.{FD}
+Plus qu'un yôkai,
+presque un dieu…{FC}
+{F2}
+Et alors ?{FC}
+Mizuki
+…………
+…………
+Il est sorti…{FD}
+Le sceau a dû
+s'affaiblir…{FC}
+{F2}
+Sorti ?! Mais
+c'est grave, ça !{FC}
+Mizuki
+Mes talismans
+l'ont enfermé
+dans la pièce,{FD}
+mais combien de
+temps ? Si fort…{FD}
+Et son yôryoku a
+dû se répandre !{FD}
+Bref. Au mont
+Kôya, on trouvera
+un sceau costaud.{FD}
+J'y fais un saut.
+Le reste, après…{FF}
+@2ADFF
+Mizuki
+Ça va mal ! Je ne
+peux plus bouger,
+ni sortir d'ici.{FC}
+{F2}
+Je peux y aller ?{FC}
+Mizuki
+Cette énorme
+énergie yôkai…{FD}
+s'est répandue :
+tout peut arriver{FD}
+Mizuki lui-même
+n'en sait rien.{FC}
+{F2}
+Comptez sur moi !{FD}
+L'appareil a
+réagi : première
+mission d'élève !{FC}
+Mizuki
+Il a réagi à
+cause de ça, je
+crois bien…{FD}
+Votre demande,
+j'y réfléchirai.{FD}
+Bref, moi je dois
+rester ici.{FD}
+Je reste coincé.{FD}
+{F2}, je compte
+sur vous.{FD}
+Au temple du Kôya
+voyez Gekkô,{FD}
+et rapportez un
+talisman sacré.{FD}
+C'est compris ?{FC}
+{F2}
+Bien, j'y vais !{FC}
+Mizuki
+Ah, {F2} !{FD}
+Dans ce coffret
+en bois, prenez
+de quoi voyager.{FD}
+Et au fond, ma
+fille Etsuko vous
+attend, allez-y.{FD}
+L'«Ungai», elle
+s'y connaît !{FF}
+@2AFF9
+Abbé
+Je suis Gekkô.{FD}
+Un messager de
+Mizuki ? Parle !{FC}
+Gekkô
+…Hmm, hmm !
+…Ah, ça alors…{FD}
+Hmm, oh… …
+C'était donc ça !{FD}
+Ces étranges
+phénomènes, nous
+les étudiions.{FD}
+On sait la cause,
+mais aucun sceau
+n'est assez fort.{FC}
+{F2}
+Que faire ?{FC}
+Gekkô
+Hmmm…
+Hmmm…{FD}
+Les sceaux jadis
+mis sur les rois
+yôkai pourraient…{FC}
+{F2}
+Des sceaux ?{FC}
+Gekkô
+Feu, Eau, Vent,
+Terre : quatre
+sceaux suprêmes.{FC}
+{F2}
+Et où sont-ils,
+ces sceaux ?{FC}
+Gekkô
+Les vieux écrits
+en parlent, je
+crois. Cherchons.{FD}
+Toi, là ! Va
+me chercher ça !{FF}

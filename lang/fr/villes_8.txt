@@ -1,0 +1,212 @@
+# VF — 0x2881D-0x28FFF : Kushiro, hôtels, OSAKA (parler du Kansai -> ton populaire),
+# clins d'œil Neo Geo Pocket (Samurai, King of Fighters, Metal Slug), lac Biwa, katawa-guruma.
+# おぼうさん = Moine. Blague de dialecte (ちゃう = ちがう) adaptée avec « pardi ».
+@2881D
+Femme
+Rejoins Kushiro,
+tour du Japon !{FD}
+Bon, ça ne sert
+à rien, hein.{FF}
+@2884E
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Papy
+Connais pas.
+Je flâne le soir,
+jamais rien vu.{FF}
+@28892
+Cadre
+Yôkai en forêt,
+ça m'a fait peur,
+mais rien vu.{FD}
+Faut dire que je
+sortais de jour.{FF}
+@288D6
+Homme
+Te trompe pas,
+achète le bon !{FF}
+@288EF
+Garçon
+Osaka, je sais !
+Je me trompe pas,
+voyons…{FD}
+Oh…{FD}
+Billet Nagano !{FF}
+@28923
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Cadre
+Un peu au nord,
+un truc m'a suivi{FD}
+Quelle frousse !
+En plein jour !
+Brrr…{FF}
+@28982
+Groom
+Bienvenue !
+Pour tout, voyez
+le comptoir.{FD}
+Souvenirs variés
+en vente ici.
+Bon séjour !{FF}
+@289D2
+Homme
+Des talismans à
+l'hôtel ? Drôle…{FD}
+Mais on parle de
+yôkai partout…{FD}
+Et au nord aussi,
+on en a vu. J'en
+achète un, va !{FF}
+@28A35
+Femme
+Arrivée tard hier
+j'étais fourbue…
+Nuit sans rêve !{FF}
+@28A65
+Papy
+3 photos yôkai de
+ma famille ! J'ai
+parié dessus…{FD}
+Perdu ! Ruiné !
+Et ma chambre ?{FF}
+@28AB1
+Cadre
+On dit cet hôtel
+hanté, mais…{FD}
+Aucun yôkai ici !
+Dormi sans rêver.{FF}
+@28AF2
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Cadre
+Ville bizarre !{FD}
+La nuit, des
+ombres étranges
+rôdent partout,{FD}
+on parle bizarre,
+la ville est aux
+mains des yôkai ?{FF}
+@28B7A
+Presse
+Paraît qu'des
+motards foncent
+la nuit, tu vois,{FD}
+mais qu'on y va,
+pfuit, disparus !{FD}
+C'est peut-être
+tes yôkai, coco !{FF}
+@28BD2
+Presse
+Ici l'journal !{FD}
+Des trucs louches
+partout : on est
+débordés, va !{FF}
+@28C08
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Presse
+Des histoires de
+yôkai ? Des tas !{FD}
+Plein d'intox :
+vérifie bien, ou
+tu t'fais avoir !{FD}
+Y a des archives
+mais pas touche !{FF}
+@28C82
+Homme
+Allez, j'achète !
+Neo Geo Pocket !
+Ça, c'est top !{FD}
+Hein ? Tu veux ?{FC}
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Homme
+Un yôkai ?{FD}
+Tu parles de ma
+femme ? Connue !{FD}
+Avant le mariage,
+si mignonne…
+Elle a muté !!{FD}
+Et chut, hein !
+Elle fait peur !{FF}
+@28D3B
+Garçon
+Papa, un jeu !{FD}
+Samouraï, King…
+Metal Slug ! Une
+Neo Geo, stp !{FF}
+@28D76
+Fille
+Dans-la-jar-re,
+qu'y-a-t-il ? Hop
+Fouiller, la base{FF}
+@28DA8
+{F2}
+Vu des yôkai,
+récemment ?{FC}
+Fille
+Papa dit qu'on a
+un yôkai ici !{FF}
+@28DE1
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Cadre
+Des yôkai ?{FD}
+Vers le lac Biwa,
+à l'ouest, un mur
+fantôme, dit-on.{FF}
+@28E37
+Cadre
+Le lac Biwa, faut
+y aller à pied ?
+Quelle galère !{FF}
+@28E5B
+Hôte
+Bienvenue à la
+bibliothèque !{FF}
+@28E7B
+Moine
+J'étudie le yôkai
+vu en ville.{FD}
+Il viendrait
+de Shiga.{FD}
+Tenez, regardez :
+Katawa-guruma !{F5}{2B}
+@28ECF
+Cadre
+La nuit, un truc
+court partout, je
+viens voir.{FD}
+Un yôkai, pardi ?
+Pardi : bien sûr.{FF}
+@28F1E
+Cadre
+C'est ma chambre,
+qu'y a-t-il ?{FD}
+Les yôkai ? Je
+n'en sais rien.{FF}
+@28F5C
+Cadre
+Je viens souvent
+à Osaka, pourtant{FD}
+j'ai l'impression
+d'être ailleurs.{FF}
+@28F9D
+Cadre
+Bel appareil !{FD}
+J'ai un ami
+qui adore poser.{FD}
+Dès qu'il voit un
+objectif : «Moi»{FF}
+@28FE1
+Groom
+Bienvenue !
+Pour tout, voyez
+le comptoir.{FF}

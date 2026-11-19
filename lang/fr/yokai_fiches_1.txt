@@ -1,0 +1,220 @@
+# VF — fiches yôkai 0-39 (table 0x1175F). Lignes <= 17 ; largeur album NON vérifiée (JP max 16).
+@2162E
+Yôkai qui chante
+au bord de l'eau
+et lave l'azuki.{FF}
+@21655
+La nuit, sous le
+toit : des «boum»
+et l'azuki semé :
+quelle frayeur !{FF}
+@21697
+Le spectre d'un
+voleur d'huile.
+Il a toujours
+l'air digne, d'où
+son nom.{FF}
+@216D6
+Ses poils tombent
+au dos, blancs au
+milieu. Un singe
+étrange, amical.{FF}
+@2170C
+L'izume est un
+panier à bébé.
+Vieux de 100 ans,
+il bouge et vole.{FF}
+@21745
+Il rend les gens
+fébriles. Ceux
+qui sont étourdis
+sont ses proies.{FF}
+@2177B
+Une toile blanche
+de 10 m qui vole
+et étrangle, la
+nuit, les gens.{FF}
+@217B8
+Un pied, un œil,
+bête à l'allure
+humaine. Il sort
+après la neige :
+encore à Kumano.{FF}
+@217FC
+Une truite de 2 m
+changée en bonze.
+Si l'on pêche au
+torrent, il vient
+prêcher la paix.{FF}
+@2183C
+Au fond des mers
+et rivières, il
+surgit parfois
+attaquer. Féroce
+et rancunier.{FF}
+@21883
+Sous la pluie, il
+surgit derrière
+les froussards et
+leur glace le cou{FF}
+@218C1
+Femme morte en
+couches, devenue
+yôkai. L'enfant
+qu'elle confie
+est une pierre !{FF}
+@2190B
+Il guette en mer
+et coule les
+navires, ou les
+avale. Des noyés
+rancuniers ?{FF}
+@2194A
+Yôkai de la mer
+plein d'écailles.
+Veut être humain.{FF}
+@21971
+Humanoïde, noir
+de jais, sans un
+poil. Qui le voit
+en mer ne pêche
+plus, ou sombre.{FF}
+@219B8
+Un miroir de plus
+de 100 ans
+devient yôkai. Si
+un être l'habite,
+on y voit sa face{FF}
+@21A00
+Il manie le vent
+et crée le vide.
+Mort : un rocher.{FF}
+@21A2C
+Un grand rocher
+à forme de géant
+grondait la nuit
+et effrayait. Une
+loutre déguisée ?{FF}
+@21A78
+Yôkai des monts.
+Perché, il pleure
+comme un bébé, et
+rit d'un ton fou.{FF}
+@21AAF
+Pet-yôkai aïnou.
+Dans l'âtre, d'un
+coup : «Pouf !»
+Riposte d'un pet,
+et il s'enfuit.{FF}
+@21AF4
+Vit à un étage
+fantôme des tours
+et cache dans son
+ventre des daruma{FF}
+@21B28
+Un char à bœufs
+hanté de rancœur.
+Ses yeux lancent
+un feu pétrifiant{FF}
+@21B5F
+Spectres errants
+morts de famine.
+Possédé, on reste
+figé, l'œil vague{FF}
+@21B95
+Vieux parapluie
+devenu yôkai. Un
+œil, un pied, il
+tire la langue,
+sautille et vole.{FF}
+@21BD7
+Dans la tempête,
+il fond sur les
+convois funèbres,
+rafle le cercueil
+des morts pervers{FF}
+@21C1D
+Né de la rancœur
+des morts des
+champs : un géant
+qui sort la nuit
+et attaque.{FF}
+@21C5F
+L'hiver, le kappa
+monté en montagne
+devient kashanbo.
+Il semble calme,
+en fait, farceur.{FF}
+@21C9A
+Une femme qui
+l'épia perdit son
+enfant. Mais elle
+pleura un poème :
+l'enfant revint.{FF}
+@21CE1
+Il vit en rivière
+y noie enfants,
+chevaux et bœufs,
+vole leur âme et
+dévore les tripes{FF}
+@21D1F
+Disque volant tel
+une pièce de 10.
+Sa chute tonne.
+Qui le ramasse
+aura le bonheur.{FF}
+@21D60
+Un crabe géant
+d'un étang de
+temple, en bonze.
+La nuit, il vient
+vous questionner.{FF}
+@21DA9
+Porté par le vent
+tournoyant, il
+taille avec ses
+griffes en faux.
+Coupure indolore.{FF}
+@21DE5
+Mi-oiseau, vêtu
+d'habits, armé de
+sabre ou lance,
+il vole et vient
+attaquer l'homme.{FF}
+@21E29
+Maître déguiseur,
+souvent en jeune
+fille ou enfant…
+Répond «Araya» ?
+C'est une loutre.{FF}
+@21E63
+Esprit d'un vieux
+banian, dit-on.
+Face rouge, bol,
+fan de crabe.{FF}
+@21E9D
+Renard blanc venu
+d'Inde à 9 queues
+il ravagea Kyôto.{FF}
+@21EC4
+Dans les ruelles
+sombres, elle dit
+«Suis-je belle ?»
+Sous son masque,
+bouche fendue !{FF}
+@21F03
+Un mort de faim
+devenu yôkai. Il
+fouille la tombe
+de qui l'affama
+et dévore sa tête{FF}
+@21F43
+Un esprit de noyé
+possède les gens
+et les pousse au
+suicide au bord
+de l'eau.{FF}
+@21F85
+Il vole au vent
+et, la nuit, on
+dirait un feu.{FF}

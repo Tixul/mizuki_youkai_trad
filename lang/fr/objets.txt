@@ -1,0 +1,206 @@
+# VF — objets : noms + descriptions (ROM 0x23218-0x2372B, tables 0x0F3F0 / 0x0F436 / 0x0F51A / 0x0F582).
+# NOMS = 14 car. max (le plus long nom JP = 14) — « Talisman Flamme » (15) À VÉRIFIER à l'écran.
+# Ces noms sont repris TELS QUELS dans systeme_2.txt (trouvé / obtenu / volé).
+@23218
+Appareil Ungai{FF}
+@23220
+Un appareil qui
+montre les yôkai{FF}
+@23233
+Grand-angle{FF}
+@2323B
+Pour l'Ungai :
+photographie les
+yôkai géants.{FF}
+@23259
+Macro{FF}
+@23261
+Pour l'Ungai :
+photographie les
+petits yôkai.{FF}
+@2327E
+Miroir d'eau{FF}
+@23283
+Pour l'Ungai :
+photographie les
+yôkai aquatiques{FF}
+@232A2
+Boîte à films{FF}
+@232AA
+Tient 4 poses.{FF}
+@232B9
+Sceau du Feu{FF}
+@232C0
+Sceau du pouvoir
+du roi du Feu.{FF}
+@232D7
+Sceau de l'Eau{FF}
+@232DF
+Sceau du pouvoir
+du roi de l'Eau.{FF}
+@232F7
+Sceau du Vent{FF}
+@232FF
+Sceau du pouvoir
+du roi du Vent.{FF}
+@23317
+Sceau de Terre{FF}
+@2331F
+Sceau du pouvoir
+de la Terre.{FF}
+@23337
+Clé Feu I{FF}
+@2333C
+Clé portail Feu.{FF}
+@23349
+Clé Feu II{FF}
+@2334D
+Clé portail Feu.{FF}
+@2335A
+Clé Feu III{FF}
+@2335F
+Clé portail Feu.{FF}
+@2336C
+Clé Eau I{FF}
+@23372
+Clé portail Eau.{FF}
+@23380
+Clé Eau II{FF}
+@23385
+Clé portail Eau.{FF}
+@23393
+Clé Eau III{FF}
+@23399
+Clé portail Eau.{FF}
+@233A7
+Clé Vent I{FF}
+@233AD
+Clé portail Vent.{FF}
+@233BB
+Clé Vent II{FF}
+@233C0
+Clé portail Vent.{FF}
+@233CE
+Clé Vent III{FF}
+@233D4
+Clé portail Vent.{FF}
+@233E2
+Clé Terre I{FF}
+@233E8
+Clé portail Terre{FF}
+@233F6
+Clé Terre II{FF}
+@233FB
+Clé portail Terre{FF}
+@23409
+Clé Terre III{FF}
+@2340F
+Clé portail Terre{FF}
+@2341D
+Notes : Feu{FF}
+@2342C
+Clé Feu : chez
+Umi-zatô,
+Tsuchikorobi ou
+Betobeto-san ?{FF}
+@23464
+Notes : Eau{FF}
+@23474
+Clé Eau : chez
+Tsurubebi,
+Kamaitachi ou
+Nurikabe ?{FF}
+@234AA
+Notes : Vent{FF}
+@234BA
+Clé Vent : chez
+Kappa,
+Kasha ou
+Konaki-jijii ?{FF}
+@234EF
+Notes : Terre{FF}
+@234FF
+Clé Terre : chez
+Yasha,
+Ningyo ou
+Ittan-momen ?{FF}
+@23536
+Talisman Feu{FF}
+@2353B
+Appelle un yôkai
+Feu et ralentit
+les yôkai Eau.{FF}
+@2355B
+Talisman Eau{FF}
+@23561
+Appelle un yôkai
+Eau et ralentit
+les yôkai Feu.{FF}
+@23581
+Talisman Vent{FF}
+@23587
+Appelle un yôkai
+Vent et ralentit
+les yôkai Terre.{FF}
+@235A8
+Talisman Terre{FF}
+@235AE
+Appelle un yôkai
+Terre, ralentit
+les yôkai Vent.{FF}
+@235CF
+Talisman Néant{FF}
+@235D4
+Appelle un yôkai
+sans élément,
+et ralentit.{FF}
+@235F1
+Talisman Flamme{FF}
+@235F8
+Appelle Feu et
+Vent, ralentit
+Eau et Terre.{FF}
+@2361E
+Talisman Acier{FF}
+@23625
+Appelle Feu et
+Terre, ralentit
+Eau et Vent.{FF}
+@2364B
+Talisman Pluie{FF}
+@23651
+Appelle Eau et
+Vent, ralentit
+Feu et Terre.{FF}
+@23677
+Talisman Forêt{FF}
+@2367D
+Appelle Eau et
+Terre, ralentit
+Feu et Vent.{FF}
+@236A3
+Talisman Lien{FF}
+@236AB
+Ralentit un yôkai{FF}
+@236BB
+Talisman Temps{FF}
+@236C1
+L'Esprit baisse
+deux fois moins.{FF}
+@236D7
+Herbe{FF}
+@236DC
+Rend du Flair.{FF}
+@236ED
+Troisième œil{FF}
+@236F2
+Rend de l'Esprit.{FF}
+@23701
+Panacée{FF}
+@23706
+Rend de la
+Technique.{FF}
+@23719
+Pellicule{FF}
+@2371E
+Pellicule Ungai.{FF}

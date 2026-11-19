@@ -1,0 +1,54 @@
+# VF — variantes des doublons 0x2C800-0x2F000 (petites différences de structure ou de coquille JP).
+@2CCC3
+Fille
+Tu connais la
+rumeur des yôkai
+sur le bateau ?{FD}
+C'est du flan !
+L'autre fois, à
+bord, rien vu.{FF}
+@2CD43
+Femme
+Pas de Niigata ?!
+Quel cirque !{FF}
+@2D7DA
+Homme
+Allez, j'achète !
+Neo Geo Pocket !
+Ça, c'est top !{FD}
+Hein ? Tu veux ?{FF}
+@2D918
+Moine
+J'étudie le yôkai
+vu en ville.{FD}
+Il viendrait
+de Shiga.{FD}
+Tenez, regardez :
+Katawa-guruma !{FF}
+@2E196
+Femme
+Pour les yôkai ?{FD}
+Chut, tout bas :
+il serait dans
+l'entrepôt à côté{FD}
+Quelqu'un venu
+nettoyer à midi
+a vu une ombre !{FF}
+@2E206
+Cadre
+Je sillonne tout
+le pays, mais là,
+c'est bizarre…{FD}
+Depuis le début
+du raffut yôkai.{FF}
+@2E72C
+Garçon
+Pour les yôkai ?
+On me croit pas,
+c'était un yôkai{FD}
+Pas d'erreur !
+Je serai un vrai
+yôkaiste, moi !{FD}
+Celui vu à midi,
+c'était un
+ittan-momen !{FF}

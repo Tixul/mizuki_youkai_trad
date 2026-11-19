@@ -1,0 +1,289 @@
+# VF — ville de départ et premiers PNJ (ROM 0x2464D-0x25001, table 0x16D11…).
+# Noms (6 car. MAX : au-delà, écrasés à la page suivante) : おじいさん Papy, おばあさん Mamie,
+# おじさん Homme, おばさん Femme, せんせい Mizuki,
+# おとこのこ Garçon, サラリーマン Cadre, えきいん Agent, うけつけ Hôte.
+# Réplique récurrente du joueur : さいきん、ようかいのはなし… = « Vous avez entendu / parler de yôkai ? »
+@2464D
+Papy
+Le maître ? Tu
+sais où il vit :
+juste à côté !{FF}
+@24679
+Papy
+{F2} !
+Où vas-tu donc
+si vite ?{FC}
+{F2}
+Au mont Kôya !{FC}
+Papy
+Un drôle de vent
+souffle, prudence{FF}
+@246C5
+Papy
+{F2},
+je ne sais pas ce
+que tu fais, mais{FD}
+je te soutiens !{FF}
+@246F3
+Papy
+Oh ! {F2} !
+Quel exploit !
+Bravo, bravo !{FD}
+Ça valait le coup
+de te soutenir
+en douce !{FF}
+@24738
+Femme
+Tiens, encore
+chez le maître ?{FD}
+Tu es tenace !{FF}
+@2475D
+Femme
+Le mont Kôya ?
+Une montagne du
+Kinki, ça.{FD}
+Tu vas là-bas ?{FF}
+@2478C
+Femme
+Dis, {F2},
+tout est bizarre.
+Tu sais un truc ?{FF}
+@247B5
+Femme
+Des fantômes
+rôdent dehors…{FD}
+Ici, avec Mizuki,
+on est à l'abri ?{FF}
+@247E5
+Femme
+Plus d'histoires
+bizarres… C'est
+presque dommage.{FF}
+@2480C
+Papy
+Des yôkai ?
+Jamais vu, moi.{FF}
+@24826
+Femme
+Moi, jamais vu de
+yôkai. En photo ?
+Drôle d'idée !{FF}
+@24852
+Homme
+Des yôkai, hein ?
+Alors, écoute :{FF}
+@24870
+Femme
+Tu es un chat ou
+quoi ? On n'entre
+pas comme ça !{FF}
+@2489D
+Homme
+Des yôkai ? C'est
+pas une blague ?
+Jamais vu, non.{FF}
+@248C0
+Femme
+Drôle d'appareil.
+Prends-moi, va !
+Quoi, des yôkai ?{FD}
+Prends donc un
+chat du quartier,
+un nekomata, va !{FF}
+@24916
+Homme
+Photo de yôkai ?
+Ma femme, alors !{FD}
+Chut, hein !{FF}
+@24947
+{F2}
+Hé, écoutez !
+Le chat dehors,
+était un nekomata{FC}
+Femme
+Voilà {F2} qui
+parle de nekomata
+comme le maître !{FF}
+@24993
+Homme
+Ces temps-ci, je
+sens qu'il vaut
+mieux rester ici.{FF}
+@249B8
+Femme
+Mon mari ne va
+plus au boulot !
+Il reste ici !{FF}
+@249DF
+Homme
+Ça va mieux !
+C'est fou, ça !
+Un sort levé ?{FF}
+@24A0D
+Femme
+Il s'est enfin
+secoué ! Et toi,
+arrête de traîner{FF}
+@24A3C
+Hôte
+Ici le musée.
+Bonne visite !{FF}
+@24A57
+Vache
+Meuuuh…{FF}
+@24A60
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Homme
+Quelqu'un en a
+vu un, en ville.{FF}
+@24A9B
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Homme
+Les yôkai ? C'est
+quoi déjà ? J'ai
+un trou… Bizarre.{FF}
+@24AE4
+Garçon
+Le matin, ici, on
+entend des bruits{FF}
+@24B08
+Homme
+Le mont Kôya ?
+En avion puis en
+bateau : rapide !{FF}
+@24B2D
+Homme
+Des histoires de
+yôkai ? Aucune.{FF}
+@24B46
+Cadre
+Pour le Kôya,
+passez d'abord
+par Matsuyama.{FF}
+@24B71
+Cadre
+Combinez bien
+et payez moins !{FF}
+@24B96
+Mamie
+Le mont Kôya ?
+Loin d'ici, ça !{FF}
+@24BB9
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Mamie
+Tu étudies ça ?
+Va à la biblio :{FD}
+une encyclopédie
+de tous les yôkai{FF}
+@24C14
+Agent
+Pour le Kôya ?{FD}
+D'ici : l'avion
+à Narita,{FD}
+ou des trains
+jusqu'à Matsuyama
+C'est au choix.{FF}
+@24C5E
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Agent
+Moi, des yôkai,
+jamais vu !{FD}
+Juste une ombre,
+une nuit, dehors.{FF}
+@24CB0
+Agent
+Le mont Fuji ?{FD}
+De Nagano ou
+Nagoya, à pied :
+c'est à la mode !{FF}
+@24CEB
+Mamie
+Le mont Kôya ?
+Quel courage !{FF}
+@24D03
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Mamie
+Tu en cherches ?
+Moi, jamais vu.{FD}
+Une fillette en a
+vu un à midi ici.{FF}
+@24D62
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Agent
+Des yôkai ? Non.
+Mais des ombres
+louches, si.{FF}
+@24DAF
+Agent
+Pour le Kôya,
+allez donc
+à Matsuyama.{FD}
+Là, redemandez
+à un agent.{FF}
+@24DEF
+Papy
+Ici, il y a plein
+de vieilleries.
+Comme moi !{FF}
+@24E13
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Papy
+Les yôkai vivent
+surtout dans les
+contes d'antan.{FD}
+Les musées locaux
+ont sûrement des
+choses utiles.{FF}
+@24E88
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Mamie
+Des yôkai ? Ça me
+dit quelque chose
+attends voir…{FD}
+Hmmm, hmmm…
+non, pas ça…
+c'était quoi…{FD}
+…………
+…zzz… zzz…{FD}
+Oh !
+Je m'endormais !
+Ça me reviendra.{FF}
+@24F1F
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Mamie
+Il paraît qu'au
+sud, un kappa vit
+au bord de l'eau.{F5}{1C}
+@24F71
+Agent
+Pour le Kôya,
+visez Matsuyama.{FD}
+Là, redemandez à
+un agent.{FF}
+@24FB1
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Agent
+Des rumeurs ?
+Aucune idée.{FD}
+Allez donc au
+musée de la ville{FF}

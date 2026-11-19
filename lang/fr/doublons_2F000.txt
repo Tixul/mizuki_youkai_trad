@@ -1,0 +1,14 @@
+# VF reprise automatiquement (tools/doublons.py) : doublons de 2F000-30800.
+@2F01E
+Homme
+Naha, bienvenue !{FF}
+@2F02D
+Moine
+Merci de nous
+aider, vraiment.{FD}
+Commençons.{FD}
+Namu namu namu
+namu namu namu
+namu namu namu…{FD}
+Namu, namu-uu…{FD}
+Namuuuuuuu…{FF}

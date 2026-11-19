@@ -1,0 +1,58 @@
+# VF — menus à curseur + règles des duels + 2 messages de la zone tarifs.
+# ⛔ MENUS : les espaces (3A / {9A}) sont les CASES DU CURSEUR, à colonnes fixes -> on garde
+# EXACTEMENT les longueurs : はい = OK (2), いいえ = Non (3), もどる/アイテム/やめる = Ret/Item/Fin (3/4/3),
+# よろしいですか？ (8) = « Valider? ». Les blocs sans {FF} s'enchaînent : traduits ensemble.
+@23E16
+
+Personne ici.{FF}
+@23E22
+
+Aucune aura yôkai
+il n'y en a pas.{FF}
+@23E41
+
+Rien trouvé.{FF}{3A}
+@23E52
+
+C'est bon ?
+{3A}OK{3A}Non
+@23E67
+
+Rien ne se passe.
+@24217
+
+Remplacer photo ?
+{3A}OK{3A}Non
+@24230
+
+Jeter la photo ?
+{3A}OK{3A}Non
+@24249
+
+Pas assez de yens
+@24257
+
+Pas d'appareil !
+@2766C
+Battez 2 photos
+et vous gagnez.
+Photo battue :
+n'attaque plus,
+peut «Changer».
+Bonne chance !
+@2C304
+Jeter cet objet ?
+{9A}OK{9A}Non
+@2C31A
+Remplacer photo ?
+{9A}OK{9A}Non
+@2C331
+Jeter la photo ?
+{9A}OK{9A}Non
+@2C348
+C'est bon ?
+{9A}OK{9A}Non
+@2C3BE
+{9A}Ret{9A}Item{9A}Fin
+@2C3CC
+Valider?{9A}OK{9A}Non{FF}

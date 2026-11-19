@@ -1,0 +1,194 @@
+# VF — 0x2C05F-0x2C7FF : Kansai (conseil des cartons), ports (funa-yûrei la nuit), chien parlant
+# (binbôgami du tunnel), messages objets/talismans, puis DOUBLONS des villes (même VF que villes_5/6).
+# PAS ENCORE : menus 0x2C304-0x2C348, 0x2C3BE, 0x2C3CC ({9A}はい{9A}いいえ, もどる/アイテム/やめる).
+@2C05F
+Homme
+Quel couchant !
+Rentre vite faire
+un roupillon !{FD}
+Bien reposé,
+demain la pêche !
+Allez, ciao !{FF}
+@2C0AC
+Homme
+Traîner la nuit,
+à ton âge ? Pas
+bien ! Un souci ?{FD}
+En cas de pépin :
+les cartons !{FD}
+Pas pour dormir !
+Pour fouiller !
+Tu verras, ciao !{FF}
+@2C10E
+Papy
+Bonjour !
+D'ici, un bateau
+va à Itô.{FF}
+@2C12E
+Papy
+Bonsoir !
+En mer, ce soir ?
+Mieux vaut pas.{FD}
+Ris des croyances
+et tu le paieras.{FF}
+@2C169
+Papy
+Bonjour, jeunesse
+Tu embarques ?{FD}
+Au port, choisis
+bien ton heure.{FD}
+Une chance rare
+peut t'attendre.{FF}
+@2C1BD
+Papy
+Bonsoir, jeunesse
+La nuit, la mer…{FD}
+Mais il paraît
+que des ports ont
+des yôkai…{FD}
+Prends garde.{FF}
+@2C208
+Chien
+Ouaf-ouaf-ouaaaf{FF}
+@2C21A
+Chien
+Je parle la nuit,
+pas yôkai, ouaf !
+Une vache parle
+aussi la nuit !{FD}
+Dans le tunnel,
+c'est un yôkai :
+un binbôgami ouaf{F5}{37}
+@2C275
+Papy
+Joli couchant !
+Demain, soleil ?{FF}
+@2C296
+Papy
+Tu prends la mer
+si tard ? Fais
+bien attention.{FD}
+Au large, on voit
+en ce moment un
+funa-yûrei !{FD}
+Attends le matin,
+pas de yôkai.
+Pas de folies !{F5}{39}
+@2C35B
+Pas assez de yens{FF}
+@2C368
+Trop de films :
+plus de place.{FF}
+@2C37C
+Trop d'objets :
+plus de place.{FF}
+@2C390
+Aucun effet !{FF}
+@2C39C
+Yôkai ralenti !{FF}
+@2C3AD
+Esprit protégé !{FF}
+@2C46F
+Garçon
+J'étudie le yôkai
+de ma maison.{FD}
+Un «Ungaikyô» !{FF}
+@2C49A
+Presse
+Ici, le journal.{FF}
+@2C4AC
+Presse
+Des yôkai, hein ?
+On en a plein !{FD}
+Les archives sont
+là, sers-toi !{FF}
+@2C4EC
+Presse
+Débordé, avec
+ces mystères !{FD}
+Au mont Daisetsu
+aussi, ça bouge…{FF}
+@2C527
+Fille
+D'ici, en bateau,
+on voit des yôkai{FD}
+J'y vais jour et
+nuit : rien vu !{FF}
+@2C565
+Homme
+Le soir venu,
+ça fait du raffut{FF}
+@2C585
+Femme
+La nuit, on
+entend des voix…
+C'est inquiétant.{FF}
+@2C5AA
+Cadre
+Ce tunnel mène à
+Honshû, mais…{FD}
+Depuis la rumeur
+d'un vieux louche
+dedans, on fuit.{FF}
+@2C5FA
+Garçon
+Yôkai, non. Mais
+une ombre, oui !{FF}
+@2C620
+Homme
+Tu veux quoi ?
+Pas de raison ?
+Alors dehors !{FF}
+@2C642
+Fille
+Papa a vu un
+yôkai côte est,
+nul ne le croit.{FD}
+D'où son humeur,
+pardon.{FF}
+@2C689
+Presse
+Encore un yôkai ?{FD}
+Y en a plein !{FF}
+@2C6AC
+Presse
+L'autre soir, un
+gamin a déboulé :
+«Un yôkai !»{FD}
+Quand on y est
+allés : rien !{FF}
+@2C6F5
+Presse
+J'enquête sur les
+yôkai. Titre :{FD}
+«Yôkai : pourquoi
+maintenant ?!»{FF}
+@2C72A
+Homme
+Dans une auberge
+ici, j'ai vu un…{FD}
+C'était sûrement
+zashiki-warashi !{FF}
+@2C763
+Femme
+J'ai vu un yôkai,
+mais la biblio
+n'a rien donné.{FF}
+@2C78E
+Presse
+L'hôtel yôkai…
+Tous ceux qui y
+restent en voient{FF}
+@2C7B5
+Cadre
+Yôkai, yôkai…
+Le rayon, où ça ?{FF}
+@2C7D6
+Homme
+Tant de mystères…
+J'enquête ici.{FF}
+@2C7F9
+Garçon
+L'hôtel d'ici a
+un yôkai, dit-on…
+C'est vrai ?{FF}

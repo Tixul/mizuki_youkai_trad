@@ -1,0 +1,477 @@
+# VF — 0x2F804-0x3078A : objets utilisés, récupération, Studio Photo (sauvegarde = « je note »),
+# racheteur de photos, livres/dossiers yôkai (clés des portails), TUTORIEL APPAREIL (Nekomata),
+# yôkai parlants, expertise de l'album (moine) + MESSAGE DES DÉVELOPPEURS à 100 %, portails.
+# {7D} / {7E} = glyphes boutons A / B du jeu (gardés). « Utilisé : » en 1re ligne (ligne vide en JP).
+@2F804
+
+{F2} perd
+{79}{F4},
+volés !{FF}
+@2F817
+Utilisé :
+Talisman Feu{FF}
+@2F825
+Utilisé :
+Talisman Eau{FF}
+@2F834
+Utilisé :
+Talisman Vent{FF}
+@2F843
+Utilisé :
+Talisman Terre{FF}
+@2F852
+Utilisé :
+Talisman Néant{FF}
+@2F860
+Utilisé :
+Talisman Flamme{FF}
+@2F870
+Utilisé :
+Talisman Acier{FF}
+@2F880
+Utilisé :
+Talisman Pluie{FF}
+@2F88F
+Utilisé :
+Talisman Forêt{FF}
+@2F89E
+Utilisé :
+Talisman Lien{FF}
+@2F8AF
+Utilisé :
+Talisman Temps{FF}
+@2F8BE
+Utilisé :
+Herbe{FF}
+@2F8CC
+Utilisé :
+Troisième œil{FF}
+@2F8DA
+Utilisé :
+Panacée{FF}
+@2F8E8
+Utilisé :
+Pellicule{FF}
+@2F8F6
+
+Hélas, sans effet{FF}
+@2F907
+
+Une aura étrange…
+Un yôkai est là !{FF}
+@2F926
+{F2} :
+Flair rendu.{FF}
+@2F939
+{F2} :
+Esprit rendu.{FF}
+@2F94A
+{F2} :
+Technique rendue.{FF}
+@2F95F
+Le yôkai est
+un peu ralenti !{FF}
+@2F976
+L'Esprit baissera
+plus lentement !{FF}
+@2F98D
+
+Bienvenue au
+Studio Photo !{FD}
+Qui vit l'étrange
+atterrit ici.{FD}
+Toi aussi, tu as
+vécu l'étrange ?{FD}
+Raconte-le-moi,
+veux-tu ? Je le
+note.{FF}
+@2F9FD
+
+Tu as vécu un
+truc étrange ?{FD}
+Raconte-le-moi,
+veux-tu ? Je le
+note.{FF}
+@2FA3A
+
+Merci beaucoup !{FF}
+@2FA49
+
+Bienvenue !{FF}
+@2FA55
+
+Distributeur de
+tickets. Partir ?{FF}
+@2FA70
+
+Les photos yôkai
+chez les humains,
+je n'aime pas ça.{FD}
+Alors je les
+rachète.{FD}
+Une photo yôkai ?
+Je te l'achète !{FF}
+@2FAD3
+
+Accès interdit.{FF}
+@2FAE3
+Quai
+Pour le bateau,
+prenez un billet
+là-bas.{FF}
+@2FB06
+Quai
+Merci d'avoir
+voyagé avec nous.{FF}
+@2FB1F
+
+Ça… c'est le
+tome du Vent !{FD}
+Clé du Vent chez
+Kappa,{FD}
+Kasha ou
+Konaki-jijii…{FD}
+Notons-le dans
+mes objets, pas
+que l'album.{F5}{0E}
+@2FB94
+
+Dossier yôkai
+Kantô trouvé.{F5}{0A}
+@2FBAB
+
+Dossier yôkai
+Hokuriku trouvé.{F5}{09}
+@2FBC2
+
+Ça… c'est le
+tome Terre !{FD}
+Clé Terre chez
+Yasha,{FD}
+Ningyo ou
+Ittan-momen…{FD}
+Notons-le dans
+mes objets, pas
+que l'album.{F5}{0F}
+@2FC39
+
+Livre yôkai du
+Chûbu trouvé.{F5}{10}
+@2FC4F
+
+Dossier yôkai
+Kinki trouvé !{F5}{0B}
+@2FC66
+
+Dossier yôkai
+Shikoku trouvé !{F5}{0D}
+@2FC7D
+
+Dossier yôkai
+Chûgoku trouvé !{F5}{0C}
+@2FC96
+
+Livre yôkai du
+Kyûshû trouvé !{F5}{11}
+@2FCAF
+
+Ça… c'est le
+tome de l'Eau !{FD}
+Clé de l'Eau chez
+Tsurubebi,{FD}
+Kamaitachi ou
+Nurikabe…{FD}
+Notons-le dans
+mes objets, pas
+que l'album.{F5}{12}
+@2FD25
+
+Ici, le livre
+yôkai d'Okinawa
+trouvé !{F5}{05}
+@2FD44
+
+Selon ce tome,
+clé du Feu :
+Betobeto-san,{FD}
+Umi-zatô ou
+Tsuchikorobi…{FD}
+Notons-le dans
+mes objets, pas
+que l'album.{F5}{2D}
+@2FDB2
+
+Le livre yôkai ne
+dit rien de
+nouveau.{FF}
+@2FDD3
+Chat
+Miaou.{FF}
+@2FDDB
+Nekomata
+Fshhh !{FC}
+{F2}
+Bon, l'appareil :
+la croix sert à
+viser l'endroit.{FD}
+Si l'endroit est
+bon, l'aura se
+synchronise…{FD}
+On peut l'ajuster
+avec l'Esprit,{FD}
+mais sans Esprit,
+on s'épuise, et
+adieu les photos.{FD}
+L'Esprit, c'est
+le bouton {7D}.{FD}
+Quand tout est
+aligné, le repère
+central change.{FD}
+Repère vert ?
+Alors on appuie
+pour déclencher.{FD}
+Déclencheur : {7E} !
+Allez, en photo !{FF}
+@2FEF5
+
+Une aura flotte…
+Qui est-ce ?{FF}
+@2FF0E
+Papy
+Bonjour.
+Qui vit ici ?…
+Oui, un yôkai !{FF}
+@2FF38
+Garçon
+C'est chez moi !
+Pas une ruine !{FD}
+Qui dit ça, je
+le mange, grrr !{FF}
+@2FF6F
+
+Suis-je… belle ?{FF}
+@2FF7F
+Fille
+Tu le vois, toi ?
+Une grosse tête
+vole là-haut !{FF}
+@2FFA6
+Fille
+Moi, je le vois.
+Photographie-le
+avec ton appareil{FF}
+@2FFCF
+Papy
+Vous le voyez ?
+Ce yôkai, là…
+Prenez-le, vite !{FF}
+@30000
+Papy
+Vous le voyez ?
+Ce yô
+@30016
+kai… Vient-il
+me cherch
+@30023
+er ?{FF}
+@3002D
+Papy
+Moi ? Binbôgami !{FF}
+@30042
+Cadre
+Joli appareil !
+Prends-moi, va !{FD}
+Quoi ? Que des
+yôkai ?!
+Pfff, radin !{FF}
+@3008C
+Cadre
+C'est quoi, ça ?!
+Ne me prenez
+pas en photo !{FD}
+Arrêtez !{FD}
+Arrêtez donc !!{FD}
+Arrêteeeez…
+…hein ? Quoi ?
+Pas de photo ?{FD}
+Que des yôkai,
+c'est ça ?{FD}
+Et moi qui étais
+partant ! Nul !{FD}
+T'es nul, voilà !
+Nul ! Nul ! Nul !{FD}
+Prouve-le, va !!{FF}
+@30146
+
+Selon ce tome,
+clé du Vent :
+chez Kappa,{FD}
+Kasha ou
+Konaki-jijii…{FF}
+@30192
+
+Selon ce tome,
+clé de la Terre :
+chez Yasha,{FD}
+Ningyo ou
+Ittan-momen…{FF}
+@301E0
+
+Selon ce tome,
+clé de l'Eau :
+chez Tsurubebi,{FD}
+Kamaitachi ou
+Nurikabe…{FF}
+@3022D
+
+Selon ce tome,
+clé du Feu :
+Betobeto-san,{FD}
+Umi-zatô ou
+Tsuchikorobi…{FF}
+@3027B
+
+Scellé par un
+sort : il faut la
+«Clé» assortie.{FF}
+@302A3
+Moine
+Cet album, c'est
+un album yôkai !{FD}
+J'expertise les
+albums.{FD}
+Une fois rempli,
+je l'évaluerai.{FF}
+@302FD
+Moine
+Expertisons donc.{FD}
+Namuuu namu
+namu namuuu
+Namuuuuuu !!{FD}
+Votre album est
+rempli à… !!{FD}
+{F3} pour cent !
+Voilà !{FD}
+Encore faible :
+reçu de justesse.{FF}
+@30365
+Moine
+Expertisons donc.{FD}
+Namuuu namu
+namu namuuu
+Namuuuuuu !!{FD}
+Votre album est
+rempli à… !!{FD}
+{F3} pour cent !
+Voilà !{FD}
+Pas mal, mais un
+petit effort de
+plus serait bien.{FF}
+@303DC
+Moine
+Expertisons donc.{FD}
+Namuuu namu
+namu namuuu
+Namuuuuuu !!{FD}
+Votre album est
+rempli à… !!{FD}
+{F3} pour cent !
+Voilà !{FD}
+Bien ! Je vois
+là un vrai
+talent.{FF}
+@30449
+Moine
+Expertisons donc.{FD}
+Namuuu namu
+namu namuuu
+Namuuuuuu !!{FD}
+Votre album est
+rempli à… !!{FD}
+{F3} pour cent !
+Voilà !{FD}
+Très bel album !
+Presque, hélas !{FD}
+Encore un effort
+et ce sera
+splendide !{FF}
+@304D2
+Moine
+Expertisons donc.{FD}
+Namuuu namu
+namu namuuu
+Namuuuuuu !!{FD}
+Votre album est
+rempli à… !!{FD}
+{F3} pour cent !
+Voilà !{FD}
+Superbe ! Un tel
+album, ça ne se
+voit pas souvent.{FD}
+Presque parfait !{FF}
+@30557
+Moine
+Expertisons donc.{FD}
+Namuuu namu
+namu namuuu
+Namuuuuuu !!{FD}
+Votre album est
+rempli à… !!{FD}
+100 pour cent !
+Voilà !{FD}
+Complet !
+Parfait !!{FD}
+Un tel album, je
+n'en ai jamais vu
+ni ouï parler !!{FD}
+Ah, quel bonheur
+de l'avoir vu !{FD}
+En remerciement,
+j'invoque… Namu
+Namuuuuuuuuuu…{FC}
+Staff
+Vous avez joué au
+«Studio Photo des
+Yôkai» !{FD}
+Merci beaucoup !{FD}
+Rien de plus à
+100 pour cent…{FD}
+mais cet effort
+nous émeut !{FD}
+On fera d'autres
+jeux amusants :
+revenez jouer !{FD}
+{F2},
+un grand merci !{FF}
+@306D1
+Moine
+Votre album est
+plein de yôkai !{FD}
+Voici un message
+que le maître
+Mizuki a laissé.{FF}
+@3071D
+
+Portail ouvert !!{FF}
+@3072C
+
+Portail ouvert !!{FF}
+@3073C
+
+Portail ouvert !!{FF}
+@3074C
+
+Portail ouvert !!{FF}
+@3075C
+
+Clés manquantes :
+portail fermé.{FF}
+@30773
+
+Zut !!
+P-pas de film !!{FF}
+@3078A
+
+Une jarre antique
+au motif étrange,
+pleine de force…{FF}

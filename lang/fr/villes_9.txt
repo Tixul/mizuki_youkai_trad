@@ -1,0 +1,219 @@
+# VF — 0x29009-0x297FF : Kansai (fin), ports, temple, Shimonoseki/Moji (tunnel, binbôgami),
+# indices yôkai : futakuchi-onna (bouche derrière la tête), kuchisake-onna (« Suis-je belle ? »),
+# char de feu. Parodie RPG de la Mamie (carton) = indice : fouiller quand on est coincé.
+@29009
+Homme
+Hé là !
+Entrer comme ça ?
+T'es mal élevé !{FF}
+@29032
+Femme
+Vous désirez ?
+Les yôkai ?{FD}
+Bah, demandez
+à ma fille.{FF}
+@29065
+Fille
+Les yôkai ? Je
+sais ! Avec une
+copine, on a vu !{FD}
+La nuit, un char
+de feu roulait !{FF}
+@290AF
+Cadre
+Souvenirs Kansai…
+Charme ? Fiole ?
+Rien d'autre ?{FF}
+@290DC
+Cadre
+Le Kansai, c'est
+étrange : un tel
+magasin, ici !{FD}
+Et un papy qui
+parle à la mer…{FD}
+C'est pas pareil.{FF}
+@29130
+Homme
+D'ici, je prends
+le bateau d'Itô.{FF}
+@2914D
+Femme
+En bateau, on
+croise des yôkai,
+paraît-il.{FD}
+J'ai peur, mais
+j'aimerais voir !{FF}
+@2918D
+Garçon
+Le soir, en mer,
+y a des yôkai !
+Papy me l'a dit !{FF}
+@291BD
+Moine
+Temple des yôkai.{FF}
+@291CF
+Femme
+Vous désirez ?
+Hein ? Un yôkai ?{FD}
+Mon beau-père dit
+en avoir vu un…{FD}
+Avec ses lubies,
+je le croyais
+gâteux…{FF}
+@29223
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Papy
+Un soir, je passe
+près d'un ryokan,
+j'en vois un !{FD}
+Un yôkai, sûr !
+Une bouche dans
+la nuque ! Vrai !{FF}
+@292A2
+Cadre
+Si tu dors en
+ville, prudence :
+y a des yôkai !{FF}
+@292CD
+{F2}
+Des faits louches
+récemment ?{FC}
+Presse
+Des yôkai, hein ?
+On en entend tant
+mais pas ici.{FD}
+Les archives sont
+là, sers-toi !{FF}
+@29334
+Presse
+Débordé, avec
+ces mystères !{FD}
+Au mont Daisen
+aussi, ça bouge…{FF}
+@2936D
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Cadre
+Des yôkai ?{FD}
+On en parle
+partout, mais
+pas ici.{FF}
+@293BF
+Homme
+Hé, gamin !
+Tu veux quoi ?{FD}
+Rien ? Alors
+pourquoi entrer ?{FF}
+@293F1
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Femme
+Pour les yôkai ?{FD}
+Je ne sais pas si
+c'en était un…{FD}
+Dans la rizière
+à l'est, un truc
+flottait au vent.{FF}
+@29461
+Papy
+Depuis quand ce
+magasin est là ?{FF}
+@2947E
+Homme
+Passé ce tunnel,
+c'est Kyûshû.{FD}
+Pourtant on s'y
+perd ! Tout droit{FF}
+@294B5
+Homme
+Un vieux louche
+loge au tunnel,
+la ville dépérit.{FD}
+Moins que celle
+d'en face, hein.{FD}
+On dit que c'est
+un binbôgami !{FF}
+@29518
+Groom
+Bienvenue !
+Entrez, entrez !
+Dormir ? Sauver ?{FD}
+On n'a plus de
+clients, alors
+je m'active !{FF}
+@29569
+Cadre
+La ville semble
+s'être appauvrie
+d'un coup…{FD}
+L'autre jour, une
+femme insistait :
+«Suis-je belle ?»{FD}
+La misère gagne
+même les cœurs ?{FF}
+@295D1
+Cadre
+Vers Kyûshû…
+Ah, pas ici, zut.{FF}
+@295F3
+Cadre
+Pour Kyûshû, le
+train est mieux.{FD}
+Le tunnel, avec
+ce vieux louche,
+c'est risqué.{FF}
+@29631
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Papy
+Des yôkai ?{FD}
+Au crépuscule,
+une femme yôkai
+apparaît, dit-on.{FF}
+@2968C
+Mamie
+Mamie fouilla le
+carton. Rien
+d'utile.{FD}
+Pourtant !
+Au pire moment,
+on trouve tout !{FF}
+@296DA
+Fille
+«Suis-je belle ?»{FD}
+Un yôkai poserait
+cette question…
+Elle est belle ?{FF}
+@2970C
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Homme
+Selon la rumeur,
+dans la forêt à
+l'est, un yôkai !{FD}
+Une rumeur, hein,
+vrai ou faux ?{FF}
+@29777
+Homme
+Inutilisé, ça me
+sert d'entrepôt,{FD}
+mais une bête
+semble y vivre.{FF}
+@297B3
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Femme
+Pour les yôkai ?{FD}
+Chut, tout bas :
+il serait dans
+l'entrepôt à côté{FD}
+Quelqu'un venu
+nettoyer à midi
+a vu une ombre !{FF}

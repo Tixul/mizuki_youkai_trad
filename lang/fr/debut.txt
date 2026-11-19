@@ -1,0 +1,123 @@
+# VF — début du jeu (intro + atelier de Mizuki). Bloc ROM 0x307B5-0x30C79.
+# Format : "@OFFSET" ouvre un message (cible de pointeur). CHAQUE ligne finit par FE
+# (dans la ROM, même {FF}/{FD}/{F7} sont suivis d'un FE). {XX} = octet brut.
+# Règle : MÊMES codes de contrôle (FE/F2/F5-FF), dans le même ordre, que le japonais.
+# 17 caractères max par ligne, 3 lignes max par page (+ ligne du nom).
+@307B5
+Ce pays grouille
+encore de yôkai.{F7}
+@307D4
+On ne les voit
+presque jamais,
+mais ils sont là.{F7}
+@307FD
+Pouvoir les
+prendre en photo,
+quel rêve !{F6}
+Pour des récits
+à dormir debout,
+venez au studio !{F7}
+@30858
+Tiens, un nouveau
+visiteur au récit
+bien étrange…{F6}
+
+Installez-vous.{F7}
+@3088A
+Shigeru Mizuki !
+Qui dit yôkai
+dit Mizuki.{FD}
+Il a une maison
+ici, en ville ?
+Quelle veine !{FD}
+Futur expert des
+yôkai, je veux
+être son élève !{FD}
+Qu'il refuse !
+J'insisterai !!{FF}
+@30919
+Mizuki
+Encore vous ?
+Je ne prends pas
+d'élève, point.{FD}
+Laissez tomber
+et rentrez.{FF}
+@30957
+{F2}
+Maître, pitié !{FC}
+Mizuki
+Non, c'est non.
+Rentrez donc.{FF}
+@30982
+{F2}
+C'est mon rêve,
+je vous en prie !{FC}
+Mizuki
+Hmmm…
+Bon, d'accord.
+Attendez un peu.
+@309BC
+Le maître sort.
+Le temps passe…{FD}
+Partagé entre
+espoir et trac…{FD}
+Puis le maître
+revient enfin.{FF}
+@30A0F
+Mizuki
+Quand on fait ce
+métier longtemps…{FD}
+on croise parfois
+des zigotos…{FD}
+Alors Mizuki leur
+donne ceci.{FF}
+@30A61
+Voici l'«Ungai»,
+un appareil qui
+voit les yôkai.{FD}
+Mais il faut un
+énorme pouvoir
+spirituel, hein.{FD}
+Chez les gens
+normaux, il dort.{FD}
+Sans le niveau
+de Mizuki, rien
+ne se passe.{FD}
+Essayez donc de
+prendre un yôkai.{FD}
+Si l'appareil
+réagit avec vous,
+on en reparlera.{FD}
+Sinon…
+c'est non !{FD}
+Ah, au fait : il
+est juste prêté !{FD}
+Signez-moi donc
+ce bon de prêt.{FD}
+Juste un paraphe.{FF}
+@30B83
+Mizuki
+Bon, {F2}.
+Il y a 4 poses.{FD}
+Une fois prises,
+revenez me voir.{FD}
+Allez, courage.
+Oui, oui, filez !{FF}
+@30BC5
+Ce vieil appareil
+voit les yôkai ?{FD}
+Et s'il m'avait
+filé une épave
+pour me virer ?{FD}
+Perplexe, je
+quitte sa maison.{FD}
+Dehors,
+le soir tombait.{FF}
+@30C39
+{F2}
+Quelle énergie !
+Qu'arrive-t-il ?{FF}
+@30C5C
+Mizuki
+Hmmm…
+Quel désastre…{FF}

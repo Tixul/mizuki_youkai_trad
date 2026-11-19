@@ -1,0 +1,471 @@
+# VF — scénario principal (table 0x16749…, ROM 0x30C79-0x31D76).
+# Glossaire : おさ = roi (du Feu / de l'Eau / du Vent / reine de la Terre), ふういん = sceau,
+# おふだ = talisman, けっかい = barrière, もん = portail, こもんじょ = les vieux écrits,
+# おしょう = Bonze, げっこう = Gekkô, そうりょ = Moine, うんがい = l'Ungai, ようりょく = yôryoku.
+@30C79
+{F2}
+Un problème ?{FF}
+@30C88
+Mizuki
+Ça va mal… Je ne
+peux plus partir.{FC}
+{F2}
+Je peux y aller ?{FC}
+Mizuki
+Ce flot d'énergie
+s'est répandu
+dehors. Danger !{FC}
+{F2}
+Comptez sur moi !
+Photo réussie :
+mission d'élève !{FC}
+Mizuki
+Votre photo vient
+de cette énergie.{FD}
+Mais promis, je
+penserai à votre
+candidature.{FD}
+Bref, moi je ne
+peux pas partir.{FD}
+{F2}, je compte
+sur vous.{FD}
+Allez voir Gekkô,
+le bonze du Kôya,{FD}
+et rapportez-moi
+un talisman !{FC}
+{F2}
+Bien, j'y vais !{FF}
+@30DD0
+Dehors, rien
+d'anormal…{FD}
+Pourtant, cette
+force avait déjà
+envahi le pays.{FD}
+Mais à ce moment,
+je n'en savais
+encore rien…{FF}
+@30E30
+Bonze
+Ça alors !
+C'était donc ça !{FD}
+Ces étranges
+phénomènes, nous
+les étudiions.{FD}
+On sait la cause,
+mais aucun sceau
+n'est assez fort.{FC}
+{F2}
+Que faire ?{FC}
+Bonze
+Hmmm…
+Hmmm…{FD}
+Les sceaux jadis
+mis sur les rois
+yôkai pourraient…{FC}
+{F2}
+Des sceaux ?{FC}
+Bonze
+Feu, Eau, Vent,
+Terre : quatre
+sceaux suprêmes.{FD}
+{F2}
+Et où sont-ils,
+ces sceaux ?{FD}
+Bonze
+Les vieux écrits
+en parlent, je
+crois. Cherchons.{FD}
+Toi, là ! Va
+me chercher ça !{FF}
+@30F69
+{F2}
+Les sceaux, hein…{FD}
+Mais si on les
+retire…{FD}
+les rois yôkai
+se déchaîneront ?{FD}
+Gekkô
+Pas besoin.{FD}
+Prends juste une
+photo des sceaux
+avec ton Ungai.{FD}
+{F2}
+En photo ? Ça,
+je sais faire !{FF}
+@30FEE
+Bonze
+Pardon, {F2}.
+Les écrits ne{FD}
+parlent que du
+roi du Feu,
+pour l'instant.{FD}
+Pour les autres,
+il faut encore
+chercher.{FD}
+{F2}
+Compris !{FD}
+Pendant ce temps,
+j'irai prendre le
+sceau du Feu.{FD}
+Bonze
+Attends !!{FD}
+Même en sachant
+où il est, tu ne
+le verras pas.{FD}
+{F2}
+Pourquoi ?{FF}
+@310B9
+Le yôkai scellé,
+Kyûbi le renard,{FD}
+est dissimulé
+par un «portail»
+magique.{FD}
+Trouve d'abord le
+yôkai à la clé.{FD}
+La clé du Feu est
+chez un yôkai
+d'autre élément :{FD}
+donc de l'Eau, du
+Vent ou Terre.{FD}
+Va le chercher !
+Pour les détails,
+demande au moine.{FD}
+Il en saura plus
+sur les autres.{FF}
+@31195
+Mizuki
+Ah, {F2} !
+Juste à temps !{FD}
+Le sceau ? Ah, le
+voilà ! Allez !{FF}
+@311CB
+Mizuki
+{F2} !
+Regardez bien !
+@311DF
+Mizuki
+Ha ! Ha !! Ha !!
+Haaaaaaaa !!!{FF}
+@31200
+Mizuki
+Ouf ! Ça y est,
+on a eu chaud !{FF}
+@31224
+Mizuki
+Merci, {F2} !
+Affaire réglée…
+Hein ? Quoi ?{FC}
+{F2}
+Maître…
+C'est quoi… ?{FF}
+@31260
+Mizuki
+Tiens ?…
+Un bout a filé…{FF}
+@3127F
+{F2}
+Maître…{FD}
+Mizuki
+Ha ha ha ha !
+Un brin d'étrange
+égaye la vie !
+Ha ha ha ha !{FC}
+{F2}
+Maître !{FF}
+@312C6
+Pas de panique.{FD}
+L'essentiel est
+scellé, et cette
+force s'éteindra.{FD}
+Mais ce yôkai,
+c'était quoi ?{FD}
+{F2},
+photographié ?{FD}
+{F2}
+Pas eu le temps !{FD}
+Mizuki
+Ah… Dommage…
+Vraiment dommage.{FD}
+On ne revivra
+jamais ça.{FD}
+Mizuki est
+infiniment déçu.{FD}
+
+Moi qui voulais…{FD}
+
+Ah, quel gâchis !{FD}
+
+Raté…{FD}
+{F2}
+Euh…{FD}
+Je le mitraille ?{FD}
+Mizuki
+Oh ! {F2} !
+Vous y allez ?!{FD}
+Digne élève de
+Mizuki, ça !{FD}
+{F2}
+Je suis pris ?{FD}
+Mizuki
+Oups, élève,
+trop tôt ! Haha !{FD}
+Une photo réussie
+et c'est gagné.{FD}
+Allez, vite, ou
+il va filer !{FF}
+@31457
+Une aura étrange…
+Un yôkai est là !{FF}
+@31474
+Peu après, comme
+le disait Mizuki,{F6}
+l'Ungai cessa de
+réagir.{F6}
+La ville reprit
+son air d'avant,{F6}
+tout comme avant…{F6}
+Mizuki ne m'a pas
+pris comme élève,{F6}
+mais il déteste
+les grands mots
+comme «maître».{F6}
+Depuis, je l'aide
+très souvent.{F6}
+Plus de yôkai…{F6}
+Ou ils se cachent{F6}
+Ils sont sûrement
+toujours là…{F7}
+@31560
+Quelle étrange
+aventure ce fut.{F6}
+En y repensant,
+j'ai l'impression
+d'avoir rêvé.{F6}
+Si j'avais encore
+mon album…{F6}
+Où est l'album ?{F6}
+Resté au magasin,{F6}
+ce magasin qui a
+disparu avec eux.{F6}
+Si un jour tu y
+vas, rapporte-le.{F6}
+L'album de {F2},
+dis-le bien.{F6}
+Reviendras-tu ?
+Car là-bas……{F7}
+@31641
+Mizuki
+Une vieille jarre
+de ma collection{FD}
+cachait un yôkai
+d'une puissance
+folle.{FD}
+Plus qu'un yôkai,
+presque un dieu…{FF}
+@3169A
+{F2}
+Enfin ! Me voici
+au mont Kôya !{FF}
+@316B1
+{F2}
+Qu'y a-t-il ?{FF}
+@316C2
+…Eh bien……
+……C'est que…{FD}
+…de la jarre…{FD}
+…………
+…il est sorti…{FD}
+Le sceau a dû
+s'affaiblir…{FF}
+@3171B
+{F2}
+Sorti ?! Mais
+c'est grave, ça !{FF}
+@31735
+Mizuki
+Un talisman de la
+maison l'enferme,{FD}
+mais combien de
+temps ? Si fort…{FD}
+Et son «yôryoku»,
+l'énergie yôkai,{FD}
+a dû se répandre
+dehors, pfffuit !{FD}
+Bref. Au mont
+Kôya, on trouvera
+un sceau costaud.{FD}
+J'y fais un saut.
+Ciao !!{FF}
+@317EA
+Selon les écrits,
+le roi de l'Eau,
+Ushi-oni,{FD}
+dort à Kyûshû,
+au mont Aso.{FD}
+Sa barrière s'est
+dissipée, mais
+près du portail,{FD}
+une barrière fait
+perdre le sens de
+l'orientation.{FD}
+Une barrière bien
+particulière…{F5}{36}
+@3187B
+Selon les écrits,
+le roi du Vent,
+Tengu,{FD}
+est scellé à
+Hokkaidô, au mont
+Daisetsu.{FD}
+Sa barrière s'est
+dissipée, mais…{FD}
+près du portail,
+on glisse sans
+jamais s'arrêter.{FD}
+Une barrière bien
+particulière…{F5}{15}
+@31910
+Selon les écrits,
+Sunakake-baba,
+reine de la Terre{FD}
+dort au Chûgoku,
+au mont Daisen.{FD}
+Sa barrière s'est
+dissipée, mais…{FD}
+près du portail,
+un courant chasse
+les intrus.{FD}
+Une barrière bien
+particulière…{F5}{2F}
+@3199F
+Selon les écrits,
+le roi du Feu,
+Kyûbi le renard,{FD}
+dort au Kantô,
+sur le mont Fuji.{FD}
+Sa barrière s'est
+dissipée, mais…{FD}
+près du portail,
+les intrus sont
+envoyés ailleurs.{FD}
+Une barrière bien
+particulière…{F5}{20}
+@31A2F
+
+Je note tout ça !{FF}
+@31A44
+
+Vers Sapporo…{F7}
+@31A56
+
+Vers Akita…{F7}
+@31A67
+
+Vers Sendai…{F7}
+@31A79
+
+Vers Yamagata…{F7}
+@31A8B
+
+Vers Tôkyô…{F7}
+@31A9E
+
+Vers Nagano…{F7}
+@31AAF
+
+Vers Toyama…{F7}
+@31AC0
+
+Vers Nagoya…{F7}
+@31AD1
+
+Vers Osaka…{F7}
+@31AE3
+
+Vers Izumo…{F7}
+@31AF4
+
+Vers Okayama…{F7}
+@31B06
+
+Vers Shimonoseki…{F7}
+@31B19
+
+Vers Shimonoseki…{F7}
+@31B2C
+
+Vers Matsuyama…{F7}
+@31B3E
+
+Vers Kagoshima…{F7}
+@31B50
+
+Vers Chitose…{F7}
+@31B61
+
+Vers Narita…{F7}
+@31B72
+
+Vers l'aéroport
+du Kansai…{F7}
+@31B88
+
+Vers Matsuyama…{F7}
+@31B9A
+
+Vers Miyazaki…{F7}
+@31BAC
+
+Vers Naha…{F7}
+@31BBC
+
+Vers Kushiro…{F7}
+@31BCD
+
+Vers Ryôtsu…{F7}
+@31BDF
+
+Vers Niigata…{F7}
+@31BF1
+
+Vers Itô…{F7}
+@31C02
+
+Vers Miyakejima…{F7}
+@31C15
+
+Vers Kushimoto…{F7}
+@31C27
+
+Vers Kôchi…{F7}
+@31C38
+
+Vers Nagasaki…{F7}
+@31C4A
+Mizuki
+Bravo, {F2} !{FD}
+Des photos si
+nettes, chapeau !{FD}
+Je n'ai plus rien
+à vous apprendre.{FD}
+Faisons équipe
+pour les yôkai !{FF}
+@31CAB
+Mizuki
+Bravo, {F2} !{FD}
+Votre album est
+plein de yôkai !{FD}
+Premier pas d'un
+vrai yôkaiste !{FD}
+Continuez ainsi !{FF}
+@31CFF
+Mizuki
+Bravo, {F2} !{FD}
+Vous avez pris
+tous les yôkai,{FD}
+et si joliment !
+Quel travail !{FD}
+Je n'ai plus rien
+à vous apprendre.{FD}
+Faisons équipe
+pour les yôkai !{FF}

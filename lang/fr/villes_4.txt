@@ -1,0 +1,206 @@
+# VF — 0x268C9-0x26FFF : Mizuki chez lui, dojo de Chichibu (Nikkô), Studio Photo, FIN (Daidarabotchi),
+# maître des duels photo (tic verbal 〜んだね -> « hein ! »).
+# ようかいしゃしんかん = « Studio Photo » (la boutique, nom du jeu). フォトバトル = duel photo.
+@268C9
+Mizuki
+Et ces photos ?
+J'ai hâte !{FF}
+@268E6
+Mizuki
+Je surveille ici,
+allez-y, gaffe !{FF}
+@26906
+Mizuki
+Je vois…
+Pas de talisman ?
+C'est embêtant.{FC}
+{F2}
+Pas d'inquiétude,
+je trouverai les
+sceaux en photo !{FC}
+Mizuki
+Bon, {F2},
+je compte sur
+vous, courage !{FF}
+@26979
+Mizuki
+Elle mettra du
+temps à partir :
+rien ne presse.{FD}
+Elle partie, cet
+«Ungai» aussi…{FD}
+ne réagira sans
+doute plus.{FD}
+D'ici là, prenez
+plein de yôkai en
+photo, non ?{FF}
+@269FB
+Mizuki
+Oh ! {F2} !
+Voilà le sceau !{FD}
+Un seul, non ?
+J'avais pourtant
+bon espoir…{FD}
+Bon, la suite,
+continuez, hein.{FF}
+@26A4A
+Mizuki
+La 2e aussi !
+Ho ho ! Allez,
+plus que 2 !{FD}
+Mizuki garde la
+maison, tout va
+bien. Prudence !{FF}
+@26A9C
+Mizuki
+Bon, il ne reste
+qu'un sceau.{FD}
+Mes talismans
+s'épuisent…{FD}
+Je vous en prie.{FF}
+@26ADC
+Moine
+Ce dojo est
+interdit aux
+profanes !{FF}
+@26B06
+Moine
+Entrez donc.{FF}
+@26B13
+Nikkô
+Ah, bienvenue !
+Gekkô m'a conté
+tes exploits !{FD}
+Formidable !!
+Entre au dojo ?{FD}
+Ah, c'est vrai :
+le yôkai enfui !{FD}
+Un instant…{FD}
+Namu namu namu
+namu namu namu
+namu namu namu…{FD}
+Namu ! Namu !
+Namu ! Namu !{FD}
+
+Haaaaaaa !!{FD}
+Cette force est
+montée au ciel,
+et se dissipe.{FD}
+Vers le sud.{FD}
+En venant du sud,
+tu la croiseras.{FD}
+C'est tout ce que
+je vois. Utile ?{FD}
+Bref, ton yôkai
+perd sa force peu
+à peu, là-haut…{FD}
+Au retour du sud,
+tu le croiseras.{FD}
+Voilà.
+Toi, tu sauras
+le trouver.{FF}
+@26C8B
+{F2}
+Quelqu'un a vu
+un yôkai, ici ?{FC}
+Homme
+Connais pas.{FF}
+@26CB6
+{F2}
+Quelqu'un a vu
+un yôkai, ici ?{FC}
+Homme
+Au cimetière, à
+l'est, on en a vu
+un, la nuit.{FF}
+@26CFD
+
+Bienvenue au
+Studio Photo !{FD}
+Il se passe des
+choses bizarres…{FD}
+Mais autour du
+magasin, cette
+force n'agit pas.{FD}
+Pour un article,
+parle à l'employé
+du comptoir.{FF}
+@26D66
+Mizuki
+Voilà donc…
+Daidarabotchi…
+…………{FD}
+C'était bien un
+dieu très ancien…{FC}
+{F2}
+Pourquoi un dieu
+devient yôkai ?{FC}
+Mizuki
+Un dieu reste un
+dieu. Les hommes
+l'ont fait yôkai.{FC}
+{F2}
+Quel culot…{FC}
+Mizuki
+Oui.
+Il pourrait bien
+se venger…{FD}
+Mais notre monde
+est dur pour les
+dieux d'antan.{FD}
+Laissons-le donc
+dormir en paix.{FC}
+{F2}
+Alors, je deviens
+votre élève ?{FC}
+Mizuki
+Hein ?
+J'ai dit ça ?
+J'oublie tout !{FD}
+En feuilletant
+l'album, qui sait{FC}
+{F2}
+
+Maître !!!!{FF}
+@26EB5
+
+Bienvenue au
+Studio Photo !{FD}
+Il se passe des
+choses bizarres…{FD}
+Mais autour du
+magasin, cette
+force n'agit pas.{FD}
+Pour un article,
+parle à l'employé
+du comptoir.{FF}
+@26F20
+
+Les photos yôkai
+captent sa forme
+et sa force, hein{FD}
+Avec ça, on a
+envie de lutter !{FD}
+Alors les fans
+de duels photo
+viennent ici !{FD}
+Les duels sont
+classés par rang.{FD}
+Ex. : au rang 2,
+les plus faibles.{FD}
+Ici, seuls les
+yôkai de niveau
+1 ou 2 entrent.{FD}
+Chaque niveau de
+yôkai a son rang,{FD}
+alors vois tes
+photos avant de
+t'inscrire !{FD}
+Gagne, et tu as
+une prime, mais{FD}
+surtout un objet
+super utile pour{FD}
+tes photos, qu'on
+ne trouve qu'ici,
+hein !{FD}
+Lance-toi, hein !{FF}

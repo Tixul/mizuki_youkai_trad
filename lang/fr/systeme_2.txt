@@ -1,0 +1,387 @@
+# VF — messages système 2 (ROM 0x2F083-0x2F7FF) : décor fouillé, objets trouvés/obtenus/volés.
+# Noms d'objets = EXACTEMENT ceux de objets.txt. ¥ = octet {79} (glyphe d'origine).
+# Généré puis relu : pour modifier, éditer ce fichier (pas de régénération automatique).
+@2F083
+ 
+Rien trouvé.{FF}
+@2F093
+ 
+Une dame peinte.{FF}
+@2F0A1
+ 
+Un coucou.{FF}
+@2F0AC
+ 
+Une horloge.{FF}
+@2F0B5
+ 
+Un téléphone.{FF}
+@2F0BE
+ 
+Jolies fleurs !{FF}
+@2F0C9
+ 
+Un vase.{FF}
+@2F0D1
+ 
+Un cendrier.{FF}
+@2F0DB
+ 
+Un extincteur.{FF}
+@2F0E5
+ 
+Ce livre ne parle
+pas de yôkai,
+semble-t-il.{FF}
+@2F105
+ 
+Rien d'utile
+dedans, mais…{FD}
+Au pire moment,
+on trouvera tout.{FF}
+@2F13C
+ 
+Rien sur les
+yôkai.{FF}
+@2F155
+ 
+En panne.
+Destinations :
+voir l'agent.{FF}
+@2F176
+ 
+Un maneki-neko !
+Pas un yôkai…{FF}
+@2F193
+ 
+Une télé.{FF}
+@2F19C
+ 
+Un ordinateur.{FF}
+@2F1A6
+ 
+Carte du Japon.{FF}
+@2F1B1
+ 
+On ne peut jouer.{FF}
+@2F1C0
+ 
+Le distributeur
+n'a pas d'objets.{FF}
+@2F1D9
+ 
+Rien sur les
+yôkai, on dirait.{FF}
+@2F1F2
+ 
+Maquette d'avion.{FF}
+@2F200
+ 
+Une pellicule !{FA}{0F}
+@2F20E
+ 
+Talisman Feu !{FA}{01}
+@2F21C
+ 
+Talisman Eau !{FA}{02}
+@2F22B
+ 
+Talisman Vent !{FA}{03}
+@2F23A
+ 
+Talisman Terre !{FA}{04}
+@2F249
+ 
+Talisman Néant !{FA}{05}
+@2F257
+ 
+Talisman Flamme !{FA}{06}
+@2F267
+ 
+Talisman Acier !{FA}{07}
+@2F277
+ 
+Talisman Pluie !{FA}{08}
+@2F286
+ 
+Talisman Forêt !{FA}{09}
+@2F295
+ 
+Talisman Lien !{FA}{0A}
+@2F2A6
+ 
+Talisman Temps !{FA}{0B}
+@2F2B5
+ 
+Herbe trouvée !{FA}{0C}
+@2F2C3
+ 
+Troisième œil !{FA}{0D}
+@2F2D1
+ 
+Une panacée !{FA}{0E}
+@2F2DF
+ 
+Pellicule obtenue{FF}
+@2F2ED
+ 
+{F2} obtient :
+Talisman Feu !{FF}
+@2F2FE
+ 
+{F2} obtient :
+Talisman Eau !{FF}
+@2F310
+ 
+{F2} obtient :
+Talisman Vent !{FF}
+@2F322
+ 
+{F2} obtient :
+Talisman Terre !{FF}
+@2F334
+ 
+{F2} obtient :
+Talisman Néant !{FF}
+@2F345
+ 
+{F2} obtient :
+Talisman Flamme !{FF}
+@2F358
+ 
+{F2} obtient :
+Talisman Acier !{FF}
+@2F36B
+ 
+{F2} obtient :
+Talisman Pluie !{FF}
+@2F37D
+ 
+{F2} obtient :
+Talisman Forêt !{FF}
+@2F38F
+ 
+{F2} obtient :
+Talisman Lien !{FF}
+@2F3A3
+ 
+{F2} obtient :
+Talisman Temps !{FF}
+@2F3B5
+ 
+{F2} obtient :
+Herbe !{FF}
+@2F3C6
+ 
+{F2} obtient :
+Troisième œil !{FF}
+@2F3D7
+ 
+{F2} obtient :
+Panacée !{FF}
+@2F3E8
+ 
+{F2} trouve
+{79}1000 !{F9}{00}
+@2F3F9
+ 
+{F2} trouve
+{79}5000 !{F9}{01}
+@2F40A
+ 
+{F2} trouve
+{79}10000 !{F9}{02}
+@2F41C
+ 
+{F2} trouve
+{79}50000 !{F9}{03}
+@2F42E
+ 
+{F2} trouve
+{79}100000 !{F9}{04}
+@2F441
+ 
+{F2} trouve
+{79}500000 !{F9}{05}
+@2F454
+ 
+Trop d'objets :
+plus de place.{FF}
+@2F46A
+ 
+{F2} obtient :
+Appareil Ungai !{F8}{01}
+@2F47E
+ 
+{F2} obtient :
+Grand-angle !{F8}{02}
+@2F492
+ 
+{F2} obtient :
+Macro !{F8}{03}
+@2F4A6
+ 
+{F2} obtient :
+Miroir d'eau !{F8}{04}
+@2F4B7
+ 
+{F2} obtient :
+Boîte à films !{F8}{05}
+@2F4CB
+ 
+{F2} obtient :
+Sceau du Feu !{F8}{06}
+@2F4DE
+ 
+{F2} obtient :
+Sceau de l'Eau !{F8}{07}
+@2F4F3
+ 
+{F2} obtient :
+Sceau du Vent !{F8}{08}
+@2F508
+ 
+{F2} obtient :
+Sceau de Terre !{F8}{09}
+@2F51D
+ 
+{F2} obtient :
+Clé Feu I !{F8}{0A}
+@2F52F
+ 
+{F2} obtient :
+Clé Feu II !{F8}{0B}
+@2F540
+ 
+{F2} obtient :
+Clé Feu III !{F8}{0C}
+@2F552
+ 
+{F2} obtient :
+Clé Eau I !{F8}{0D}
+@2F565
+ 
+{F2} obtient :
+Clé Eau II !{F8}{0E}
+@2F577
+ 
+{F2} obtient :
+Clé Eau III !{F8}{0F}
+@2F58A
+ 
+{F2} obtient :
+Clé Vent I !{F8}{10}
+@2F59D
+ 
+{F2} obtient :
+Clé Vent II !{F8}{11}
+@2F5AF
+ 
+{F2} obtient :
+Clé Vent III !{F8}{12}
+@2F5C2
+ 
+{F2} obtient :
+Clé Terre I !{F8}{13}
+@2F5D5
+ 
+{F2} obtient :
+Clé Terre II !{F8}{14}
+@2F5E7
+ 
+{F2} obtient :
+Clé Terre III !{F8}{15}
+@2F5FA
+ 
+Rien de nouveau.{FF}
+@2F60D
+ 
+Encyclopédie
+yôkai tome 1 !{F5}{01}
+@2F624
+ 
+Encyclopédie
+yôkai tome 2 !{F5}{02}
+@2F63B
+ 
+Encyclopédie
+yôkai tome 3 !{F5}{03}
+@2F652
+ 
+Encyclopédie
+yôkai tome 4 !{F5}{04}
+@2F669
+ 
+Info yôkai notée
+dans l'album !{FF}
+@2F682
+ 
+Dossier yôkai
+Hokkaidô trouvé !{F5}{06}
+@2F69B
+ 
+Dossier yôkai
+Tôhoku 1 trouvé !{F5}{07}
+@2F6B4
+ 
+Dossier yôkai
+Tôhoku 2 trouvé !{F5}{08}
+@2F6CD
+ 
+On a volé à {F2}
+une pellicule !{FF}
+@2F6E1
+On a volé à {F2}
+Talisman Feu !{FF}
+@2F6F3
+ 
+On a volé à {F2}
+Talisman Eau !{FF}
+@2F708
+ 
+On a volé à {F2}
+Talisman Vent !{FF}
+@2F71D
+ 
+On a volé à {F2}
+Talisman Terre !{FF}
+@2F732
+ 
+On a volé à {F2}
+Talisman Néant !{FF}
+@2F746
+ 
+On a volé à {F2}
+Talisman Flamme !{FF}
+@2F75C
+ 
+On a volé à {F2}
+Talisman Acier !{FF}
+@2F772
+ 
+On a volé à {F2}
+Talisman Pluie !{FF}
+@2F787
+ 
+On a volé à {F2}
+Talisman Forêt !{FF}
+@2F79C
+ 
+On a volé à {F2}
+Talisman Lien !{FF}
+@2F7B3
+ 
+On a volé à {F2}
+Talisman Temps !{FF}
+@2F7C8
+ 
+On a volé à {F2}
+Herbe !{FF}
+@2F7DC
+ 
+On a volé à {F2}
+Troisième œil !{FF}
+@2F7F0
+ 
+On a volé à {F2}
+Panacée !{FF}

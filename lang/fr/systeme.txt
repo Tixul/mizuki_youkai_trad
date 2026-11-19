@@ -1,0 +1,343 @@
+# VF — messages système : lieux, gares/aéroports/ports, séance photo (ROM 0x23E75-0x2464C).
+# Stats : れいりょく = Esprit, さつえいのうりょく = Technique, ようかいかんど = Flair.
+# PAS ENCORE : menus « はい いいえ » (0x23E52, 0x24217-0x24257) : position du curseur à vérifier.
+@23E75
+{F2}
+Oh non !
+Plus de pellicule
+dans l'étui !{FD}
+Fini les photos !{FF}
+@23EAC
+
+C'est bien la
+région Hokkaidô.{FF}
+@23EC6
+
+C'est bien la
+région Tôhoku.{FF}
+@23EDE
+
+C'est bien la
+région Kantô.{FF}
+@23EF6
+
+C'est bien la
+région Hokuriku.{FF}
+@23F0E
+
+C'est bien la
+région Chûbu.{FF}
+@23F26
+
+C'est bien la
+région Kinki.{FF}
+@23F3D
+
+C'est bien la
+région Chûgoku.{FF}
+@23F56
+
+C'est bien la
+région Shikoku.{FF}
+@23F6D
+
+C'est bien la
+région Kyûshû.{FF}
+@23F87
+
+Ma ville natale.{FF}
+@23F96
+
+Voici Wakkanai.{FF}
+@23FA5
+
+Le mont Daisetsu.{FF}
+@23FB5
+
+Voici Sapporo.{FF}
+@23FC3
+
+Port de Kushiro.{FF}
+@23FD4
+
+Aéroport Chitose.{FF}
+@23FE5
+
+Voici Hakodate.{FF}
+@23FF3
+
+Voici l'entrée du
+tunnel du Seikan.{FF}
+@2400C
+
+Voici l'entrée du
+tunnel du Seikan.{FF}
+@24025
+
+Voici Akita.{FF}
+@24032
+
+Voici Sendai.{FF}
+@24040
+
+Voici Yamagata.{FF}
+@2404E
+
+Port de Ryôtsu.{FF}
+@24060
+
+Voici Niigata.{FF}
+@2406E
+
+Voici Nagano.{FF}
+@2407B
+
+Voici Toyama.{FF}
+@24088
+
+Voici Tôkyô.{FF}
+@24097
+
+Aéroport Narita.{FF}
+@240A8
+
+Voici Kôfu.{FF}
+@240B5
+
+Le mont Fuji.{FF}
+@240C3
+
+Port d'Itô.{FF}
+@240D4
+
+Port Miyakejima.{FF}
+@240E7
+
+Voici Nagoya.{FF}
+@240F4
+
+Voici Osaka.{FF}
+@24102
+
+Aéroport Kansai.{FF}
+@24114
+
+Le mont Kôya.{FF}
+@24123
+
+Port Kushimoto.{FF}
+@24135
+
+Le mont Daisen.{FF}
+@24143
+
+Voici Izumo.{FF}
+@24150
+
+Voici Okayama.{FF}
+@2415E
+
+Voici Hiroshima.{FF}
+@2416C
+
+Shimonoseki, ici.{FF}
+@2417B
+
+Voici Kôchi.{FF}
+@24188
+
+Voici Matsuyama.{FF}
+@24196
+
+Voici Moji.{FF}
+@241A2
+
+Voici Oita.{FF}
+@241B0
+
+Le mont Aso.{FF}
+@241BE
+
+Voici Nagasaki.{FF}
+@241CC
+
+Voici Miyazaki.{FF}
+@241DA
+
+Voici Kagoshima.{FF}
+@241E8
+
+Voici Naha.{FF}
+@241F4
+
+C'est bien
+Okinawa, ici.{FF}
+@2420A
+
+Voici Chichibu.{FF}
+@24265
+Agent
+Gare de Sapporo.{FF}
+@24277
+Agent
+Gare d'Akita.{FF}
+@24288
+Agent
+Gare de Sendai.{FF}
+@2429A
+Agent
+Gare de Yamagata.{FF}
+@242AC
+Agent
+Gare de Tôkyô.{FF}
+@242BF
+Agent
+Gare de Nagano.{FF}
+@242D0
+Agent
+Gare de Toyama.{FF}
+@242E1
+Agent
+Gare de Nagoya.{FF}
+@242F2
+Agent
+Gare d'Osaka.{FF}
+@24304
+Agent
+Gare d'Izumo.{FF}
+@24315
+Agent
+Gare d'Okayama.{FF}
+@24327
+Agent
+Gare Shimonoseki.{FF}
+@2433A
+Agent
+Gare Shimonoseki.
+Ces quais ne vont
+qu'à Kyûshû.{FF}
+@24361
+Agent
+Gare Matsuyama.{FF}
+@24373
+Agent
+Gare Kagoshima.{FF}
+@24385
+
+Aéroport Chitose.
+Prendre l'avion ?{FF}
+@243A3
+
+Aéroport Narita.
+Prendre l'avion ?{FF}
+@243C1
+
+Aéroport Kansai.
+Prendre l'avion ?{FF}
+@243E0
+
+Ici l'aéroport !
+Prendre l'avion ?{FF}
+@243FF
+
+Aéroport Miyazaki
+Prendre l'avion ?{FF}
+@2441E
+
+Aéroport de Naha.
+Prendre l'avion ?{FF}
+@2443B
+
+Port de Kushiro.
+Monter à bord ?{FF}
+@24455
+
+Port de Ryôtsu.{FF}
+Monter à bord ?{FF}
+@24471
+
+Port de Niigata.
+Monter à bord ?{FF}
+@2448C
+
+Port d'Itô.
+Monter à bord ?{FF}
+@244A6
+
+Port Miyakejima.
+Monter à bord ?{FF}
+@244C2
+
+Port Kushimoto.
+Monter à bord ?{FF}
+@244DD
+
+Port de Kôchi.
+Monter à bord ?{FF}
+@244F7
+
+Port de Nagasaki.
+Monter à bord ?{FF}
+@24512
+
+{F2}
+laisse tomber.{FF}
+@24523
+
+{F2}
+n'en peut plus.{FF}
+@2453A
+
+L'aura a disparu…{FF}
+@2454C
+
+Le yôkai a filé.{FF}
+@2455F
+
+{F2} :
+Esprit baisse.{FF}
+@24571
+
+{F2} :
+Technique baisse.{FF}
+@24587
+
+{F2} :
+Flair baisse.{FF}
+@2459B
+
+Fin de la séance.{FF}
+@245AA
+
+{F2} gagne {F4}
+pts d'expérience.{FF}
+@245BC
+
+Esprit monte !{FF}
+@245CA
+
+Technique monte !{FF}
+@245DC
+
+Flair monte !{FF}
+@245EC
+
+{F2}
+monte de niveau !{FF}
+@245FB
+
+Ouf… Une pause ?{FF}
+@2460C
+
+Sauvegarde faite.{FF}
+@24617
+
+Pas assez de yens{FF}
+@24624
+
+Une barrière !
+Entrée bloquée !!{FF}
+@24641
+Chien
+
+Ouaf, ouaf !{FF}

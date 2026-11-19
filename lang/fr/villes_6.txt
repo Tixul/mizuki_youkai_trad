@@ -1,0 +1,223 @@
+# VF — 0x27817-0x27FFF : tunnel du Seikan, journal, hôtel hanté, rumeurs (Tôkyô, Kantô).
+# Les rumeurs = INDICES de jeu (lieu, heure, terrain) : les garder exacts.
+@27817
+Cadre
+Ce tunnel mène à
+Honshû, mais…{FD}
+Depuis la rumeur
+d'un vieux louche
+dedans, on fuit.{FF}
+@27867
+{F2}
+Vu des yôkai ?{FC}
+Garçon
+Yôkai, non. Mais
+une ombre, oui !{FF}
+@2789F
+Homme
+Tu veux quoi ?
+Pas de raison ?
+Alors dehors !{FF}
+@278C1
+Fille
+Papa a vu un
+yôkai côte est,
+nul ne le croit.{FD}
+D'où son humeur,
+pardon.{FF}
+@27908
+{F2}
+Des faits louches
+récemment ?{FC}
+Presse
+Encore un yôkai ?{FD}
+Y en a plein !{FF}
+@2794A
+Presse
+L'autre soir, un
+gamin a déboulé :
+«Un yôkai !»{FD}
+Quand on y est
+allés : rien !{FF}
+@27993
+Presse
+J'enquête sur les
+yôkai. Titre :{FD}
+«Yôkai : pourquoi
+maintenant ?!»{FF}
+@279C8
+{F2}
+Des gens ont vu
+des yôkai ?{FC}
+Homme
+Dans une auberge
+ici, j'ai vu un…{FD}
+C'était sûrement
+zashiki-warashi !{F5}{1B}
+@27A1A
+Femme
+J'ai vu un yôkai,
+mais la biblio
+n'a rien donné.{FF}
+@27A45
+Presse
+L'hôtel yôkai…
+Tous ceux qui y
+restent en voient{FF}
+@27A6C
+Cadre
+Yôkai, yôkai…
+Le rayon, où ça ?{FF}
+@27A8D
+Homme
+Tant de mystères…
+J'enquête ici.{FF}
+@27AB0
+Garçon
+L'hôtel d'ici a
+un yôkai, dit-on…
+C'est vrai ?{FF}
+@27AD4
+Homme
+Cette ville a un
+beau musée.{FD}
+Le passé ? Va
+voir au musée.{FF}
+@27B08
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Homme
+L'hôtel de la
+ville a un yôkai.{FD}
+Un genre de dieu,
+paraît-il.{FF}
+@27B5D
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Femme
+Des yôkai, hein…
+Jamais vu, alors
+je ne sais pas.{FF}
+@27B9D
+Homme
+Ah, cette ville !
+On y resterait…{FF}
+@27BBD
+Groom
+Ah, cette chambre
+est en ménage.{FF}
+@27BDD
+Cadre
+Je dors souvent
+ici, c'est bien !{FD}
+Mais un matin, un
+truc rôdait…
+J'ai rêvé ?{FF}
+@27C2A
+Homme
+Hé, toi !
+Pas touche à mes
+jarres, enfin !{FF}
+@27C55
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Femme
+Sais pas, moi.{FD}
+Et toi, qui t'a
+invité, hein ?!{FF}
+@27CA1
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Papy
+Moi, j'en ai vu !
+Dans la plaine au
+nord du fleuve…{FD}
+Un yôkai, sûr !{FF}
+@27CF6
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Femme
+Le petit jure
+avoir vu un yôkai{FF}
+@27D31
+Garçon
+Un yôkai, sûr !
+Je l'ai vu, là où
+y a des arbres !{FF}
+@27D60
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Homme
+L'autre nuit, le
+quartier brillait
+comme en feu !{FD}
+Dehors, un type
+était en feu !{FD}
+Je cours chercher
+de l'eau… parti !{FD}
+Quoi, ça ? Un de
+ces yôkai, hein ?{FF}
+@27DF7
+Femme
+Lui, il se soûle
+et il rêve. Ne
+le crois pas.{FF}
+@27E1E
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Cadre
+La nuit, en
+marchant, j'ai vu
+une ombre filer…{FD}
+Mais personne !
+J'ai eu peur.{FF}
+@27E77
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Cadre
+Chez les moines
+de Chichibu,{FD}
+le matin, des
+ombres courent…{FD}
+Ça fait peur…{FF}
+@27ED5
+Presse
+Ici, le journal.
+Partout, on nous
+parle de yôkai,{FD}
+Et jusqu'à Tôkyô,
+on signale des
+yôkai !{FD}
+Qu'arrive-t-il ?{FF}
+@27F35
+Presse
+Il y a des yôkai
+rien qu'au Kantô{FD}
+Un territoire ?{FF}
+@27F63
+Presse
+Les infos yôkai
+vont aux agences.{FD}
+ici, juste Tôkyô
+et le Kantô.{FF}
+@27FA8
+Homme
+Partout au Japon,
+c'est bizarre…{FD}
+J'sais pas trop,
+mais au mont Fuji
+aussi, paraît-il.{FF}
+@27FEC
+Cadre
+Je sillonne le
+pays pour bosser,
+là, c'est étrange{FD}
+C'était si dur ?{FF}

@@ -1,0 +1,183 @@
+# VF — 0x2707E-0x275A4 (duels photo, Nezumi, Nurarihyon) + 0x276BD-0x277F2 (journal, port).
+# ねずみおとこ = Nezumi (onglet 6 car. ; « le grand Nezumi » dans le texte), champion des duels.
+# ぬらりひょん = Nurari (onglet) / Nurarihyon (texte) ; rire ヒョヒョヒョ = « Hyo hyo hyo ! ».
+# Commandes de duel : こうげき «Attaque», ぼうぎょ «Défense», ようりょく «Yôryoku», いれかえ «Changer».
+# きしゃ = Presse. NON traduits : blocs vides 0x275DE-0x27668 et règles 0x2766C (format à voir).
+@2707E
+
+Tu savais, hein ?
+L'élément adverse
+a sa couleur !{FD}
+Lire l'élément,
+c'est la base !{FD}
+Allez, au duel !{FF}
+@270CA
+
+Tu savais ?!
+Après «Défense»,
+une «Attaque»…{FD}
+frappe un peu
+plus fort, hein !{FD}
+Viens te battre
+au rang supérieur{FF}
+@2711C
+
+Le duel, c'est
+subtil ! Un ordre
+renverse tout !{FD}
+«Yôryoku» et
+«Changer», clés !{FD}
+On commence, hein{FF}
+@2717A
+
+Au titre, choisis
+«Versus» :{FD}
+tu affrontes
+d'autres joueurs
+et leurs yôkai !{FD}
+Si tu perds, ta
+photo est prise{FD}
+Duel de survie !{FD}
+Et pas de lot.{FD}
+Donc, m'affronter
+est plus rentable{FF}
+@27202
+
+Rang 12 : plus de
+lots, hein.{FD}
+Un tuyau secret,
+ça te dit ?{FD}
+Ces gars-là, dans
+une maison vide…
+Oups, la suite,{FD}
+faut gagner pour
+l'avoir. Au 12 !{FF}
+@27277
+Nezumi
+Enfin la classe
+sans limite ! Tu
+y es, hein !{FD}
+Pour la finale,
+le grand Nezumi{FD}
+te lance le défi
+ultime, hein !{FF}
+@272CB
+Nezumi
+Ohé, {F2} !
+Champion du duel,
+c'est toi, hein !{FD}
+Un petit match ?{FF}
+@27301
+
+Hé, toi, là !
+Le monde devient
+enfin amusant…{FD}
+Pourquoi gâcher ?{FD}
+Un rabat-joie ne
+lira pas ce livre{FD}
+Tu veux le voir ?
+Bon, d'accord…{FD}
+Un truc amusant…
+Un duel photo !{FD}
+Si tu gagnes,
+je m'écarte.
+Alors, partant ?{FF}
+@273A4
+
+Tch !
+J'ai perdu…{FD}
+Adieu, à plus !
+Hyo hyo hyo hyo !{FF}
+@273CA
+
+Ah, te voilà !
+Tu tiens donc
+à tout gâcher…{FD}
+Pourquoi ?{FD}
+Toi aussi, ce
+monde mystérieux
+est plus drôle !{FD}
+Bah, soit.
+J'ai perdu la
+dernière fois…{FD}
+alors revanche !
+Pour passer, il
+faut me battre.{FF}
+@2745D
+
+Encore perdu…
+Tu te défends !{FD}
+Je ne lâche rien,
+on se reverra !{FD}
+Adieu !
+Hyo hyo hyo hyo !{FF}
+@2749C
+
+Encore là pour
+gâcher… Triste.{FD}
+Le vieux monde ?
+Ah, les humains…{FD}
+Voici mon dernier
+rempart. Tu ne
+passeras pas !{FD}
+En garde !!!{FF}
+@274FF
+Nurari
+Ah… finalement,
+j'ai perdu…{FD}
+Tu vas sceller ce
+monde si drôle ?{FD}
+Tant pis.
+Notre duel m'a
+bien amusé, va.{FD}
+Je suis le yôkai
+Nurarihyon.{FD}
+Si on se revoit,
+je poserai, va.{FD}
+Adieu !!
+Hyo hyo hyo hyo !{FF}
+@275A4
+
+Mais tu n'as
+aucune photo !
+Pas de duel !{FD}
+Pas drôle !!!
+Reviens équipé !{FF}
+@276BD
+Garçon
+J'étudie le yôkai
+de ma maison.{FD}
+Un «Ungaikyô» !{F5}{3F}
+@276E8
+Presse
+Ici, le journal.{FF}
+@276FA
+{F2}
+Des faits louches
+récemment ?{FC}
+Presse
+Des yôkai, hein ?
+On en a plein !{FD}
+Les archives sont
+là, sers-toi !{FF}
+@27759
+Presse
+Débordé, avec
+ces mystères !{FD}
+Au mont Daisetsu
+aussi, ça bouge…{FF}
+@27794
+Fille
+D'ici, en bateau,
+on voit des yôkai{FD}
+J'y vais jour et
+nuit : rien vu !{FF}
+@277D2
+Homme
+Le soir venu,
+ça fait du raffut{FF}
+@277F2
+Femme
+La nuit, on
+entend des voix…
+C'est inquiétant.{FF}

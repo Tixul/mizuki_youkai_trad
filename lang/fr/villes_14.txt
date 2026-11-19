@@ -1,0 +1,225 @@
+# VF — 0x2B833-0x2BFFF : moines chercheurs (ようかいじてん ○のまき = « tome du Feu/de l'Eau/du Vent/Terre »),
+# PNJ selon l'heure (bonjour / bonsoir), vache parlante la nuit (yanari), manzai d'Osaka
+# (ものいり/ものしり -> « Je-Sais-Rien » / « Je-Sais-TOUT »). ようかいアルバム = album yôkai.
+@2B833
+Moine
+J'étudie le roi
+du Feu.{FD}
+Lisez d'abord
+ce livre yôkai,
+tome du Feu.{FF}
+@2B86E
+Moine
+Pour le roi du
+Feu, les écrits
+sont déchiffrés.{FF}
+@2B893
+Moine
+Vous avez le
+sceau du Feu ?!{FD}
+Prodigieux ! Vous
+rejoignez-nous ?{FF}
+@2B8CE
+Moine
+J'étudie le roi
+de l'Eau.{FD}
+Le tome de l'Eau
+n'est pas ici,
+mais en ville ?{FD}
+Si vous le
+trouvez, revenez.{FD}
+Je cherche aussi.{FF}
+@2B940
+Moine
+Pour le roi de
+l'Eau, les écrits
+sont déchiffrés !{FF}
+@2B964
+Moine
+Vous avez le
+sceau de l'Eau ?!{FD}
+Prodigieux ! Vous
+rejoignez-nous ?{FF}
+@2B9A0
+Moine
+J'étudie le roi
+du Vent.{FD}
+Le tome du Vent
+n'est pas ici,
+mais en ville ?{FD}
+Si vous le
+trouvez, revenez.{FD}
+Je cherche aussi.{FF}
+@2BA12
+Moine
+Pour le roi du
+Vent, les écrits
+sont déchiffrés !{FF}
+@2BA36
+Moine
+Vous avez le
+sceau du Vent ?!{FD}
+Prodigieux ! Vous
+rejoignez-nous ?{FF}
+@2BA72
+Moine
+J'étudie la reine
+de la Terre.{FD}
+Le tome Terre
+n'est pas ici,
+mais en ville ?{FD}
+Si vous le
+trouvez, revenez.{FD}
+Je cherche aussi.{FF}
+@2BAE4
+Moine
+Pour la reine
+Terre, les écrits
+sont déchiffrés !{FF}
+@2BB08
+Moine
+Vous avez le
+sceau de Terre ?!{FD}
+Prodigieux ! Vous
+rejoignez-nous ?{FF}
+@2BB44
+Papy
+Bonjour, bonjour.
+Drôle de temps…{FD}
+Et hier… quoi ?
+Je perds la tête.{FD}
+Un album photo
+réveillerait ça ?{FF}
+@2BB9B
+Papy
+Bonjour, jeunesse
+Un album yôkai !{FD}
+Une photo collée,
+et la force du
+yôkai s'affiche !{FD}
+J'aimerais parler
+comme un expert !{FF}
+@2BC07
+Papy
+Quel couchant…
+Va te reposer.{FD}
+Une nuit à
+l'auberge, et tu
+repars en forme !{FF}
+@2BC4D
+Papy
+Ne traîne pas si
+tard ! Un souci ?{FD}
+En cas de pépin,
+vois les cartons.{FF}
+@2BC8D
+Vache
+Meuh-meuh-meuh
+meuuuh…{FF}
+@2BCA6
+Vache
+Je parle la nuit,
+moi, vache. Meuh…
+Je vois les yôkai{FD}
+Le soir, meuh,
+le yanari vient
+jouer des tours…{F5}{16}
+@2BCF2
+Fille
+Bonjour ! J'ai
+pris ce tunnel
+depuis Hokkaidô.{FD}
+On parlait d'un
+drôle de vieux…
+pas vu, en fait.{FF}
+@2BD40
+Fille
+Bonjour ! J'ai
+pris ce tunnel
+depuis Hokkaidô.{FD}
+Dans le tunnel,
+un vieux bizarre,
+ça m'a fait peur.{FF}
+@2BD85
+Fille
+Ce tunnel mène
+à Hokkaidô.{FD}
+Le vieux louche ?
+Pas vu, moi.{FF}
+@2BDBD
+Fille
+Bonsoir ! Ce
+tunnel mène
+à Hokkaidô.{FD}
+Le vieux louche ?
+Pas là, à cette
+heure-ci.{FF}
+@2BE09
+Garçon
+Bonjour ! J'ai vu
+un yôkai ici, je
+fais le guet !{FF}
+@2BE33
+Garçon
+Bonjour !
+Il vient pas…{FF}
+@2BE4A
+Garçon
+Déjà le soir…
+Il est parti ?{FF}
+@2BE71
+Garçon
+Bonsoir !
+Un yôkai, ça sort
+la nuit, non ?
+Mais rien, non…{FF}
+@2BEA2
+Papy
+Bonjour !
+La mer est calme.{FF}
+@2BEBF
+Papy
+Bonjour !
+D'ici, un bateau
+va à Kushiro.{FF}
+@2BEDF
+Papy
+Joli couchant !
+Demain, soleil ?{FF}
+@2BEFD
+Papy
+Bonsoir !
+Hein ?!
+Pas un yôkai, moi
+Je me balade.{FF}
+@2BF28
+Homme
+Salut, salut !
+Drôle de temps…
+Et hier… hein ?{FD}
+J'oublie tout,
+c'est l'âge ?{FD}
+Un trou ? L'album
+garde tout !{FD}
+Mais la météo
+d'hier, y a pas !
+Ça sert à rien !{FF}
+@2BFA5
+Homme
+Hé, mon grand !
+Oh ! Mais c'est
+un album yôkai !{FD}
+Tu colles une
+photo, ça montre
+sa force. Top !{FD}
+Comment je sais ?
+Ici, on m'appelle
+«Je-Sais-Rien» !{FD}
+…
+…
+…{FD}
+Allez, corrige :
+«Je-Sais-TOUT»,
+voyons, quoi !{FD}
+Avec toi, pas de
+duo ! Au revoir.{FF}

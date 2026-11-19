@@ -1,0 +1,211 @@
+# VF — PNJ des villes, 1re partie (ROM 0x25002-0x257FF).
+# おばちゃん (Osaka, parler du Kansai) = « Tata », gouaille populaire, se nomme elle-même.
+# かかりいん = Agent. おんなのこ = Fille.
+@25002
+Mamie
+Tu vas au Kôya ?{FD}
+Grâce te soit !{FF}
+@25025
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Mamie
+Des yôkai ?! Brr{FD}
+Quelle horreur !{FF}
+@25067
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Agent
+Des yôkai ?
+Je ne suis qu'un
+agent de gare…{FD}
+Essayez l'hôtel
+de la ville.{FF}
+@250C6
+Tata
+Au Kôya ? Oh là,
+fichu, mon coco !{FD}
+Je sais pas trop,
+mais d'Osaka, on
+y va plus direct.{FD}
+Pourquoi ? Ah ça,
+va savoir, coco !{FD}
+Va voir la gare !{FF}
+@25125
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Tata
+Des yôkai, hein ?{FD}
+On m'appelle déjà
+«mémé yôkai» ici,
+tu me charries ?{FD}
+Ah, les gamins
+d'aujourd'hui !
+Tata a peur, là !{FF}
+@251A5
+Agent
+Pour le Kôya ?{FD}
+Bizarrement, la
+ligne est coupée.{FD}
+Seul accès : par
+Kushimoto, en
+bateau de Kôchi.{FF}
+@25203
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Agent
+On en parle, mais
+jamais vu, moi.{FD}
+Allez voir à la
+bibliothèque ?{FF}
+@2525E
+Agent
+Pour le Kôya ?
+Rejoignez donc
+Matsuyama.{FF}
+@2528A
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Agent
+Des yôkai ?
+Pas moi, mais…{FD}
+On dit qu'on en a
+vu vers Daisen.{FD}
+Mais d'ici,
+Daisen, c'est un
+sacré détour.{FF}
+@25309
+Mamie
+Tu vas au Kôya ?
+Prends le train
+pour Matsuyama.{FF}
+@2533C
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Mamie
+Tu étudies les
+yôkai, toi ?{FD}
+On m'a dit qu'au
+journal, on suit
+l'étrange.{FD}
+Va donc voir !{FF}
+@253A6
+Homme
+Hé, toi !
+Tu entres chez
+moi comme ça ?!{FF}
+@253CF
+Homme
+Ma fille et moi,
+on a fait Daisen{FD}
+mais le terrain
+avait changé…
+On s'est perdus.{FF}
+@2540F
+Fille
+On va grimper le
+Daisen avec papa{FD}
+Papa est un pro,
+ça sera super !{FF}
+@25446
+Fille
+Papa disait qu'il
+était un pro…
+on s'est perdus !{FD}
+On a trouvé une
+sorte de ruines !{FF}
+@25494
+Agent
+Pour le Kôya ?
+Allez donc à
+Matsuyama.{FD}
+Là-bas, demandez
+à un agent.{FF}
+@254D4
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Agent
+Je ne sais pas…{FD}
+On parle d'un
+fait étrange vers
+Daisen.{FF}
+@25529
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Agent
+Des yôkai ?
+Je ne sais pas…{FD}
+Demandez donc au
+musée local ?{FF}
+@2557E
+Agent
+Le Kôya ?{FD}
+Ces quais vont
+à Kyûshû, pas au
+Kôya, désolé.{FF}
+@255B4
+Mamie
+Tu vas au Kôya ?{FD}
+Avec des sous :
+l'avion. Sinon,
+train à Matsuyama{FF}
+@255F2
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Mamie
+Tu cherches des
+yôkai ? De toute
+ma vie, jamais !{FD}
+Hmmm…{FD}
+Feu mon mari
+parlait de
+talismans d'appel{FD}
+Bah, c'est vieux…{FF}
+@2567C
+Agent
+Pour le Kôya ?{FD}
+Alors, il faut un
+bateau de Kôchi
+vers Kushimoto.{FD}
+Pas moyen d'Osaka
+ni du Kansai.{FF}
+@256CF
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Agent
+Des yôkai ?
+Je ne sais rien.{FD}
+Vers Kôchi, on
+en sait peut-être
+davantage.{FF}
+@25730
+Mamie
+Le mont Kôya ?
+C'est loin d'ici…{FD}
+En avion, ça va,
+mais l'aéroport ?
+Secret, hé hé !{FF}
+@2577A
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Mamie
+Tu étudies ça ?
+Va au musée :{FD}
+il a sûrement des
+archives yôkai.{FF}
+@257D2
+Agent
+Pour le Kôya, le
+plus court, c'est
+par le Kansai,{FD}
+mais ça coince…{FF}

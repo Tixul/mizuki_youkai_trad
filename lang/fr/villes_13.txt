@@ -1,0 +1,169 @@
+# VF — 0x2B176-0x2B744 : 2e version Gekkô / scellement / après-fin (Daidarabotchi), chat -> nekomata.
+# Répliques identiques à histoire = MÊME VF.
+@2B176
+{F2}
+Les sceaux, hein…
+Mais si on les
+retire…{FD}
+les rois yôkai
+se déchaîneront ?{FC}
+Gekkô
+Pas besoin.{FD}
+Prends juste une
+photo des sceaux
+avec ton Ungai.{FC}
+{F2}
+En photo ? Ça,
+je sais faire !{FF}
+@2B1FA
+Gekkô
+Pardon, {F2}.{FD}
+Les vieux écrits
+restent obscurs.{FD}
+Pour l'instant,
+le roi du Feu
+est déchiffré.{FD}
+Pour les autres,
+il faut encore
+chercher.{FC}
+{F2}
+Compris !{FD}
+Pendant ce temps,
+j'irai prendre le
+sceau du Feu.{FC}
+Gekkô
+Attends !!{FD}
+Même en sachant
+où il est, tu ne
+le verras pas.{FC}
+{F2}
+Pourquoi ?{FF}
+@2B2DB
+Mizuki
+Ah, {F2} !
+Je vous attendais{FD}
+Le sceau ? Ah, le
+voilà ! Allez !{FF}
+@2B30C
+Mizuki
+{F2} !
+Regardez bien !{FF}
+@2B31D
+Mizuki
+Ha ! Ha !! Ha !!
+Haaaaaaaa !!!{FF}
+@2B33B
+Mizuki
+Ouf ! Ça y est,
+on a eu chaud !{FF}
+@2B35C
+Mizuki
+Merci, {F2} !
+Affaire réglée…
+Hein ? Quoi ?{FC}
+{F2}
+Maître…
+C'est quoi… ?{FF}
+@2B394
+Mizuki
+Hein ?… Oh là là,
+un bout a filé…{FF}
+@2B3B2
+{F2}
+Maître…{FC}
+Mizuki
+Ha ha ha ha !
+Un brin d'étrange
+égaye la vie !{FD}
+Ha ha ha ha !{FC}
+{F2}
+Maître !!!{FF}
+@2B3FD
+Pas de panique.{FD}
+L'essentiel est
+scellé, et cette
+force s'éteindra.{FD}
+Mais ce yôkai,
+c'était quoi ?
+{F2},
+photographié ?{FC}
+{F2}
+Pas eu le temps !{FC}
+Mizuki
+Ah… Dommage…
+Vraiment dommage.{FD}
+On ne revivra
+jamais ça.{FD}
+
+Moi qui voulais…{FD}
+
+Ah, j'aurais aimé{FD}
+
+Raté…{FC}
+{F2}
+Euh…{FD}
+Je le mitraille ?{FC}
+Mizuki
+Oh ! {F2} !
+Vous y allez ?!{FD}
+Digne de mon
+élève, ça !{FC}
+{F2}
+Je suis pris ?{FC}
+Mizuki
+Oups, élève,
+trop tôt !{FD}
+Une photo réussie
+et c'est gagné.{FD}
+Allez, vite, ou
+il va filer !{FF}
+@2B563
+Mizuki
+Et ces photos ?
+J'ai hâte !{FF}
+@2B580
+Mizuki
+Ici, ça tient :
+allez-y, prudence{FF}
+@2B5A7
+Mizuki
+Je vois…
+Pas de talisman ?
+C'est embêtant.{FC}
+{F2}
+Maître,
+pas de souci :
+je trouverai les
+sceaux en photo !{FC}
+Mizuki
+{F2}, je compte
+sur vous, courage{FF}
+@2B616
+Mizuki
+{F2},
+j'ai enquêté.{FD}
+La jarre scellait
+Daidarabotchi…{FD}
+Un dieu très
+ancien. Le monde
+est dur pour eux.{FD}
+Laissons-le donc
+dormir en paix.{FC}
+{F2}
+Mais la force
+n'a pas disparu…{FC}
+Mizuki
+Ce qui reste est
+plus fort que
+prévu. Ça ira.{FD}
+D'ici là, prenez
+plein de photos !{FD}
+Un éclat de
+Daidarabotchi ?
+Il rôde encore…{FF}
+@2B72E
+Chat
+Miaou, miaou
+@2B739
+Nekomata{9A}
+Fshhh !{FF}

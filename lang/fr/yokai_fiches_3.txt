@@ -1,0 +1,209 @@
+# VF — fiches yôkai 80-119 (table 0x1175F), dont la famille de Kitarô.
+@228F7
+Un mur invisible
+bloque la route
+des marcheurs. Un
+bâton bas : fini.{FF}
+@22935
+Tapie en rivière,
+serpent à visage
+humain, longs
+cheveux. Sa queue
+reprend qui fuit.{FF}
+@22978
+Vieux chat changé
+en yôkai : queue
+fendue, debout,
+il comprend tout.{FF}
+@229BA
+Mangeur de rêves.
+Corps d'ours, nez
+d'éléphant, yeux
+de rhino, queue
+bœuf, pied tigre.{FF}
+@229FB
+Clan de tanuki
+maître du Shikoku
+Vainqueurs des
+renards, bannis !{FF}
+@22A36
+Fan de frayeurs,
+il se cache sous
+un chapeau, tête
+baissée… et hop !{FF}
+@22A70
+Il hante les
+maisons vides et
+effraie l'intrus.{FF}
+@22A96
+100 yeux sur tout
+le corps. Il sort
+la nuit ; un œil
+file et vous suit{FF}
+@22ACC
+En bande, ils
+vivent au fond
+des eaux. Qui les
+croise tombe
+malade, ou meurt.{FF}
+@22B0E
+Chez qui il loge,
+la chance chute,
+les maux pleuvent
+Vu en partant.{FF}
+@22B4E
+Bouche devant et
+derrière ! Quand
+la 2e mange, ses
+mèches-serpents !{FF}
+@22B85
+Feu que Bunagaya
+jette s'il est
+foulé. Bunagaya :
+kappa d'Okinawa.{FF}
+@22BBF
+«Ta louche !» dit
+le spectre : il
+coule le bateau.
+Prête-la trouée !{FF}
+@22BFD
+Quand un défunt
+va au temple, sa
+lanterne s'allume
+d'un feu-esprit.
+Le voir glace !{FF}
+@22C3F
+Des pas derrière
+toi la nuit ? Dis
+«Passe devant»
+et ils passent.{FF}
+@22C78
+Caché près d'un
+pont, il rase la
+nuit le crâne des
+passants, farceur{FF}
+@22CB1
+Il retourne les
+oreillers des
+dormeurs : signe
+de malheur.{FF}
+@22CEE
+Très malin, pas
+un tanuki banal.
+Il gonfle ses
+bourses en tapis
+et dupe les gens.{FF}
+@22D2C
+Il perd ceux qui
+vont aux bambous.
+Campe-t-on, ses
+branches tuent.{FF}
+@22D69
+Souvent vue comme
+yôkai, messagère
+des dieux. Gare !{FF}
+@22D98
+Les yeux rouges,
+longues oreilles,
+un air d'enfant.
+Mange les morts.{FF}
+@22DD4
+Dans les shôji
+troués des ruines
+des yeux par
+milliers fixent
+l'intrus, inertes{FF}
+@22E15
+Seul ou en bande
+de 5, il apporte
+les épidémies.{FF}
+@22E3F
+Dieu gardien de
+Bouddha, magique,
+à l'air d'un ogre{FF}
+@22E66
+Sans séisme, si
+shôji et portes
+tremblent, c'est
+le yanari. Vieux
+manoirs, surtout.{FF}
+@22E9D
+En montagne, il
+porte vos lourds
+fardeaux jusqu'au
+village. Gratis !
+Il aime le saké.{FF}
+@22EDC
+Au fond des bois,
+noir et velu de
+partout. Il parle
+et il est bon.{FF}
+ 
+@22F1E
+Montagnarde. En
+rage, œil bleu,
+bouche fendue.
+Achète du saké.{FF}
+@22F55
+Nuit de tempête,
+dans les refuges,
+elle glace d'un
+souffle : mort !{FF}
+@22F91
+Le yôkai écho.
+Unijambiste tel
+un épouvantail,
+au fond des bois,
+répond aux appels{FF}
+@22FD3
+Nuit de pluie,
+un sentier perdu,
+il frôle et file.
+Fuyez : il suit !{FF}
+@2300C
+Au coucher, son
+cou s'allonge et
+cherche à manger.
+Le jour, humaine,
+cou strié violet.{FF}
+@23059
+Griffes et crocs
+féroces, géant
+velu de boue et
+d'herbe : un roc.{FF}
+@2309B
+Yôkai de la mer.
+Il avale l'ombre
+des gens sur
+l'eau. Sans elle,
+on perd son âme.{FF}
+@230D7
+Au centre d'une
+roue, un visage
+de bonze, en feu,
+qui file. Le voir
+vole votre âme.{FF}
+@23119
+Seul descendant
+des spectres du
+Japon. Il porte
+un gilet en poils
+d'aïeux, magique.{FF}
+@23159
+Il se démène pour
+un petit bonheur,
+mais rate souvent
+ses chances.{FF}
+@23192
+Fille-chat, sorte
+de bake-neko.
+Amie de Kitarô.{FF}
+@231B3
+Né d'humain et de
+yôkai : mi-yôkai.
+Ami de Kitarô.{FF}
+@231DC
+Père de Kitarô,
+seul son œil a
+survécu. Il loge
+dans son orbite.{FF}

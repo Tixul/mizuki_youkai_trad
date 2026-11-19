@@ -1,0 +1,217 @@
+# VF — 0x28026-0x287FF : hôtels, Sado, enfants « élémentaires » (règles Feu/Eau/Vent/Terre),
+# Izumo, Miyakejima. じょうし = Patron, ぶか = Commis (6 car. max).
+@28026
+Groom
+Bienvenue ! Que
+désirez-vous ?{FD}
+Des yôkai ?{FD}
+Navré, mais
+notre hôtel n'en
+propose pas.{FF}
+@28072
+Fille
+Tu connais la
+rumeur des yôkai
+sur le bateau ?{FD}
+C'est du flan !
+La nuit, à bord,
+je n'ai rien vu.{FF}
+@280B7
+Homme
+Je fais le tour
+du pays en bateau{FD}
+Des yôkai ? Eh
+bien non, jamais.{FF}
+@280F3
+Femme
+Pas de Niigata ?!{FF}
+Quel cirque !
+@28111
+Agent
+Désolé, mais
+d'ici, on ne va
+qu'à Nagasaki.{FF}
+@2813C
+Homme
+Hé ! Tu entres
+chez moi, là !{FD}
+Hein ? Un yôkai ?
+Fallait le dire !
+J'en ai vu un !{FD}
+Sur l'île Sado,
+en balade… J'ai
+galéré après !{FD}
+Une boule de feu
+a filé, fiouuu !
+Impressionnant !{FF}
+@281CB
+Femme
+Lui ? Un yôkai à
+Sado, qu'il dit !{FD}
+Parti seul s'y
+amuser, il ment !{FD}
+Puis, coincé, il
+a fini à Kyûshû…
+Des bobards !!{FF}
+@28232
+Garçon
+Moi, je suis Feu,
+je bats l'Eau !{FF}
+@2824C
+Garçon
+Je suis Vent,
+je bats la Terre.{FF}
+@28268
+Fille
+Moi, je suis Eau,
+mais le Feu ne me
+fait pas peur !{FF}
+@28293
+Fille
+La Terre faible
+au Vent ? Faux !{FD}
+Deux opposés sont
+faibles entre eux{FF}
+@282C3
+Presse
+Un nuage étrange
+couvre le Japon.{FD}
+Je pense que ce
+nuage cause tous
+ces phénomènes.{FF}
+@2830E
+Femme
+Si on va à Sado,
+pas de retour !
+Quelle histoire !{FF}
+@28331
+Cadre
+Je suis crevé…
+Dormir, enfin…{FD}
+Le dernier ryokan
+était hanté !
+Tu y crois ?{FD}
+Lequel ? Celui
+d'Izumo, en ville
+J'ai eu si peur !{FF}
+@2838C
+Cadre
+Ici, pas de yôkai
+en vue : ouf !{FF}
+@283B3
+Groom
+Bienvenue !
+Pour une chambre,
+allez au comptoir{FF}
+@283D9
+Cadre
+Combinez bien
+et payez moins !{FF}
+@283FD
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Homme
+Des yôkai, hein…
+Ce matin, un truc
+rôdait… yôkai ?{FF}
+@28446
+Cadre
+Ma chambre, ici !
+Ouste, dehors !{FD}
+Depuis ce matin,
+une ombre me suit
+je suis épuisé !{FF}
+@2848F
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Cadre
+Des yôkai, hein…
+Moi, je sais pas,{FD}
+mais un client
+parlait d'ombre…{FF}
+@284E4
+Groom
+Ménage en cours.
+Une question ?
+Le comptoir.{FF}
+@2850C
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Homme
+Va voir ma femme,
+moi, rien vu.{FD}
+Elle s'emballe,
+quelle plaie !{FF}
+@28564
+Femme
+Les yôkai, hein ?
+J'en ai vu un !
+C'est à la mode ?{FD}
+Oui, un yôkai…
+au sud d'ici,
+non, à l'ouest ?{FD}
+Au bord de l'eau,
+vert, ma taille !{FD}
+J'ai fui… mais
+je l'attraperai !{FF}
+@28601
+Garçon
+Tu étudies les
+yôkai ? Pareil !{FD}
+Mon rêve, c'est
+d'être yôkaiste !{FF}
+@2863D
+Mamie
+Mon petit-fils
+a eu raison !{FD}
+Des yôkai ?
+Je n'y crois pas.{FF}
+@28678
+Patron
+Ce ryokan, là,
+bizarre, non ?
+Ou c'est moi ?{FF}
+@2869F
+Commis
+Dans la chambre,
+rien de spécial,{FD}
+mais en sortant,
+comme si on nous
+épiait. Bizarre.{FF}
+@286E3
+Garçon
+Cette maison est
+vide, mais on y
+entend du bruit…{FD}
+Un yôkai, sûr !
+J'ai peur…{FF}
+@2871C
+Fille
+Mon frère cherche
+des yôkai… Pfff !{FF}
+@2873E
+Femme
+Avant Miyakejima,
+je me repose à
+l'hôtel d'à côté,{FD}
+mais ce boucan…
+Pas de sieste !{FF}
+@28787
+Papy
+On dit qu'il y a
+des yôkai partout{FD}
+Miyakejima aussi
+en aurait un.{FF}
+@287BE
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Cadre
+Dans l'auberge à
+côté, un yôkai !
+Quelle frousse !{FD}
+Mais je pars à
+Miyakejima. Ouf.{FF}

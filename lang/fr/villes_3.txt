@@ -1,0 +1,207 @@
+# VF — 0x260D1-0x267FF : fin d'Etsuko, panique en ville, moines et Gekkô au mont Kôya.
+# げっこう = Gekkô, supérieur du temple (parler ancien じゃ/おぬし -> français un peu suranné,
+# tutoie le joueur). にっこう = Nikkô, son grand frère, au dojo de Chichibu.
+# Moines : なむ = « Namu » (invocation bouddhique). Chants : ひはみずに = « Feu à l'Eau ! », etc.
+@260D1
+Etsuko
+On n'a plus de
+talismans, aïe !{FD}
+Ouf, à temps !
+Vite, prends ça !{FF}
+@26110
+Etsuko
+Ah, {F2} !
+Beau travail !{FD}
+Quelle histoire !
+J'ai eu chaud !{FD}
+Mais c'est fini !
+Ça va s'arranger.{FD}
+Hein ? Encore
+en chasse ? T'es
+jamais en repos !{FD}
+Retourne donc
+au mont Kôya ?{FF}
+@261A3
+Homme
+Il se passe un
+drôle de truc…
+Ou c'est moi ?{FF}
+@261CA
+Femme
+Quoi ?! Ça ?
+Foudre ? Plasma ?{FF}
+@261E2
+Papy
+Qu'est-ce donc ?!
+Que diable… ?!{FF}
+@261FF
+Femme
+Hein ?! Quoi ?
+Ça brille, là !{FF}
+@2621D
+Mizuki
+Et ces photos ?
+J'ai hâte !{FF}
+@26234
+Mizuki
+Je surveille ici,
+allez-y, gaffe !{FF}
+@26254
+Moine
+Je veille ici sur
+le supérieur.
+Namu namu…{FF}
+@26279
+Moine
+Je peux enfin
+reprendre ma
+pratique. Namu…{FF}
+@262A1
+Moine
+Mizuki l'avait
+pourtant maîtrisé{FD}
+et il libère
+une telle force…{FD}
+Qu'est-ce donc ?{FF}
+@262E9
+Moine
+Avez-vous réuni
+les sceaux ?{FF}
+@26302
+Moine
+Si vous les avez,
+apportez-les vite
+à Mizuki !{FF}
+@26331
+Moine
+Ah, c'est calmé ?{FD}
+Le reste de cette
+force s'éteindra.{FD}
+Mais pour hâter
+ça, redoublons !
+Namu ! Namu !{FF}
+@26384
+Moine
+Nous tenons une
+barrière contre
+cette force.{FD}
+Namu ! Namu !
+Feu à l'Eau !
+Namu ! Namu !{FF}
+@263DF
+Moine
+Hélas, je ne peux
+quitter ce lieu.
+Namu ! Namu !{FF}
+@26410
+Moine
+La force faiblit,
+mais demeure. Je
+tiendrai bon !{FD}
+Namu ! Namu !{FF}
+@26445
+Moine
+Nous tenons une
+barrière contre
+cette force.{FD}
+Namu ! Namu !
+Eau au Feu !
+Namu ! Namu !{FF}
+@264A0
+Moine
+Nous tenons une
+barrière contre
+cette force.{FD}
+Namu ! Namu !
+Vent à la Terre !
+Namu ! Namu !{FF}
+@264FC
+Moine
+Nous tenons une
+barrière contre
+cette force.{FD}
+Namu ! Namu !
+Terre au Vent !
+Namu ! Namu !{FF}
+@26559
+Gekkô
+Nous devons tenir
+ici une barrière
+contre sa force.{FD}
+{F2},
+je prie ici pour
+ta réussite.{FF}
+@265AA
+Gekkô
+Oh, le sceau d'un
+roi ! Bien joué.{FD}
+Encore 3 ! Va,
+et prends garde.{FF}
+@265E2
+Gekkô
+La 2e aussi ?!
+Tu es doué, toi !{FD}
+Si tu continues,
+ça ira très vite.{FF}
+@26620
+Gekkô
+Plus qu'une !
+Le but approche.{FD}
+Ton talent est
+remarquable.{FD}
+Les 4 réussies,
+entre au temple ?{FF}
+@2667C
+Gekkô
+Tous les sceaux
+réunis ! Bravo !{FD}
+Ah, Mizuki a un
+bien bon élève !{FC}
+{F2}
+Je ne suis pas
+encore officiel…{FC}
+Gekkô
+Qu-quoi ?!
+Viens au temple !{FD}
+Tu ferais un
+moine épatant !{FF}
+@2670F
+Gekkô
+Ah, {F2} !
+Le scellement a
+réussi, je vois.{FD}
+La force s'éteint
+peu à peu.{FD}
+Mais ce yôkai,
+qu'était-il ?{FD}
+Pour un yôkai, sa
+puissance était
+effroyable.{FD}
+Sa force ne
+faiblit guère.{FD}
+Quoi ?
+Tu dis qu'une
+partie a filé ?!{FD}
+D'où ce déclin
+si lent…{FD}
+Mais le corps est
+scellé : le reste
+s'éteindra vite.{FD}
+Mais tu n'es pas
+là juste pour
+me raconter ça ?{FC}
+{F2}
+Je veux prendre
+le reste en photo{FD}
+pour savoir ce
+qu'est ce yôkai !{FC}
+Gekkô
+Hmm, traquer la
+part qui a filé…{FD}
+Ah ! J'y pense !
+Chichibu, au dojo{FD}
+vit mon grand
+frère, Nikkô.{FD}
+Lui le trouvera.
+Va à Chichibu !{FD}
+Je le préviens.{FF}

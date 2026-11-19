@@ -1,0 +1,266 @@
+# VF — 0x2A057-0x2A7FF : Okinawa, dojo de Chichibu (kuchiyose = invocation des âmes),
+# Nurarihyon déguisé en papy (« Hyo hyo hyo ! »), animaux, PNJ « ici, c'est X ».
+@2A057
+Homme
+Ah, Okinawa !
+Vacances à fond !{FF}
+@2A075
+Femme
+J'ai bien fait !
+Adieu, mystères !{FF}
+@2A09A
+Garçon
+Y a des yôkai à
+Okinawa aussi !
+J'en ai vu un !{FD}
+Mais si je le dis
+à papa, il râle,
+alors je me tais.{FF}
+@2A0E6
+Fille
+Un yôkai ?{FD}
+Le vieux bizarre
+dehors ? Il riait
+«Hyo hyo hyo» !{FF}
+@2A118
+{F2}
+Vu des yôkai ?{FC}
+Garçon
+Depuis peu, un
+truc habite chez
+nous…{FD}
+Je crois que
+c'est un yôkai !{FD}
+Mon petit frère
+fouille à la
+bibliothèque.{FF}
+@2A17F
+Moine
+Namu namu namu…
+Je m'exerce.
+Parlez à Nikkô.{FF}
+@2A1A6
+Moine
+Ce dojo est
+interdit aux
+profanes !{FF}
+@2A1D0
+Moine
+Le Kôya nous a
+prévenus.
+Entrez donc.{FF}
+@2A1F1
+Moine
+Beau travail.{FF}
+@2A201
+Moine
+Namu namu…
+J'entends la voix
+de votre aïeule.{FF}
+@2A226
+Papy
+Ma vieille ?
+Moi, ça va bien !
+Je reste, moi !{FF}
+@2A254
+Femme
+Hé, ne doublez
+pas !{FF}
+@2A26B
+Homme
+Vous savez qu'un
+grand moine est
+ici en retraite ?{FF}
+@2A29F
+Papy
+Les moines d'ici
+viennent du Kôya.{FF}
+@2A2C2
+Mamie
+Ils pourraient
+rappeler Papy ?{FF}
+@2A2DB
+Mamie
+Les moines d'ici
+ont un grand
+pouvoir d'esprit.{FD}
+Ça attire même
+des yôkai,
+paraît-il.{FF}
+@2A328
+Cadre
+Les moines d'ici
+peuvent appeler
+n'importe qui !{FF}
+@2A34F
+Moine
+Pour l'exercice,
+nous invoquons.{FD}
+C'est l'art d'en
+appeler les âmes.{FF}
+@2A38C
+Moine
+Je m'entraîne à
+invoquer, mal…{FD}
+Parlez aussi à
+ce moine-là.{FD}
+Il appelle
+n'importe qui !{FF}
+@2A3DD
+Papy
+Moi, un yôkai ?
+Quelle bêtise…
+Hyo hyo hyo !{FC}
+{F2}
+Louche…{FF}
+@2A40D
+Moine
+Namu namu.{FF}
+@2A418
+Chat
+Miaou, miaou.{FF}
+@2A424
+Chat
+Miaou, miaou !{FF}
+@2A430
+Chien
+Ouaf, ouaf !{FF}
+@2A43A
+Vache
+Meuh, meuh !{FF}
+@2A444
+Femme
+C'est qui, ça ?!
+Entrer chez les
+gens comme ça !{FF}
+@2A469
+Homme
+T'es jeune : au
+lieu de voler,
+va donc bosser !{FF}
+@2A491
+{F2}
+Vous avez vu ou
+entendu un truc
+étrange ?{FC}
+Cadre
+Hmm, eh bien…
+vers Kôchi, on
+a vu un yôkai.{FF}
+@2A4E1
+Papy
+Une photo yôkai
+prise par hasard,
+et hop, en duel !{FD}
+Gagné un étui à
+films ! Inutile,
+je l'ai rendu.{FF}
+@2A534
+Cadre
+La gare ? Là !
+Vois les rails !{FF}
+@2A54F
+Mamie
+Ici, Wakkanai !{FF}
+@2A562
+Ici, le Daisetsu.{FF}
+@2A56F
+Mamie
+Ici, Sapporo !{FF}
+@2A581
+Mamie
+Port de Kushiro !{FF}
+@2A596
+Mamie
+Aéroport Chitose.{FF}
+@2A5AB
+Mamie
+Ici, Hakodate,
+enfin, la
+banlieue.{FF}
+@2A5CF
+Mamie
+Entrée du Seikan,
+côté Hokkaidô.{FD}
+Ça glisse dedans,
+prudence !{FF}
+@2A60B
+Homme
+Entrée du Seikan,
+côté Honshû.{FD}
+Ça glisse dedans,
+prudence !{FF}
+@2A645
+Homme
+Ici, Akita !{FF}
+@2A655
+Homme
+Ici, Sendai !{FF}
+@2A666
+Homme
+Ici, Yamagata !{FF}
+@2A677
+Femme
+Ici, Ryôtsu, le
+port de Sado.{FF}
+@2A692
+Femme
+Ici, Niigata !{FF}
+@2A6A3
+Homme
+Ici, Nagano !{FF}
+@2A6B3
+Femme
+Ici, Toyama !{FF}
+@2A6C3
+Homme
+Ici, Tôkyô !{FF}
+@2A6D5
+Homme
+Aéroport Narita.{FF}
+@2A6E9
+Homme
+Ici, Kôfu !{FF}
+@2A6F9
+Homme
+Le mont Fuji !{FF}
+@2A70A
+Homme
+Port d'Itô !{FF}
+@2A71E
+Homme
+Port Miyakejima.{FF}
+@2A734
+Homme
+Ici, Nagoya !{FF}
+@2A744
+Femme
+Ben voyons !
+C'est Osaka, ici
+Retiens ça, coco{FF}
+@2A767
+Homme
+Aéroport Kansai,
+le «Kankû» !{FF}
+@2A785
+Moine
+Voici le Kôya,
+temple des yôkai.{FF}
+@2A7A2
+Homme
+Port Kushimoto.{FF}
+@2A7B6
+Homme
+Le mont Daisen !{FF}
+@2A7C7
+Homme
+Ici, Izumo !{FF}
+@2A7D7
+Homme
+Ici, Okayama !{FF}
+@2A7E8
+Homme
+Hiroshima, quoi !{FF}
+@2A7FA
+Homme
+Ici, Shimonoseki.{FF}

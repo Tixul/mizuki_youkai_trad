@@ -1,0 +1,205 @@
+# VF — 0x29841-0x29FFF : journal (rubrique culture), Moji/tunnel, Kyûshû, hôtel du makura-gaeshi,
+# ittan-momen, livre des talismans (RÈGLE : ralentir Feu -> Eau, Terre -> Vent), Nurarihyon.
+@29841
+Cadre
+Je sillonne tout
+le pays, mais là,
+c'est bizarre…{FD}
+Depuis le début
+du raffut yôkai.{FF}
+@29895
+Hôte
+Bienvenue au
+journal, rubrique
+culture.{FF}
+@298B7
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Presse
+Des yôkai ? On a
+des appels de
+partout, mais…{FD}
+Rien de sérieux.{FF}
+@2990B
+Presse
+Si seulement un
+gros scoop venait
+Pas à la culture…{FF}
+@2993D
+Presse
+Faits étranges ?
+On a un dossier,
+bien rangé.{FD}
+Touche à rien !{FF}
+@2996E
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Cadre
+Des yôkai, toi ?
+T'es spécial !
+Ça n'existe pas,{FD}
+pensais-je… mais
+on entend tant de
+choses étranges…{FD}
+Moi, je ne sais
+rien, désolé.{FF}
+@29A08
+Femme
+Un vieux louche
+loge au tunnel,
+le commerce coule{FD}
+La ville dépérit.{FD}
+On a voulu le
+chasser du
+tunnel, mais…{FD}
+Le tunnel est
+devenu si bizarre
+qu'on l'évite.{FF}
+@29AA2
+Homme
+La ville dépérit,
+ce magasin tourne{FD}
+Avec juste des
+talismans, drôle…{FD}
+Le vieux, là-bas,
+serait un yôkai ?{FF}
+@29B01
+{F2}
+Tu as entendu
+parler de yôkai ?{FC}
+Fille
+Il y a un yôkai !
+Dors à l'hôtel,
+là-bas, tu verras{FF}
+@29B4E
+Femme
+Dans cet hôtel,
+je me réveille
+tête-bêche !{FF}
+@29B7D
+Papy
+Le jour, si je
+dors, ça va,{FD}
+mais la nuit,
+je dors mal…
+C'est l'âge ?{FF}
+@29BBF
+Cadre
+Cet hôtel serait
+hanté, alors j'ai
+guetté au matin,{FD}
+mais rien…
+Mauvaise pièce ?{FF}
+@29BFE
+Homme
+Naviguer la nuit,
+c'est dangereux !
+Nul ne m'écoute.{FD}
+Je les ai vus,
+moi, les yôkai…{FF}
+@29C46
+Cadre
+Kyûshû n'a que la
+gare Kagoshima ?
+C'est louche !{FD}
+L'avion, ça coûte
+cher, en plus !{FF}
+@29C8C
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Femme
+Des yôkai ?
+Je ne sais pas.{FF}
+@29CCB
+Mamie
+Hé, jeunesse !
+Que d'entrain !{FD}
+Mais ici, on
+parle tout bas.{FF}
+@29CFE
+Fille
+Mon grand frère
+veut un livre :
+«Yôkai de Kyûshû»{FD}
+Il est où ?{FF}
+@29D3F
+Fille
+Pas de yôkai ici,
+c'est une ville
+calme et jolie.{FD}
+Ah, attends !
+Un garçon disait
+en avoir vu un…{FD}
+Mais pas ici,
+bien sûr !{FF}
+@29DA4
+Cadre
+En rentrant, je
+suis passé à Aso…
+C'est la folie !{FD}
+Quel choc !{FF}
+@29DE1
+Garçon
+Pour les yôkai ?
+On me croit pas,
+c'était un yôkai{FD}
+Pas d'erreur !
+Je serai un vrai
+yôkaiste, moi !{FD}
+Celui vu à midi,
+c'était un
+ittan-momen !{F5}{35}
+@29E60
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Femme
+Les yôkai ?!
+Arrêtez !{FD}
+Mon fils s'est
+trompé, voyons !{FD}
+Un déchet volait,
+c'est tout !{FD}
+L'endroit ?
+Un peu au nord,
+dans la prairie.{FF}
+@29EEF
+Homme
+Hmm, «Talismans,
+types et effets»…{FD}
+«Pour ralentir un
+yôkai Feu : Eau ;
+Terre : Vent.»{FD}
+Drôle de livre !{FF}
+@29F39
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Cadre
+Des yôkai ? Rien.
+C'est calme, ici.{FD}
+Ailleurs, c'est
+le chaos, non ?{FF}
+@29F9B
+Homme
+Ces auberges,
+ça requinque !{FD}
+Ailleurs, des
+auberges ont des
+yôkai, paraît-il.{FF}
+@29FD5
+Nurari
+Tu m'as reconnu,
+bien vu !{FD}
+Alors tu as
+tout scellé…
+Rabat-joie !{FD}
+Bientôt, on ne me
+sentira plus…{FD}
+Comme promis, tu
+veux ta photo ?{FD}
+De moi…
+Hyo hyo hyo hyo !{FF}

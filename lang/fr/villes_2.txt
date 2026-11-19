@@ -1,0 +1,211 @@
+# VF — PNJ des villes, 2e partie (ROM 0x25819-0x25FFF) : aéroports, mont Aso, et ETSUKO.
+# えつこさん = Etsuko, fille de Mizuki (personnage réel), tutoie le joueur, ton direct et taquin.
+# Elle explique les mécaniques : garder les infos EXACTES (pellicule et pièces au « Studio Photo »
+# = ようかいしゃしんかん, duels photo = フォトバトル -> pièces, talisman selon l'élément du yôkai,
+# yôkai selon lieu/terrain/heure, hôtels et ryokan = bons coins).
+@25819
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Agent
+Des infos yôkai ?
+Aucune idée, mais{FD}
+un pilote aurait
+vu une soucoupe
+volante, dit-on.{FD}
+Je vais me
+renseigner.{FF}
+@25893
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Agent
+Pas vraiment des
+yôkai, mais bon :{FD}
+Un pilote allant
+à Narita a vu une
+lueur dorée…{FD}
+Près de Narita,
+on la revoit.{FF}
+@25924
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Homme
+Des yôkai ? Allez
+donc au musée de
+la ville.{FD}
+Nous, on part au
+mont Aso, on
+prépare le sac.{FF}
+@2598D
+Homme
+Au mont Aso, j'ai
+perdu la boule…{FD}
+Je marchais de
+travers. Si tu y
+vas, fais gaffe.{FF}
+@259D2
+Garçon
+On part au mont
+Aso, je me presse{FD}
+Les yôkai, on en
+parle au retour !{FF}
+@25A0A
+Garçon
+Y a des yôkai sur
+cette montagne !{FD}
+Papa dit : le gaz
+volcanique, mais
+c'est des yôkai !{FF}
+@25A4C
+Agent
+Kôya ? Changez à
+Shimonoseki.{FF}
+@25A74
+{F2}
+Vous avez entendu
+parler de yôkai ?{FC}
+Agent
+Des yôkai ? Moi,
+jamais entendu.{FD}
+Ailleurs, il y en
+a plein, non ?
+Ça fait peur…{FD}
+La bibliothèque a
+peut-être des
+livres utiles.{FF}
+@25AF2
+Etsuko
+Oh, un souci ?{FC}
+{F2}
+Vous n'avez pas
+vu ce raffut ?{FC}
+Etsuko
+Je suis la fille
+de Shigeru Mizuki
+depuis toujours !{FD}
+Ce genre de chose
+ne m'affole pas !{FC}
+{F2}
+Mais c'est grave…{FC}
+Etsuko
+T'inquiète !
+Tout va bien !!{FD}
+Dis, cet appareil
+c'est l'Ungai !
+Quel souvenir !{FD}
+Tu maîtrises ?{FC}
+{F2}
+Le maître m'a
+expliqué.{FC}
+Etsuko
+Les films Ungai
+sont vendus au
+Studio Photo !{FD}
+Un gamin y achète
+aussi les photos.{FD}
+Fauché ? Vends
+donc tes photos !{FD}
+Il vend aussi des
+pièces photo…{FD}
+Ah ! Duel photo !{FC}
+{F2}
+Hein ?{FC}
+Etsuko
+On joue en photos{FD}
+Si tu gagnes,
+tu as des pièces.{FD}
+Au Studio Photo,
+va te battre !{FD}
+Ah, et le Kôya ?
+C'est dans la
+région du Kinki.{FD}
+Un bateau depuis
+Shikoku ? Relax !
+Après, à pied.{FD}
+Bon, sans stress,
+va à ton rythme.{FF}
+@25D2B
+Etsuko
+Ah, te revoilà !
+Et ce talisman ?{FD}
+Ah, raté…{FD}
+Alors, {F2}
+réunit les sceaux
+des rois ? Dur…{FD}
+Et tes photos ?{FD}
+L'album le dira,
+j'imagine.{FD}
+Un yôkai dépend
+du lieu, du sol,
+et de l'heure !{FD}
+En chasse, fais
+bien attention.{FD}
+Et au studio ?
+Un tour, déjà ?{FD}
+Les duels donnent
+des pièces rares.{FD}
+Si tes photos
+ratent pour rien,{FD}
+il te manque une
+pièce : duel !{FF}
+@25E50
+Etsuko
+Te voilà, {F2}.
+C'est le sceau ?
+Pas terrible…{FD}
+On n'en avait pas
+un pareil ici ?{FD}
+Tu as progressé !{FD}
+Tes talismans ?{FD}
+Bien utilisé, un
+talisman aide !{FD}
+Dans le viseur,
+le yôkai change
+selon son élément{FD}
+Un talisman du
+bon élément, et
+pas d'erreur !{FD}
+Voilà un bon
+conseil, hein !{FD}
+Encore 3 photos !
+Courage, file !{FF}
+@25F3E
+Etsuko
+Te voilà, {F2}.
+Déjà la 2e ?{FD}
+Pas mal du tout !
+Juste après moi !{FD}
+Tes photos aussi
+sont meilleures !{FD}
+En ville, y en a,
+des yôkai, voyons{FD}
+Hôtels, ryokan :
+les bons coins !{FD}
+Dors à la bonne
+heure, et ils
+se montrent !{FF}
+@25FD7
+Etsuko
+Te voilà, {F2}.{FD}
+La situation est
+vraiment grave…{FD}
+J'ai dû utiliser
+pas mal de nos
+talismans maison,{FD}
+alors moi aussi,
+j'ai cherché au
+Kôya du renfort.{FD}
+Que par bateau,
+c'est nul !{FD}
+J'ai fait le tour
+du Japon, oups !{FD}
+En bateau, j'ai
+croisé des yôkai,
+tu les as pris ?{FD}
+Vu tes photos de
+yôkai géniales,
+sûrement, hein.{FD}
+Plus qu'une !
+Courage !{FF}

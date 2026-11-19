@@ -1,0 +1,1065 @@
+# Repris automatiquement (tools/doublons.py) : doublons de 2C800-2F000.
+@2C81D
+Homme
+Cette ville a un
+beau musée.{FD}
+Le passé ? Va
+voir au musée.{FF}
+@2C851
+Homme
+L'hôtel de la
+ville a un yôkai.{FD}
+Un genre de dieu,
+paraît-il.{FF}
+@2C887
+Femme
+Des yôkai, hein…
+Jamais vu, alors
+je ne sais pas.{FF}
+@2C8A8
+Homme
+Ah, cette ville !
+On y resterait…{FF}
+@2C8C8
+Groom
+Ah, cette chambre
+est en ménage.{FF}
+@2C8E8
+Cadre
+Je dors souvent
+ici, c'est bien !{FD}
+Mais un matin, un
+truc rôdait…
+J'ai rêvé ?{FF}
+@2C935
+Homme
+Hé, toi !
+Pas touche à mes
+jarres, enfin !{FF}
+@2C960
+Femme
+Sais pas, moi.{FD}
+Et toi, qui t'a
+invité, hein ?!{FF}
+@2C98D
+Papy
+Moi, j'en ai vu !
+Dans la plaine au
+nord du fleuve…{FD}
+Un yôkai, sûr !{FF}
+@2C9C3
+Femme
+Le petit jure
+avoir vu un yôkai{FF}
+@2C9DF
+Garçon
+Un yôkai, sûr !
+Je l'ai vu, là où
+y a des arbres !{FF}
+@2CA0E
+Homme
+L'autre nuit, le
+quartier brillait
+comme en feu !{FD}
+Dehors, un type
+était en feu !{FD}
+Je cours chercher
+de l'eau… parti !{FD}
+Quoi, ça ? Un de
+ces yôkai, hein ?{FF}
+@2CA86
+Femme
+Lui, il se soûle
+et il rêve. Ne
+le crois pas.{FF}
+@2CAAD
+Cadre
+La nuit, en
+marchant, j'ai vu
+une ombre filer…{FD}
+Mais personne !
+J'ai eu peur.{FF}
+@2CAE7
+Cadre
+Chez les moines
+de Chichibu,{FD}
+le matin, des
+ombres courent…{FD}
+Ça fait peur…{FF}
+@2CB26
+Presse
+Ici, le journal.
+Partout, on nous
+parle de yôkai,{FD}
+Et jusqu'à Tôkyô,
+on signale des
+yôkai !{FD}
+Qu'arrive-t-il ?{FF}
+@2CB86
+Presse
+Il y a des yôkai
+rien qu'au Kantô{FD}
+Un territoire ?{FF}
+@2CBB4
+Presse
+Les infos yôkai
+vont aux agences.{FD}
+ici, juste Tôkyô
+et le Kantô.{FF}
+@2CBF9
+Homme
+Partout au Japon,
+c'est bizarre…{FD}
+J'sais pas trop,
+mais au mont Fuji
+aussi, paraît-il.{FF}
+@2CC3D
+Cadre
+Je sillonne le
+pays pour bosser,
+là, c'est étrange{FD}
+C'était si dur ?{FF}
+@2CC77
+Groom
+Bienvenue ! Que
+désirez-vous ?{FD}
+Des yôkai ?{FD}
+Navré, mais
+notre hôtel n'en
+propose pas.{FF}
+@2CD07
+Homme
+Je fais le tour
+du pays en bateau{FD}
+Des yôkai ? Eh
+bien non, jamais.{FF}
+@2CD61
+Agent
+Désolé, mais
+d'ici, on ne va
+qu'à Nagasaki.{FF}
+@2CD8C
+Homme
+Hé ! Tu entres
+chez moi, là !{FD}
+Hein ? Un yôkai ?
+Fallait le dire !
+J'en ai vu un !{FD}
+Sur l'île Sado,
+en balade… J'ai
+galéré après !{FD}
+Une boule de feu
+a filé, fiouuu !
+Impressionnant !{FF}
+@2CE1B
+Femme
+Lui ? Un yôkai à
+Sado, qu'il dit !{FD}
+Parti seul s'y
+amuser, il ment !{FD}
+Puis, coincé, il
+a fini à Kyûshû…
+Des bobards !!{FF}
+@2CE82
+Garçon
+Moi, je suis Feu,
+je bats l'Eau !{FF}
+@2CE9C
+Garçon
+Je suis Vent,
+je bats la Terre.{FF}
+@2CEB8
+Fille
+Moi, je suis Eau,
+mais le Feu ne me
+fait pas peur !{FF}
+@2CEE3
+Fille
+La Terre faible
+au Vent ? Faux !{FD}
+Deux opposés sont
+faibles entre eux{FF}
+@2CF13
+Presse
+Un nuage étrange
+couvre le Japon.{FD}
+Je pense que ce
+nuage cause tous
+ces phénomènes.{FF}
+@2CF5E
+Femme
+Si on va à Sado,
+pas de retour !
+Quelle histoire !{FF}
+@2CF81
+Cadre
+Je suis crevé…
+Dormir, enfin…{FD}
+Le dernier ryokan
+était hanté !
+Tu y crois ?{FD}
+Lequel ? Celui
+d'Izumo, en ville
+J'ai eu si peur !{FF}
+@2CFDC
+Cadre
+Ici, pas de yôkai
+en vue : ouf !{FF}
+@2D003
+Groom
+Bienvenue !
+Pour une chambre,
+allez au comptoir{FF}
+@2D029
+Cadre
+Combinez bien
+et payez moins !{FF}
+@2D04D
+Homme
+Des yôkai, hein…
+Ce matin, un truc
+rôdait… yôkai ?{FF}
+@2D077
+Cadre
+Ma chambre, ici !
+Ouste, dehors !{FD}
+Depuis ce matin,
+une ombre me suit
+je suis épuisé !{FF}
+@2D0C0
+Cadre
+Des yôkai, hein…
+Moi, je sais pas,{FD}
+mais un client
+parlait d'ombre…{FF}
+@2D0F6
+Groom
+Ménage en cours.
+Une question ?
+Le comptoir.{FF}
+@2D11E
+Homme
+Va voir ma femme,
+moi, rien vu.{FD}
+Elle s'emballe,
+quelle plaie !{FF}
+@2D157
+Femme
+Les yôkai, hein ?
+J'en ai vu un !
+C'est à la mode ?{FD}
+Oui, un yôkai…
+au sud d'ici,
+non, à l'ouest ?{FD}
+Au bord de l'eau,
+vert, ma taille !{FD}
+J'ai fui… mais
+je l'attraperai !{FF}
+@2D1F4
+Garçon
+Tu étudies les
+yôkai ? Pareil !{FD}
+Mon rêve, c'est
+d'être yôkaiste !{FF}
+@2D230
+Mamie
+Mon petit-fils
+a eu raison !{FD}
+Des yôkai ?
+Je n'y crois pas.{FF}
+@2D26B
+Patron
+Ce ryokan, là,
+bizarre, non ?
+Ou c'est moi ?{FF}
+@2D292
+Commis
+Dans la chambre,
+rien de spécial,{FD}
+mais en sortant,
+comme si on nous
+épiait. Bizarre.{FF}
+@2D2D6
+Garçon
+Cette maison est
+vide, mais on y
+entend du bruit…{FD}
+Un yôkai, sûr !
+J'ai peur…{FF}
+@2D30F
+Fille
+Mon frère cherche
+des yôkai… Pfff !{FF}
+@2D331
+Femme
+Avant Miyakejima,
+je me repose à
+l'hôtel d'à côté,{FD}
+mais ce boucan…
+Pas de sieste !{FF}
+@2D37A
+Papy
+On dit qu'il y a
+des yôkai partout{FD}
+Miyakejima aussi
+en aurait un.{FF}
+@2D3B1
+Cadre
+Dans l'auberge à
+côté, un yôkai !
+Quelle frousse !{FD}
+Mais je pars à
+Miyakejima. Ouf.{FF}
+@2D3F1
+Femme
+Rejoins Kushiro,
+tour du Japon !{FD}
+Bon, ça ne sert
+à rien, hein.{FF}
+@2D422
+Papy
+Connais pas.
+Je flâne le soir,
+jamais rien vu.{FF}
+@2D447
+Cadre
+Yôkai en forêt,
+ça m'a fait peur,
+mais rien vu.{FD}
+Faut dire que je
+sortais de jour.{FF}
+@2D48B
+Homme
+Te trompe pas,
+achète le bon !{FF}
+@2D4A4
+Garçon
+Osaka, je sais !
+Je me trompe pas,
+voyons…{FD}
+Oh…{FD}
+Billet Nagano !{FF}
+@2D4D8
+Cadre
+Un peu au nord,
+un truc m'a suivi{FD}
+Quelle frousse !
+En plein jour !
+Brrr…{FF}
+@2D518
+Groom
+Bienvenue !
+Pour tout, voyez
+le comptoir.{FD}
+Souvenirs variés
+en vente ici.
+Bon séjour !{FF}
+@2D568
+Homme
+Des talismans à
+l'hôtel ? Drôle…{FD}
+Mais on parle de
+yôkai partout…{FD}
+Et au nord aussi,
+on en a vu. J'en
+achète un, va !{FF}
+@2D5CB
+Femme
+Arrivée tard hier
+j'étais fourbue…
+Nuit sans rêve !{FF}
+@2D5FB
+Papy
+3 photos yôkai de
+ma famille ! J'ai
+parié dessus…{FD}
+Perdu ! Ruiné !
+Et ma chambre ?{FF}
+@2D647
+Cadre
+On dit cet hôtel
+hanté, mais…{FD}
+Aucun yôkai ici !
+Dormi sans rêver.{FF}
+@2D688
+Cadre
+Ville bizarre !{FD}
+La nuit, des
+ombres étranges
+rôdent partout,{FD}
+on parle bizarre,
+la ville est aux
+mains des yôkai ?{FF}
+@2D6F1
+Presse
+Paraît qu'des
+motards foncent
+la nuit, tu vois,{FD}
+mais qu'on y va,
+pfuit, disparus !{FD}
+C'est peut-être
+tes yôkai, coco !{FF}
+@2D749
+Presse
+Ici l'journal !{FD}
+Des trucs louches
+partout : on est
+débordés, va !{FF}
+@2D77F
+Presse
+Des histoires de
+yôkai ? Des tas !{FD}
+Plein d'intox :
+vérifie bien, ou
+tu t'fais avoir !{FD}
+Y a des archives
+mais pas touche !{FF}
+@2D80D
+Garçon
+Papa, un jeu !{FD}
+Samouraï, King…
+Metal Slug ! Une
+Neo Geo, stp !{FF}
+@2D848
+Fille
+Dans-la-jar-re,
+qu'y-a-t-il ? Hop
+Fouiller, la base{FF}
+@2D87A
+Fille
+Papa dit qu'on a
+un yôkai ici !{FF}
+@2D89D
+Cadre
+Des yôkai ?{FD}
+Vers le lac Biwa,
+à l'ouest, un mur
+fantôme, dit-on.{FF}
+@2D8D4
+Cadre
+Le lac Biwa, faut
+y aller à pied ?
+Quelle galère !{FF}
+@2D8F8
+Hôte
+Bienvenue à la
+bibliothèque !{FF}
+@2D96C
+Cadre
+La nuit, un truc
+court partout, je
+viens voir.{FD}
+Un yôkai, pardi ?
+Pardi : bien sûr.{FF}
+@2D9BB
+Cadre
+C'est ma chambre,
+qu'y a-t-il ?{FD}
+Les yôkai ? Je
+n'en sais rien.{FF}
+@2D9F9
+Cadre
+Je viens souvent
+à Osaka, pourtant{FD}
+j'ai l'impression
+d'être ailleurs.{FF}
+@2DA3A
+Cadre
+Bel appareil !{FD}
+J'ai un ami
+qui adore poser.{FD}
+Dès qu'il voit un
+objectif : «Moi»{FF}
+@2DA7E
+Groom
+Bienvenue !
+Pour tout, voyez
+le comptoir.{FF}
+@2DAA6
+Homme
+Hé là !
+Entrer comme ça ?
+T'es mal élevé !{FF}
+@2DACF
+Femme
+Vous désirez ?
+Les yôkai ?{FD}
+Bah, demandez
+à ma fille.{FF}
+@2DB02
+Fille
+Les yôkai ? Je
+sais ! Avec une
+copine, on a vu !{FD}
+La nuit, un char
+de feu roulait !{FF}
+@2DB4C
+Cadre
+Souvenirs Kansai…
+Charme ? Fiole ?
+Rien d'autre ?{FF}
+@2DB79
+Cadre
+Le Kansai, c'est
+étrange : un tel
+magasin, ici !{FD}
+Et un papy qui
+parle à la mer…{FD}
+C'est pas pareil.{FF}
+@2DBCD
+Homme
+D'ici, je prends
+le bateau d'Itô.{FF}
+@2DBEA
+Femme
+En bateau, on
+croise des yôkai,
+paraît-il.{FD}
+J'ai peur, mais
+j'aimerais voir !{FF}
+@2DC2A
+Garçon
+Le soir, en mer,
+y a des yôkai !
+Papy me l'a dit !{FF}
+@2DC5A
+Moine
+Temple des yôkai.{FF}
+@2DC6C
+Femme
+Vous désirez ?
+Hein ? Un yôkai ?{FD}
+Mon beau-père dit
+en avoir vu un…{FD}
+Avec ses lubies,
+je le croyais
+gâteux…{FF}
+@2DCC0
+Papy
+Un soir, je passe
+près d'un ryokan,
+j'en vois un !{FD}
+Un yôkai, sûr !
+Une bouche dans
+la nuque ! Vrai !{FF}
+@2DD20
+Cadre
+Si tu dors en
+ville, prudence :
+y a des yôkai !{FF}
+@2DD4B
+Presse
+Des yôkai, hein ?
+On en entend tant
+mais pas ici.{FD}
+Les archives sont
+là, sers-toi !{FF}
+@2DD93
+Presse
+Débordé, avec
+ces mystères !{FD}
+Au mont Daisen
+aussi, ça bouge…{FF}
+@2DDCC
+Cadre
+Des yôkai ?{FD}
+On en parle
+partout, mais
+pas ici.{FF}
+@2DDFF
+Homme
+Hé, gamin !
+Tu veux quoi ?{FD}
+Rien ? Alors
+pourquoi entrer ?{FF}
+@2DE31
+Femme
+Pour les yôkai ?{FD}
+Je ne sais pas si
+c'en était un…{FD}
+Dans la rizière
+à l'est, un truc
+flottait au vent.{FF}
+@2DE82
+Papy
+Depuis quand ce
+magasin est là ?{FF}
+@2DE9F
+Homme
+Passé ce tunnel,
+c'est Kyûshû.{FD}
+Pourtant on s'y
+perd ! Tout droit{FF}
+@2DED6
+Homme
+Un vieux louche
+loge au tunnel,
+la ville dépérit.{FD}
+Moins que celle
+d'en face, hein.{FD}
+On dit que c'est
+un binbôgami !{FF}
+@2DF39
+Groom
+Bienvenue !
+Entrez, entrez !
+Dormir ? Sauver ?{FD}
+On n'a plus de
+clients, alors
+je m'active !{FF}
+@2DF8A
+Cadre
+La ville semble
+s'être appauvrie
+d'un coup…{FD}
+L'autre jour, une
+femme insistait :
+«Suis-je belle ?»{FD}
+La misère gagne
+même les cœurs ?{FF}
+@2DFF2
+Cadre
+Vers Kyûshû…
+Ah, pas ici, zut.{FF}
+@2E014
+Cadre
+Pour Kyûshû, le
+train est mieux.{FD}
+Le tunnel, avec
+ce vieux louche,
+c'est risqué.{FF}
+@2E052
+Papy
+Des yôkai ?{FD}
+Au crépuscule,
+une femme yôkai
+apparaît, dit-on.{FF}
+@2E08E
+Mamie
+Mamie fouilla le
+carton. Rien
+d'utile.{FD}
+Pourtant !
+Au pire moment,
+on trouve tout !{FF}
+@2E0DC
+Fille
+«Suis-je belle ?»{FD}
+Un yôkai poserait
+cette question…
+Elle est belle ?{FF}
+@2E10E
+Homme
+Selon la rumeur,
+dans la forêt à
+l'est, un yôkai !{FD}
+Une rumeur, hein,
+vrai ou faux ?{FF}
+@2E15A
+Homme
+Inutilisé, ça me
+sert d'entrepôt,{FD}
+mais une bête
+semble y vivre.{FF}
+@2E259
+Hôte
+Bienvenue au
+journal, rubrique
+culture.{FF}
+@2E27B
+Presse
+Des yôkai ? On a
+des appels de
+partout, mais…{FD}
+Rien de sérieux.{FF}
+@2E2B0
+Presse
+Si seulement un
+gros scoop venait
+Pas à la culture…{FF}
+@2E2E2
+Presse
+Faits étranges ?
+On a un dossier,
+bien rangé.{FD}
+Touche à rien !{FF}
+@2E313
+Cadre
+Des yôkai, toi ?
+T'es spécial !
+Ça n'existe pas,{FD}
+pensais-je… mais
+on entend tant de
+choses étranges…{FD}
+Moi, je ne sais
+rien, désolé.{FF}
+@2E38E
+Femme
+Un vieux louche
+loge au tunnel,
+le commerce coule{FD}
+La ville dépérit.{FD}
+On a voulu le
+chasser du
+tunnel, mais…{FD}
+Le tunnel est
+devenu si bizarre
+qu'on l'évite.{FF}
+@2E428
+Homme
+La ville dépérit,
+ce magasin tourne{FD}
+Avec juste des
+talismans, drôle…{FD}
+Le vieux, là-bas,
+serait un yôkai ?{FF}
+@2E487
+Fille
+Il y a un yôkai !
+Dors à l'hôtel,
+là-bas, tu verras{FF}
+@2E4B8
+Femme
+Dans cet hôtel,
+je me réveille
+tête-bêche !{FF}
+@2E4E7
+Papy
+Le jour, si je
+dors, ça va,{FD}
+mais la nuit,
+je dors mal…
+C'est l'âge ?{FF}
+@2E529
+Cadre
+Cet hôtel serait
+hanté, alors j'ai
+guetté au matin,{FD}
+mais rien…
+Mauvaise pièce ?{FF}
+@2E568
+Homme
+Naviguer la nuit,
+c'est dangereux !
+Nul ne m'écoute.{FD}
+Je les ai vus,
+moi, les yôkai…{FF}
+@2E5B0
+Cadre
+Kyûshû n'a que la
+gare Kagoshima ?
+C'est louche !{FD}
+L'avion, ça coûte
+cher, en plus !{FF}
+@2E5F6
+Femme
+Des yôkai ?
+Je ne sais pas.{FF}
+@2E616
+Mamie
+Hé, jeunesse !
+Que d'entrain !{FD}
+Mais ici, on
+parle tout bas.{FF}
+@2E649
+Fille
+Mon grand frère
+veut un livre :
+«Yôkai de Kyûshû»{FD}
+Il est où ?{FF}
+@2E68A
+Fille
+Pas de yôkai ici,
+c'est une ville
+calme et jolie.{FD}
+Ah, attends !
+Un garçon disait
+en avoir vu un…{FD}
+Mais pas ici,
+bien sûr !{FF}
+@2E6EF
+Cadre
+En rentrant, je
+suis passé à Aso…
+C'est la folie !{FD}
+Quel choc !{FF}
+@2E7AB
+Femme
+Les yôkai ?!
+Arrêtez !{FD}
+Mon fils s'est
+trompé, voyons !{FD}
+Un déchet volait,
+c'est tout !{FD}
+L'endroit ?
+Un peu au nord,
+dans la prairie.{FF}
+@2E81B
+Homme
+Hmm, «Talismans,
+types et effets»…{FD}
+«Pour ralentir un
+yôkai Feu : Eau ;
+Terre : Vent.»{FD}
+Drôle de livre !{FF}
+@2E865
+Cadre
+Des yôkai ? Rien.
+C'est calme, ici.{FD}
+Ailleurs, c'est
+le chaos, non ?{FF}
+@2E8A8
+Homme
+Ces auberges,
+ça requinque !{FD}
+Ailleurs, des
+auberges ont des
+yôkai, paraît-il.{FF}
+@2E8E2
+Garçon
+Depuis peu, un
+truc habite chez
+nous…{FD}
+Je crois que
+c'est un yôkai !{FD}
+Mon petit frère
+fouille à la
+bibliothèque.{FF}
+@2E937
+Moine
+Ce dojo est
+interdit aux
+profanes !{FF}
+@2E961
+Moine
+Namu namu…
+J'entends la voix
+de votre aïeule.{FF}
+@2E986
+Papy
+Ma vieille ?
+Moi, ça va bien !
+Je reste, moi !{FF}
+@2E9B4
+Femme
+Hé, ne doublez
+pas !{FF}
+@2E9CB
+Homme
+Vous savez qu'un
+grand moine est
+ici en retraite ?{FF}
+@2E9FF
+Papy
+Les moines d'ici
+viennent du Kôya.{FF}
+@2EA22
+Mamie
+Ils pourraient
+rappeler Papy ?{FF}
+@2EA3B
+Mamie
+Les moines d'ici
+ont un grand
+pouvoir d'esprit.{FD}
+Ça attire même
+des yôkai,
+paraît-il.{FF}
+@2EA88
+Cadre
+Les moines d'ici
+peuvent appeler
+n'importe qui !{FF}
+@2EAAF
+Moine
+Pour l'exercice,
+nous invoquons.{FD}
+C'est l'art d'en
+appeler les âmes.{FF}
+@2EAEC
+Moine
+Je m'entraîne à
+invoquer, mal…{FD}
+Parlez aussi à
+ce moine-là.{FD}
+Il appelle
+n'importe qui !{FF}
+@2EB3D
+Chat
+Miaou, miaou.{FF}
+@2EB49
+Chat
+Miaou, miaou !{FF}
+@2EB55
+Chien
+Ouaf, ouaf !{FF}
+@2EB5F
+Vache
+Meuh, meuh !{FF}
+@2EB69
+Femme
+C'est qui, ça ?!
+Entrer chez les
+gens comme ça !{FF}
+@2EB8E
+Homme
+T'es jeune : au
+lieu de voler,
+va donc bosser !{FF}
+@2EBB6
+Cadre
+Hmm, eh bien…
+vers Kôchi, on
+a vu un yôkai.{FF}
+@2EBE5
+Papy
+Une photo yôkai
+prise par hasard,
+et hop, en duel !{FD}
+Gagné un étui à
+films ! Inutile,
+je l'ai rendu.{FF}
+@2EC38
+Cadre
+La gare ? Là !
+Vois les rails !{FF}
+@2EC53
+Mamie
+Ici, Wakkanai !{FF}
+@2EC66
+Mamie
+Ici, Sapporo !{FF}
+@2EC78
+Mamie
+Port de Kushiro !{FF}
+@2EC8D
+Mamie
+Aéroport Chitose.{FF}
+@2ECA2
+Mamie
+Ici, Hakodate,
+enfin, la
+banlieue.{FF}
+@2ECC6
+Mamie
+Entrée du Seikan,
+côté Hokkaidô.{FD}
+Ça glisse dedans,
+prudence !{FF}
+@2ED02
+Homme
+Entrée du Seikan,
+côté Honshû.{FD}
+Ça glisse dedans,
+prudence !{FF}
+@2ED3C
+Homme
+Ici, Akita !{FF}
+@2ED4C
+Homme
+Ici, Sendai !{FF}
+@2ED5D
+Homme
+Ici, Yamagata !{FF}
+@2ED6E
+Femme
+Ici, Ryôtsu, le
+port de Sado.{FF}
+@2ED89
+Femme
+Ici, Niigata !{FF}
+@2ED9A
+Homme
+Ici, Nagano !{FF}
+@2EDAA
+Femme
+Ici, Toyama !{FF}
+@2EDBA
+Homme
+Ici, Tôkyô !{FF}
+@2EDCC
+Homme
+Aéroport Narita.{FF}
+@2EDE0
+Homme
+Ici, Kôfu !{FF}
+@2EDF0
+Homme
+Port d'Itô !{FF}
+@2EE04
+Homme
+Port Miyakejima.{FF}
+@2EE1A
+Homme
+Ici, Nagoya !{FF}
+@2EE2A
+Femme
+Ben voyons !
+C'est Osaka, ici
+Retiens ça, coco{FF}
+@2EE4D
+Homme
+Aéroport Kansai,
+le «Kankû» !{FF}
+@2EE6B
+Moine
+Voici le Kôya,
+temple des yôkai.{FF}
+@2EE88
+Homme
+Port Kushimoto.{FF}
+@2EE9C
+Homme
+Ici, Izumo !{FF}
+@2EEAC
+Homme
+Ici, Okayama !{FF}
+@2EEBD
+Homme
+Hiroshima, quoi !{FF}
+@2EECF
+Homme
+Ici, Shimonoseki.{FF}
+@2EEE1
+Homme
+Ici, Kôchi !{FF}
+@2EEF1
+Homme
+Ici, Matsuyama !{FF}
+@2EF02
+Homme
+Ici, Moji. Par le
+tunnel de Kanmon,
+c'est Honshû.{FF}
+@2EF25
+Homme
+Ici, Oita !{FF}
+@2EF36
+Homme
+Ici, Nagasaki !{FF}
+@2EF47
+Homme
+Ici, Miyazaki !{FF}
+@2EF58
+Homme
+Ici, Kagoshima !{FF}
+@2EF69
+Homme
+Naha, bienvenue !{FF}
+@2EF78
+Moine
+Je ne flâne pas :
+c'est ma pause.{FD}
+Tenir la barrière
+est dur, on se
+relaie.{FD}
+Je regrette de
+ne pouvoir aider.{FF}
+@2EFD5
+Moine
+Ici, le mont
+Chichibu, dojo du
+temple des yôkai.{FD}
+Le Kôya ? Bateau
+de Kôchi vers
+Kushimoto, à pied{FF}
